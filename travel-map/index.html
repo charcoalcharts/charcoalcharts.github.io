@@ -1,11 +1,32 @@
+<!DOCTYPE html>
 <html>
-  <title>Travel Map</title>
-<head><meta name="viewport" content="width=device-width, initial-scale=1">
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
-body, html {height: 100%; margin: 0;}
-.bg {background-image: url("travel-map.png"); height: 100%; background-position: center; background-repeat: no-repeat; background-size: cover;}
+body, html {
+  height: 100%;
+  margin: 0;
+}
+
+.bg {
+  /* The image used */
+  background-image: url("travel-map/travel-map.png");
+
+  /* Full height */
+  height: 100%; 
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
 </style>
 </head>
-<body><div class="bg"></div></body>
-</html>
+<body>
 
+<div class="bg"></div>
+
+<p>This example creates a full page background image. Try to resize the browser window to see how it always will cover the full screen (when scrolled to top), and that it scales nicely on all screen sizes.</p>
+
+</body>
+</html>
