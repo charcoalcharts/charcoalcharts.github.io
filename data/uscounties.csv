@@ -1,0 +1,3144 @@
+"county","state","lat","long","population"
+"Los Angeles","California",34.3209,-118.2247,10040682
+"Cook","Illinois",41.8401,-87.8168,5169517
+"Harris","Texas",29.8578,-95.3936,4680609
+"Maricopa","Arizona",33.349,-112.4915,4412779
+"San Diego","California",33.0343,-116.735,3323970
+"Orange","California",33.7031,-117.7609,3170345
+"Miami-Dade","Florida",25.6149,-80.5623,2705528
+"Dallas","Texas",32.7666,-96.7778,2622634
+"Kings","New York",40.6395,-73.9385,2576771
+"Riverside","California",33.7437,-115.9938,2437864
+"Queens","New York",40.7023,-73.8203,2270976
+"Clark","Nevada",36.2152,-115.0135,2228866
+"King","Washington",47.4902,-121.8052,2225064
+"San Bernardino","California",34.8414,-116.1785,2162532
+"Tarrant","Texas",32.7719,-97.2911,2077153
+"Bexar","Texas",29.4489,-98.52,1978826
+"Broward","Florida",26.1523,-80.4871,1942273
+"Santa Clara","California",37.2318,-121.6951,1924379
+"Wayne","Michigan",42.2819,-83.2822,1753059
+"Alameda","California",37.6469,-121.8888,1661584
+"New York","New York",40.7784,-73.9674,1629153
+"Middlesex","Massachusetts",42.4856,-71.3918,1605899
+"Philadelphia","Pennsylvania",40.0077,-75.1339,1581531
+"Sacramento","California",38.4493,-121.3443,1537948
+"Palm Beach","Florida",26.6476,-80.4655,1482057
+"Suffolk","New York",40.8686,-72.8448,1481364
+"Hillsborough","Florida",27.9292,-82.3092,1451358
+"Bronx","New York",40.85,-73.8661,1427056
+"Orange","Florida",28.5144,-81.3235,1373784
+"Nassau","New York",40.7328,-73.5865,1355683
+"Franklin","Ohio",39.9695,-83.0093,1304715
+"Oakland","Michigan",42.6604,-83.3858,1255340
+"Hennepin","Minnesota",45.0045,-93.477,1255296
+"Travis","Texas",30.3344,-97.782,1250884
+"Cuyahoga","Ohio",41.4243,-81.6586,1241475
+"Allegheny","Pennsylvania",40.4688,-79.9812,1218380
+"Fairfax","Virginia",38.8368,-77.277,1149439
+"Contra Costa","California",37.9191,-121.9277,1147788
+"Salt Lake","Utah",40.6673,-111.9236,1146215
+"Mecklenburg","North Carolina",35.2467,-80.8328,1095170
+"Wake","North Carolina",35.7903,-78.6503,1091662
+"Fulton","Georgia",33.7903,-84.467,1051550
+"Montgomery","Maryland",39.1363,-77.2042,1047661
+"Pima","Arizona",32.0974,-111.7899,1038476
+"Collin","Texas",33.188,-96.5724,1006038
+"St. Louis","Missouri",38.6407,-90.4434,996179
+"Fresno","California",36.7582,-119.6493,990204
+"Honolulu","Hawaii",21.5008,-158.1053,979682
+"Pinellas","Florida",27.9199,-82.7256,970985
+"Westchester","New York",41.1624,-73.7561,968738
+"Marion","Indiana",39.7817,-86.1385,957337
+"Milwaukee","Wisconsin",43.0072,-87.9669,949180
+"Duval","Florida",30.3316,-81.6708,948651
+"Fairfield","Connecticut",41.2711,-73.3893,944306
+"Shelby","Tennessee",35.1842,-89.894,936611
+"Bergen","New Jersey",40.9597,-74.0742,931275
+"Gwinnett","Georgia",33.9617,-84.0236,926414
+"DuPage","Illinois",41.852,-88.0856,926005
+"Erie","New York",42.7639,-78.7323,918873
+"Prince George's","Maryland",38.8295,-76.8473,910551
+"Kern","California",35.3426,-118.7301,892458
+"Hartford","Connecticut",41.8064,-72.7329,892153
+"Pierce","Washington",47.0241,-122.1046,891862
+"San Francisco","California",37.7558,-122.4449,874784
+"Macomb","Michigan",42.6957,-82.9323,870893
+"Denton","Texas",33.2055,-97.1168,861690
+"Hidalgo","Texas",26.3967,-98.1811,861137
+"New Haven","Connecticut",41.4106,-72.9321,855733
+"Ventura","California",34.4561,-119.0836,845599
+"El Paso","Texas",31.7686,-106.2348,836915
+"Baltimore","Maryland",39.4627,-76.6393,828193
+"Montgomery","Pennsylvania",40.2108,-75.3673,827180
+"Worcester","Massachusetts",42.3514,-71.9077,826655
+"Middlesex","New Jersey",40.4392,-74.4117,825015
+"Hamilton","Ohio",39.1955,-84.5428,815790
+"Snohomish","Washington",48.0475,-121.6975,811572
+"Multnomah","Oregon",45.5468,-122.4148,809869
+"Suffolk","Massachusetts",42.3334,-71.0719,801162
+"Essex","New Jersey",40.7872,-74.2471,798698
+"Oklahoma","Oklahoma",35.5515,-97.4072,792668
+"Fort Bend","Texas",29.5275,-95.7709,790892
+"Essex","Massachusetts",42.6732,-70.952,787038
+"Jefferson","Kentucky",38.1872,-85.6591,768419
+"San Mateo","California",37.4229,-122.329,765623
+"Cobb","Georgia",33.9415,-84.5767,756653
+"Lee","Florida",26.5779,-81.8337,756570
+"DeKalb","Georgia",33.7715,-84.2264,755287
+"San Joaquin","California",37.9348,-121.2714,751615
+"Monroe","New York",43.1464,-77.6961,743084
+"Denver","Colorado",39.762,-104.8758,715878
+"El Paso","Colorado",38.8321,-104.5255,710499
+"Polk","Florida",27.9489,-81.6977,705735
+"Norfolk","Massachusetts",42.1605,-71.2114,703740
+"District of Columbia","District of Columbia",38.9047,-77.0163,701974
+"Jackson","Missouri",39.0085,-94.3461,700733
+"Lake","Illinois",42.3233,-88.0037,699682
+"Davidson","Tennessee",36.1695,-86.7847,690540
+"Will","Illinois",41.445,-87.9786,689704
+"Bernalillo","New Mexico",35.0514,-106.6702,679037
+"Hudson","New Jersey",40.7371,-74.0779,671923
+"Jefferson","Alabama",33.5543,-86.8964,658615
+"Kent","Michigan",43.0322,-85.5493,652617
+"Tulsa","Oklahoma",36.1211,-95.9415,650291
+"Arapahoe","Colorado",39.6498,-104.3392,649980
+"Providence","Rhode Island",41.8721,-71.58,636161
+"Bucks","Pennsylvania",40.337,-75.1069,627668
+"Utah","Utah",40.1199,-111.6703,621506
+"Monmouth","New Jersey",40.2603,-74.2213,620821
+"Baltimore","Maryland",39.3051,-76.6144,602274
+"Ocean","New Jersey",39.8855,-74.2813,602018
+"Johnson","Kansas",38.8838,-94.8223,597574
+"Washington","Oregon",45.5601,-123.0983,595761
+"Brevard","Florida",28.2936,-80.7323,594001
+"Montgomery","Texas",30.3002,-95.503,590188
+"Jefferson","Colorado",39.5864,-105.2505,578795
+"Anne Arundel","Maryland",39.0065,-76.6051,575421
+"Williamson","Texas",30.6475,-97.6004,570437
+"Douglas","Nebraska",41.2954,-96.1543,565739
+"Delaware","Pennsylvania",39.9167,-75.3991,565328
+"Bristol","Massachusetts",41.7972,-71.1144,563301
+"New Castle","Delaware",39.5768,-75.6527,558306
+"Union","New Jersey",40.6601,-74.3087,555208
+"Ramsey","Minnesota",45.0171,-93.0996,546598
+"Stanislaus","California",37.5591,-120.9977,546235
+"Volusia","Florida",29.0583,-81.1819,546107
+"Lancaster","Pennsylvania",40.0424,-76.2477,543050
+"Dane","Wisconsin",43.0673,-89.4181,542459
+"Summit","Ohio",41.126,-81.5322,540810
+"Pasco","Florida",28.3091,-82.3932,539885
+"Guilford","North Carolina",36.0795,-79.7889,532956
+"Montgomery","Ohio",39.7547,-84.2907,531988
+"Kane","Illinois",41.9388,-88.4286,531756
+"Chester","Pennsylvania",39.9731,-75.7484,521980
+"Plymouth","Massachusetts",41.9512,-70.8114,518597
+"Greenville","South Carolina",34.8941,-82.3706,516126
+"Sedgwick","Kansas",37.6848,-97.461,515416
+"Spokane","Washington",47.6207,-117.404,513402
+"Adams","Colorado",39.8737,-104.3379,509844
+"Camden","New Jersey",39.8035,-74.9597,506721
+"Passaic","New Jersey",41.0343,-74.3008,502763
+"Sonoma","California",38.5289,-122.8881,496801
+"Morris","New Jersey",40.862,-74.5445,492715
+"Lake","Indiana",41.4167,-87.3821,485983
+"Polk","Iowa",41.6855,-93.5735,485418
+"Clark","Washington",45.7791,-122.4826,481950
+"Richmond","New York",40.5808,-74.1524,475596
+"Ada","Idaho",43.4511,-116.2412,469473
+"Prince William","Virginia",38.7029,-77.4809,466834
+"Seminole","Florida",28.717,-81.2363,466695
+"Hampden","Massachusetts",42.1351,-72.6316,466647
+"Knox","Tennessee",35.9932,-83.9371,466184
+"Washoe","Nevada",40.6656,-119.6643,464182
+"Tulare","California",36.2202,-118.8005,463955
+"Onondaga","New York",43.0058,-76.1946,461591
+"Virginia Beach","Virginia",36.7335,-76.0435,450882
+"York","Pennsylvania",39.92,-76.7265,447628
+"Pinal","Arizona",32.9044,-111.3448,447559
+"Burlington","New Jersey",39.8777,-74.6681,446301
+"Santa Barbara","California",34.6729,-120.0169,444895
+"Solano","California",38.27,-121.9329,444538
+"East Baton Rouge","Louisiana",30.5383,-91.0956,443158
+"Jefferson","Louisiana",29.7872,-90.1274,434903
+"Monterey","California",36.2171,-121.2388,432977
+"Lucas","Ohio",41.6197,-83.659,430319
+"Sarasota","Florida",27.1845,-82.3315,427766
+"Dakota","Minnesota",44.6719,-93.0654,425271
+"Cameron","Texas",26.1333,-97.5182,422135
+"Berks","Pennsylvania",40.4163,-75.926,419062
+"Hillsborough","New Hampshire",42.9153,-71.7161,415305
+"Clackamas","Oregon",45.188,-122.2209,415084
+"Richland","South Carolina",34.0218,-80.9031,414660
+"Mobile","Alabama",30.7872,-88.2058,413977
+"Charleston","South Carolina",32.8346,-79.9531,407543
+"Genesee","Michigan",43.0217,-83.7067,406770
+"Loudoun","Virginia",39.0907,-77.6357,405312
+"Waukesha","Wisconsin",43.0182,-88.3045,402637
+"St. Charles","Missouri",38.782,-90.6749,398472
+"Manatee","Florida",27.4719,-82.3153,393847
+"Pulaski","Arkansas",34.77,-92.312,393078
+"Placer","California",39.0634,-120.7177,391799
+"Orleans","Louisiana",30.0687,-89.9288,391249
+"Butler","Ohio",39.4386,-84.5756,382129
+"Orange","New York",41.4021,-74.3056,382077
+"Collier","Florida",26.1107,-81.3475,379345
+"Forsyth","North Carolina",36.1306,-80.2563,378499
+"Lane","Oregon",43.9387,-122.8479,377749
+"Allen","Indiana",41.0909,-85.0666,375520
+"Stark","Ohio",40.8139,-81.3656,371516
+"Washtenaw","Michigan",42.2532,-83.8388,368385
+"Mercer","New Jersey",40.2834,-74.7018,368085
+"Brazoria","Texas",29.1897,-95.4521,368062
+"Madison","Alabama",34.7631,-86.5502,367686
+"Lehigh","Pennsylvania",40.6127,-75.5924,367338
+"Hamilton","Tennessee",35.1808,-85.1648,364718
+"Osceola","Florida",28.0626,-81.1495,363666
+"Nueces","Texas",27.7254,-97.6134,362151
+"Marion","Florida",29.2102,-82.0567,360210
+"Lake","Florida",28.7615,-81.7113,356115
+"Bell","Texas",31.0373,-97.4788,355700
+"Anoka","Minnesota",45.2733,-93.2465,353775
+"Davis","Utah",40.99,-112.1115,350761
+"Westmoreland","Pennsylvania",40.3109,-79.4668,350722
+"Larimer","Colorado",40.6664,-105.4612,350523
+"Chesterfield","Virginia",37.3785,-77.587,348500
+"Douglas","Colorado",39.3297,-104.9296,344280
+"Horry","South Carolina",33.9214,-78.9966,344186
+"Marion","Oregon",44.9033,-122.5846,343742
+"Galveston","Texas",29.3945,-94.9635,337600
+"Cumberland","North Carolina",35.0487,-78.8277,334562
+"Hamilton","Indiana",40.0725,-86.052,330455
+"Somerset","New Jersey",40.5635,-74.6163,330151
+"Henrico","Virginia",37.538,-77.4058,330076
+"Rockland","New York",41.1524,-74.0241,325213
+"Boulder","Colorado",40.0925,-105.3577,324682
+"Rutherford","Tennessee",35.8427,-86.4167,324139
+"Howard","Maryland",39.2507,-76.9312,322407
+"Fayette","Kentucky",38.0423,-84.4587,322200
+"St. Lucie","Florida",27.3772,-80.472,320914
+"Durham","North Carolina",36.036,-78.8766,317665
+"Luzerne","Pennsylvania",41.177,-75.9891,317547
+"Escambia","Florida",30.669,-87.363,316691
+"Lancaster","Nebraska",40.7842,-96.6878,315976
+"Weld","Colorado",40.5548,-104.3925,315389
+"Spartanburg","South Carolina",34.9309,-81.9908,313791
+"Lorain","Ohio",41.2956,-82.151,309134
+"Lubbock","Texas",33.6102,-101.8205,308392
+"Rockingham","New Hampshire",42.9876,-71.1254,308211
+"McHenry","Illinois",42.3244,-88.4523,307291
+"Albany","New York",42.6002,-73.9736,306165
+"St. Louis","Missouri",38.6359,-90.2451,304709
+"Northampton","Pennsylvania",40.7542,-75.3076,304233
+"Lexington","South Carolina",33.9023,-81.2722,295033
+"Cumberland","Maine",43.8465,-70.399,294520
+"Dutchess","New York",41.7651,-73.7429,293524
+"Anchorage","Alaska",61.1508,-149.1091,292090
+"Leon","Florida",30.458,-84.2779,291863
+"Gloucester","New Jersey",39.7173,-75.1414,291745
+"Greene","Missouri",37.258,-93.342,291574
+"Ingham","Michigan",42.5971,-84.3735,290923
+"Chatham","Georgia",32.0043,-81.1329,289649
+"Ottawa","Michigan",42.9598,-85.9961,289162
+"Clayton","Georgia",33.5419,-84.3577,287560
+"Thurston","Washington",46.9258,-122.8332,284698
+"Winnebago","Illinois",42.3363,-89.1609,283635
+"San Luis Obispo","California",35.3871,-120.4044,282517
+"Cleveland","Oklahoma",35.2031,-97.3265,282189
+"Dauphin","Pennsylvania",40.4154,-76.7795,277071
+"Webb","Texas",27.7611,-99.3316,274847
+"York","South Carolina",34.9748,-81.1845,273887
+"Merced","California",37.1919,-120.7177,273661
+"Benton","Arkansas",36.3387,-94.2561,273510
+"Santa Cruz","California",37.0562,-122.0018,273170
+"Erie","Pennsylvania",41.9925,-80.0327,272046
+"St. Joseph","Indiana",41.6167,-86.2899,270881
+"Kitsap","Washington",47.613,-122.6716,268945
+"Alachua","Florida",29.6748,-82.3577,268105
+"New London","Connecticut",41.4867,-72.1014,266868
+"Atlantic","New Jersey",39.4777,-74.661,264650
+"Madison","Illinois",38.8297,-89.9049,264403
+"Kalamazoo","Michigan",42.2455,-85.5312,264322
+"Brown","Wisconsin",44.4525,-88.0037,262559
+"St. Clair","Illinois",38.4703,-89.9284,261186
+"Buncombe","North Carolina",35.6112,-82.5301,259576
+"Marin","California",38.0735,-122.7235,259441
+"Washington","Minnesota",45.0388,-92.8838,259072
+"St. Tammany","Louisiana",30.4102,-89.9583,258447
+"Frederick","Maryland",39.4722,-77.398,255955
+"St. Johns","Florida",29.9016,-81.4407,255410
+"Weber","Utah",41.2698,-111.9134,255284
+"McLennan","Texas",31.5524,-97.2018,254045
+"Cherokee","Georgia",34.2439,-84.4762,253780
+"Harford","Maryland",39.5611,-76.3171,253736
+"Jefferson","Texas",29.8841,-94.1629,253136
+"Cumberland","Pennsylvania",40.1636,-77.2655,251487
+"Yakima","Washington",46.457,-120.7385,250649
+"Clay","Missouri",39.3105,-94.4209,246480
+"Norfolk","Virginia",36.8945,-76.259,244300
+"Lafayette","Louisiana",30.2068,-92.0639,243692
+"Caddo","Louisiana",32.5806,-93.8823,243243
+"Chesapeake","Virginia",36.6778,-76.3023,242647
+"Forsyth","Georgia",34.2255,-84.1251,236605
+"Arlington","Virginia",38.8786,-77.1011,236434
+"Washington","Arkansas",35.9791,-94.2156,236198
+"Union","North Carolina",34.9884,-80.5307,235767
+"Hinds","Mississippi",32.2667,-90.4429,235604
+"Warren","Ohio",39.4277,-84.1668,232540
+"Yavapai","Arizona",34.5998,-112.5537,232396
+"Williamson","Tennessee",35.8938,-86.8987,232380
+"New Hanover","North Carolina",34.2328,-77.8847,231448
+"Sussex","Delaware",38.6606,-75.39,230249
+"Smith","Texas",32.375,-95.2692,230184
+"Henry","Georgia",33.453,-84.1542,229994
+"Lake","Ohio",41.6963,-81.2373,229755
+"Saratoga","New York",43.1074,-73.8639,229313
+"Richmond","Virginia",37.5295,-77.4756,229233
+"Oneida","New York",43.2417,-75.4358,229074
+"Mahoning","Ohio",41.0146,-80.7763,228452
+"Montgomery","Alabama",32.2203,-86.2076,226451
+"Brazos","Texas",30.6608,-96.3024,226370
+"Linn","Iowa",42.079,-91.599,225601
+"Jefferson","Missouri",38.2611,-90.5377,224777
+"Whatcom","Washington",48.8258,-121.7196,224538
+"Canyon","Idaho",43.6251,-116.7093,223890
+"Butte","California",39.6669,-121.6007,223344
+"Hays","Texas",30.0579,-98.0312,222827
+"Gaston","North Carolina",35.2944,-81.1803,222119
+"Berkeley","South Carolina",33.1973,-79.9522,222103
+"Jackson","Oregon",42.4322,-122.7285,218781
+"Yolo","California",38.6866,-121.9016,218774
+"Baldwin","Alabama",30.7276,-87.7226,218289
+"Doña Ana","New Mexico",32.3526,-106.8327,217696
+"Shelby","Alabama",33.2643,-86.6607,216350
+"Clay","Florida",29.9831,-81.8579,215294
+"Barnstable","Massachusetts",41.7244,-70.2904,213505
+"Yuma","Arizona",32.7695,-113.9057,211931
+"Cabarrus","North Carolina",35.3868,-80.5519,211605
+"Mohave","Arizona",35.7041,-113.7579,210998
+"Lackawanna","Pennsylvania",41.4367,-75.6093,210162
+"Niagara","New York",43.2001,-78.7453,210145
+"Champaign","Illinois",40.1401,-88.1992,210006
+"Tuscaloosa","Alabama",33.2896,-87.5251,208854
+"Okaloosa","Florida",30.6913,-86.5917,207430
+"Washington","Pennsylvania",40.1894,-80.2483,207081
+"Harrison","Mississippi",30.5122,-89.1161,206169
+"York","Maine",43.4782,-70.7144,206074
+"Clermont","Ohio",39.0476,-84.1517,205616
+"Delaware","Ohio",40.2784,-83.0049,205454
+"Elkhart","Indiana",41.5974,-85.8587,205184
+"Montgomery","Tennessee",36.4969,-87.3829,204992
+"Johnston","North Carolina",35.5178,-78.3657,203308
+"Calcasieu","Louisiana",30.2293,-93.358,202858
+"Richmond","Georgia",33.3596,-82.0736,202178
+"Hall","Georgia",34.3169,-83.8197,201434
+"Hawaii","Hawaii",19.5985,-155.5185,201350
+"Benton","Washington",46.2398,-119.5112,200715
+"Anderson","South Carolina",34.5193,-82.6378,200183
+"St. Louis","Minnesota",47.6032,-92.4707,199499
+"Trumbull","Ohio",41.3172,-80.7611,199144
+"Onslow","North Carolina",34.7321,-77.4321,198377
+"Sangamon","Illinois",39.7582,-89.6589,195963
+"Racine","Wisconsin",42.7475,-88.0612,195859
+"Muscogee","Georgia",32.51,-84.8771,195418
+"Tippecanoe","Indiana",40.3886,-86.8941,193302
+"Broome","New York",42.1602,-75.8196,192042
+"Deschutes","Oregon",43.915,-121.2282,191749
+"Minnehaha","South Dakota",43.6742,-96.7915,191682
+"Saginaw","Michigan",43.335,-84.0532,191166
+"Livingston","Michigan",42.6029,-83.9115,190832
+"Hernando","Florida",28.5535,-82.4245,190700
+"El Dorado","California",38.7787,-120.5247,190345
+"Beaufort","South Carolina",32.3855,-80.7302,189732
+"Butler","Pennsylvania",40.912,-79.9133,187798
+"Sumner","Tennessee",36.4694,-86.4604,187680
+"Outagamie","Wisconsin",44.4161,-88.4649,186829
+"Charlotte","Florida",26.9055,-81.9123,185926
+"Sarpy","Nebraska",41.1129,-96.1119,183956
+"DeSoto","Mississippi",34.8753,-89.9912,182256
+"Vanderburgh","Indiana",38.0249,-87.5859,181548
+"Litchfield","Connecticut",41.7925,-73.2453,181143
+"Peoria","Illinois",40.788,-89.76,181111
+"Kanawha","West Virginia",38.3366,-81.5281,181014
+"Imperial","California",33.0395,-115.3653,180580
+"Bay","Florida",30.2652,-85.6203,180076
+"Pitt","North Carolina",35.5933,-77.3745,179961
+"Cass","North Dakota",46.933,-97.248,179937
+"Boone","Missouri",38.9906,-92.3097,179704
+"Santa Rosa","Florida",30.7004,-87.0219,179587
+"Newport News","Virginia",37.1051,-76.5185,179582
+"Ellis","Texas",32.3484,-96.7946,179484
+"Shasta","California",40.7637,-122.0405,179267
+"Kent","Delaware",39.086,-75.5686,179124
+"Medina","Ohio",41.1176,-81.8997,179116
+"Iredell","North Carolina",35.807,-80.8734,178853
+"Ulster","New York",41.8881,-74.2586,178371
+"Shawnee","Kansas",39.0415,-95.7565,177293
+"Licking","Ohio",40.0916,-82.4831,175409
+"Muskegon","Michigan",43.2912,-86.152,173679
+"Scott","Iowa",41.6371,-90.6233,172938
+"McLean","Illinois",40.4909,-88.8473,172164
+"Washington","Utah",37.2804,-113.5048,172127
+"Johnson","Texas",32.379,-97.3665,171359
+"Midland","Texas",31.8691,-102.0316,171238
+"Winnebago","Wisconsin",44.0689,-88.6447,170924
+"Aiken","South Carolina",33.5443,-81.6347,169947
+"Porter","Indiana",41.4603,-87.0671,169482
+"Kenosha","Wisconsin",42.5769,-88.0424,168998
+"Monroe","Pennsylvania",41.0581,-75.3395,168824
+"Carroll","Maryland",39.5629,-77.0225,168233
+"Greene","Ohio",39.6915,-83.8899,167867
+"Pueblo","Colorado",38.1735,-104.5127,167412
+"Davidson","North Carolina",35.7933,-80.2128,166837
+"Hendricks","Indiana",39.7695,-86.51,166806
+"Maui","Hawaii",20.8596,-156.5649,166657
+"Kenton","Kentucky",38.9334,-84.5333,166552
+"Alamance","North Carolina",36.0437,-79.3994,166144
+"Wyandotte","Kansas",39.1146,-94.7646,165447
+"Beaver","Pennsylvania",40.6823,-80.3493,164781
+"Paulding","Georgia",33.9206,-84.8673,164440
+"Kent","Rhode Island",41.6721,-71.5931,164122
+"Lee","Alabama",32.6011,-85.3555,163461
+"Chittenden","Vermont",44.4608,-73.0808,163414
+"Guadalupe","Texas",29.583,-97.9486,163030
+"Middlesex","Connecticut",41.4632,-72.5351,162742
+"Rock","Wisconsin",42.6712,-89.0716,162532
+"Portage","Ohio",41.1677,-81.1974,162476
+"Centre","Pennsylvania",40.9193,-77.82,162264
+"Ector","Texas",31.8692,-102.5427,162067
+"Kootenai","Idaho",47.6744,-116.7018,161676
+"Charles","Maryland",38.5073,-76.9922,161448
+"Hampshire","Massachusetts",42.3402,-72.6638,161361
+"Dorchester","South Carolina",33.0793,-80.4067,161309
+"Martin","Florida",27.0775,-80.4315,160420
+"Yellowstone","Montana",45.9373,-108.2744,160390
+"Stearns","Minnesota",45.5521,-94.613,159788
+"St. Clair","Michigan",42.9341,-82.6806,159285
+"Rensselaer","New York",42.7111,-73.5097,159013
+"Catawba","North Carolina",35.662,-81.2151,158507
+"Alexandria","Virginia",38.8185,-77.0861,158309
+"Jackson","Michigan",42.2485,-84.4234,158174
+"Sullivan","Tennessee",36.5129,-82.3042,157707
+"Indian River","Florida",27.6943,-80.6062,156964
+"Olmsted","Minnesota",44.0038,-92.4018,156446
+"Fairfield","Ohio",39.7516,-82.6306,156204
+"Johnson","Indiana",39.49,-86.1016,156148
+"Madera","California",37.2181,-119.7626,155925
+"Houston","Georgia",32.459,-83.6662,155317
+"Schenectady","New York",42.8181,-74.0586,155086
+"Franklin","Pennsylvania",39.9274,-77.7213,154954
+"Ouachita","Louisiana",32.4784,-92.1549,154679
+"Columbia","Georgia",33.5441,-82.2641,154257
+"Rankin","Mississippi",32.2641,-89.9458,154119
+"Berrien","Michigan",41.9547,-86.4123,153797
+"Bibb","Georgia",32.8065,-83.6974,153026
+"Mesa","Colorado",39.0183,-108.4665,152962
+"Penobscot","Maine",45.4006,-68.6495,151696
+"Kings","California",36.0753,-119.8155,151090
+"Tolland","Connecticut",41.855,-72.3365,150947
+"Merrimack","New Hampshire",43.2975,-71.6802,150902
+"Johnson","Iowa",41.6715,-91.5881,150819
+"Washington","Maryland",39.6036,-77.814,150575
+"Santa Fe","New Mexico",35.5069,-105.9763,150319
+"Stafford","Virginia",38.4207,-77.458,150185
+"Cumberland","New Jersey",39.3738,-75.1107,150085
+"Monroe","Michigan",41.9291,-83.5394,150000
+"Comal","Texas",29.8082,-98.2783,148921
+"Citrus","Florida",28.8489,-82.4794,147938
+"Monroe","Indiana",39.1609,-86.5231,147318
+"Scott","Minnesota",44.6485,-93.5359,147201
+"Orange","North Carolina",36.0611,-79.1207,146354
+"Coweta","Georgia",33.3534,-84.7634,145839
+"Douglas","Georgia",33.7018,-84.768,145063
+"Sandoval","New Mexico",35.6886,-106.8659,144954
+"Canadian","Oklahoma",35.5424,-97.9824,144610
+"Randolph","North Carolina",35.7103,-79.806,143460
+"Jackson","Mississippi",30.5423,-88.6357,142872
+"Rock Island","Illinois",41.4673,-90.5674,142801
+"Coconino","Arizona",35.8387,-111.7705,142254
+"Schuylkill","Pennsylvania",40.7058,-76.2159,141935
+"Sussex","New Jersey",41.1393,-74.6908,140996
+"Rowan","North Carolina",35.6394,-80.5248,140978
+"Wilson","Tennessee",36.1549,-86.2977,140604
+"Livingston","Louisiana",30.4401,-90.7279,140524
+"Lebanon","Pennsylvania",40.3672,-76.4577,140410
+"Napa","California",38.5065,-122.3305,138572
+"Parker","Texas",32.7776,-97.8051,138447
+"Florence","South Carolina",34.0245,-79.703,138237
+"Taylor","Texas",32.3015,-99.8902,137521
+"Brunswick","North Carolina",34.071,-78.2377,137303
+"Wright","Minnesota",45.1739,-93.9631,136387
+"Humboldt","California",40.6993,-123.8756,136101
+"Randall","Texas",34.9659,-101.8969,136005
+"Washington","Wisconsin",43.3685,-88.2307,135529
+"Marathon","Wisconsin",44.8983,-89.7591,135485
+"Hampton","Virginia",37.0551,-76.363,135169
+"Spotsylvania","Virginia",38.1849,-77.6561,134683
+"Clark","Ohio",39.9168,-83.7839,134409
+"Harnett","North Carolina",35.3688,-78.8693,134328
+"Calhoun","Michigan",42.2465,-85.0056,133943
+"Tangipahoa","Louisiana",30.6266,-90.4057,133753
+"Grayson","Texas",33.6268,-96.6777,133527
+"Tazewell","Illinois",40.5075,-89.5134,132524
+"Boone","Kentucky",38.9699,-84.7278,132368
+"Wichita","Texas",33.988,-98.7036,132154
+"Black Hawk","Iowa",42.4701,-92.3088,131813
+"Robeson","North Carolina",34.6402,-79.1039,131656
+"Blount","Tennessee",35.6872,-83.9255,131641
+"Cambria","Pennsylvania",40.4953,-78.7135,131611
+"Warren","Kentucky",36.9936,-86.4238,130836
+"Wood","Ohio",41.3617,-83.623,130662
+"Rapides","Louisiana",31.1986,-92.5332,130376
+"Fayette","Pennsylvania",39.9201,-79.6474,130329
+"Strafford","New Hampshire",43.297,-71.0289,130161
+"Sumter","Florida",28.7048,-82.081,129938
+"Kaufman","Texas",32.5993,-96.2878,129792
+"Madison","Indiana",40.1617,-85.7194,129486
+"Washington","Tennessee",36.2933,-82.4974,128874
+"Sebastian","Arkansas",35.1988,-94.2743,127670
+"Chautauqua","New York",42.2281,-79.3663,127584
+"Kendall","Illinois",41.5906,-88.4288,127583
+"Skagit","Washington",48.4793,-121.7305,127442
+"Linn","Oregon",44.4887,-122.5344,127216
+"Bossier","Louisiana",32.6784,-93.6049,126952
+"Clarke","Georgia",33.9512,-83.3673,126952
+"Cochise","Arizona",31.8795,-109.7512,126442
+"Cache","Utah",41.7224,-111.7436,126336
+"Washington","Rhode Island",41.4697,-71.6225,126139
+"Berkshire","Massachusetts",42.3707,-73.2064,125927
+"San Juan","New Mexico",36.5085,-108.3206,125608
+"Pickens","South Carolina",34.8873,-82.7253,125381
+"Hunterdon","New Jersey",40.5673,-74.9122,125063
+"Ascension","Louisiana",30.2036,-90.9113,125061
+"Faulkner","Arkansas",35.147,-92.332,124800
+"Wayne","North Carolina",35.364,-78.004,123785
+"Gregg","Texas",32.4805,-94.817,123633
+"Blair","Pennsylvania",40.4811,-78.3484,122495
+"Kennebec","Maine",44.4091,-69.7673,122158
+"Comanche","Oklahoma",34.6621,-98.4717,121374
+"Douglas","Kansas",38.8847,-95.2926,121304
+"Richland","Ohio",40.7747,-82.5365,121043
+"Saline","Arkansas",34.6467,-92.6766,120990
+"Jasper","Missouri",37.2035,-94.3406,120528
+"Morgan","Alabama",34.4535,-86.8529,119352
+"Missoula","Montana",47.0365,-113.9237,119062
+"Carroll","Georgia",33.5828,-85.0798,118692
+"Tom Green","Texas",31.4044,-100.4622,118645
+"Potter","Texas",35.4013,-101.8941,118323
+"La Crosse","Wisconsin",43.9066,-91.1152,118168
+"Oswego","New York",43.4269,-76.1413,117630
+"Berkeley","West Virginia",39.4641,-78.0275,117615
+"Clark","Indiana",38.4772,-85.7073,117410
+"Allegan","Michigan",42.5913,-85.8884,117104
+"Bonneville","Idaho",43.3877,-111.6148,116970
+"Windham","Connecticut",41.83,-71.9874,116657
+"Lowndes","Georgia",30.8338,-83.2677,116436
+"Henderson","North Carolina",35.3363,-82.48,116298
+"Wayne","Ohio",40.8289,-81.888,116063
+"Sheboygan","Wisconsin",43.7212,-87.9454,115152
+"Delaware","Indiana",40.2275,-85.3969,114461
+"Calhoun","Alabama",33.7714,-85.826,114324
+"Lycoming","Pennsylvania",41.3434,-77.0645,114014
+"Fayette","Georgia",33.4139,-84.4943,113544
+"St. Mary's","Maryland",38.3024,-76.6059,113182
+"Flagler","Florida",29.4614,-81.3136,112854
+"Pennington","South Dakota",44.0037,-102.8238,112504
+"Jefferson","New York",44.0495,-75.9208,111454
+"Gallatin","Montana",45.5404,-111.1704,111401
+"Terrebonne","Louisiana",29.4148,-90.8663,111297
+"Mercer","Pennsylvania",41.3022,-80.2577,110519
+"Navajo","Arizona",35.3996,-110.3214,110271
+"LaPorte","Indiana",41.546,-86.74,110026
+"Douglas","Oregon",43.2797,-123.1665,110015
+"Kankakee","Illinois",41.1377,-87.8618,109924
+"Newton","Georgia",33.555,-83.8502,109835
+"Ontario","New York",42.8528,-77.2998,109774
+"Eaton","Michigan",42.5961,-84.8383,109730
+"Hardin","Kentucky",37.6979,-85.9634,109627
+"Craighead","Arkansas",35.8308,-90.6328,109081
+"LaSalle","Illinois",41.344,-88.8859,108998
+"Albemarle","Virginia",38.0229,-78.5567,108819
+"Cowlitz","Washington",46.1932,-122.681,108399
+"St. Lawrence","New York",44.4964,-75.069,108352
+"Androscoggin","Maine",44.1658,-70.2065,107958
+"Matanuska-Susitna","Alaska",62.3155,-149.5728,107360
+"Vigo","Indiana",39.4306,-87.39,107305
+"Bradley","Tennessee",35.1541,-84.8596,106924
+"Sumter","South Carolina",33.9162,-80.3823,106675
+"Hanover","Virginia",37.7601,-77.491,106538
+"Bartow","Georgia",34.2377,-84.8403,106456
+"Monongalia","West Virginia",39.6303,-80.0466,106196
+"Yamhill","Oregon",45.2327,-123.3081,106087
+"Miami","Ohio",40.0535,-84.2289,106074
+"Warren","New Jersey",40.8572,-74.9973,105730
+"Madison","Mississippi",32.6347,-90.0337,105482
+"Houston","Alabama",31.1532,-85.3025,105319
+"Macon","Illinois",39.86,-88.9615,104688
+"Cass","Missouri",38.647,-94.3549,104687
+"DeKalb","Illinois",41.8935,-88.7703,104588
+"Highlands","Florida",27.3434,-81.341,104574
+"Eau Claire","Wisconsin",44.7268,-91.286,104132
+"Whitfield","Georgia",34.8056,-84.9672,104122
+"Franklin","Missouri",38.4111,-91.075,103629
+"Carver","Minnesota",44.8207,-93.8026,103561
+"Bay","Michigan",43.7074,-83.9921,103506
+"Walworth","Wisconsin",42.6685,-88.5419,103391
+"Wicomico","Maryland",38.3733,-75.6208,103222
+"Cecil","Maryland",39.5712,-75.9407,102889
+"Platte","Missouri",39.3803,-94.7738,102848
+"Allen","Ohio",40.7715,-84.1058,102808
+"Etowah","Alabama",34.0453,-86.0348,102721
+"Woodbury","Iowa",42.3897,-96.0448,102687
+"Fond du Lac","Wisconsin",43.7536,-88.4882,102654
+"Adams","Pennsylvania",39.8715,-77.2179,102627
+"Columbiana","Ohio",40.7684,-80.7772,102514
+"Craven","North Carolina",35.1249,-77.0939,102290
+"Tompkins","New York",42.452,-76.4736,102237
+"Flathead","Montana",48.2951,-114.0497,102001
+"Rockwall","Texas",32.8978,-96.4079,101175
+"Daviess","Kentucky",37.7318,-87.0873,101001
+"Nevada","California",39.3013,-120.7688,99417
+"Laramie","Wyoming",41.3071,-104.6896,99272
+"Moore","North Carolina",35.3106,-79.4814,99263
+"Roanoke","Virginia",37.2785,-79.9581,99122
+"Garland","Arkansas",34.5767,-93.1504,99043
+"Putnam","New York",41.4267,-73.7495,98714
+"Montgomery","Virginia",37.1743,-80.3872,98495
+"Fairbanks North Star","Alaska",64.8078,-146.5654,98455
+"Lenawee","Michigan",41.8951,-84.0664,98310
+"Sevier","Tennessee",35.7846,-83.5242,98007
+"Lafourche","Louisiana",29.5661,-90.4256,97980
+"Madison","Tennessee",35.6082,-88.8385,97838
+"Floyd","Georgia",34.2632,-85.2143,97805
+"Cleveland","North Carolina",35.3341,-81.5555,97765
+"Ashtabula","Ohio",41.7074,-80.7483,97416
+"Story","Iowa",42.0362,-93.465,97355
+"Dubuque","Iowa",42.4688,-90.8825,97193
+"Limestone","Alabama",34.8101,-86.9814,96921
+"Grant","Washington",47.2057,-119.4517,96648
+"Sutter","California",39.0346,-121.6948,96315
+"Hunt","Texas",33.1236,-96.0855,96202
+"Marshall","Alabama",34.367,-86.3066,96137
+"Sherburne","Minnesota",45.4439,-93.7746,96015
+"Steuben","New York",42.2678,-77.3838,95843
+"Burleigh","North Dakota",46.9775,-100.4687,95509
+"Lancaster","South Carolina",34.6867,-80.7054,95378
+"Portsmouth","Virginia",36.8468,-76.354,94961
+"Maury","Tennessee",35.6169,-87.077,94615
+"Nash","North Carolina",35.9673,-77.9864,94287
+"Roanoke","Virginia",37.2693,-80.068,94103
+"Franklin","Washington",46.5347,-118.8989,93681
+"Geauga","Ohio",41.4995,-81.1786,93657
+"Bowie","Texas",33.4458,-94.4234,93622
+"Campbell","Kentucky",38.9465,-84.3795,93608
+"Pottawattamie","Iowa",41.3366,-95.5423,93478
+"Cabell","West Virginia",38.4203,-82.2417,93328
+"Walton","Georgia",33.7816,-83.7339,93284
+"Lauderdale","Alabama",34.9014,-87.654,92870
+"Cape May","New Jersey",39.1496,-74.8002,92701
+"Grand Traverse","Michigan",44.6688,-85.5605,92640
+"Benton","Oregon",44.4918,-123.4293,92168
+"Tuscarawas","Ohio",40.4409,-81.4738,92165
+"Calvert","Maryland",38.5434,-76.5687,92094
+"Madison","Kentucky",37.7202,-84.278,92090
+"Rogers","Oklahoma",36.3715,-95.6043,92052
+"Victoria","Texas",28.7963,-96.9715,92044
+"Suffolk","Virginia",36.6953,-76.6398,91383
+"Northumberland","Pennsylvania",40.8519,-76.7095,91234
+"Rockingham","North Carolina",36.396,-79.775,91051
+"Dallas","Iowa",41.6849,-94.0398,90418
+"Grafton","New Hampshire",43.9407,-71.8208,90331
+"Rockdale","Georgia",33.6543,-84.0266,90155
+"Burke","North Carolina",35.7496,-81.7048,90148
+"Wayne","New York",43.1566,-77.0294,90103
+"St. Croix","Wisconsin",45.034,-92.4526,89702
+"Ozaukee","Wisconsin",43.384,-87.951,89179
+"St. Clair","Alabama",33.7157,-86.3146,88929
+"Dougherty","Georgia",31.5334,-84.2163,88696
+"Frederick","Virginia",39.2046,-78.2626,88054
+"Lapeer","Michigan",43.0901,-83.2218,87975
+"Buchanan","Missouri",39.6598,-94.8059,87904
+"Dodge","Wisconsin",43.4163,-88.7075,87569
+"Christian","Missouri",36.9696,-93.1889,87324
+"Angelina","Texas",31.2548,-94.6119,87119
+"Mendocino","California",39.4402,-123.3915,87110
+"Josephine","Oregon",42.3655,-123.5555,87097
+"Orangeburg","South Carolina",33.439,-80.8003,86953
+"Bastrop","Texas",30.1036,-97.312,86839
+"Bannock","Idaho",42.6685,-112.2246,86742
+"Twin Falls","Idaho",42.356,-114.6672,86198
+"Liberty","Texas",30.1516,-94.8122,86173
+"Lawrence","Pennsylvania",40.9912,-80.3347,86148
+"Muskingum","Ohio",39.9654,-81.9444,86033
+"Nassau","Florida",30.6107,-81.8016,85762
+"Lee","Mississippi",34.2899,-88.6804,85304
+"Crawford","Pennsylvania",41.6847,-80.1062,85074
+"Glynn","Georgia",31.2309,-81.5407,85008
+"Jefferson","Wisconsin",43.0208,-88.7759,84837
+"Polk","Oregon",44.9035,-123.4132,84730
+"Lincoln","North Carolina",35.4856,-81.2235,84580
+"Indiana","Pennsylvania",40.652,-79.0876,84463
+"Wood","West Virginia",39.2112,-81.515,84387
+"Island","Washington",48.163,-122.5481,84187
+"Chemung","New York",42.1412,-76.76,84115
+"Orange","Texas",30.1213,-93.8939,83776
+"Midland","Michigan",43.6468,-84.3881,83445
+"Cullman","Alabama",34.1319,-86.8676,83345
+"Bartholomew","Indiana",39.206,-85.8976,83280
+"St. Landry","Louisiana",30.5989,-92.0058,82786
+"Newport","Rhode Island",41.5566,-71.2365,82731
+"Howard","Indiana",40.4836,-86.1169,82486
+"Caldwell","North Carolina",35.953,-81.5464,82056
+"Henderson","Texas",32.2119,-95.8536,81969
+"Payne","Oklahoma",36.0773,-96.9756,81912
+"Wilson","North Carolina",35.7051,-77.9187,81579
+"Cascade","Montana",47.308,-111.347,81576
+"Elmore","Alabama",32.5966,-86.1491,81526
+"Leavenworth","Kansas",39.1993,-95.038,81499
+"Barrow","Georgia",33.9932,-83.7127,81294
+"Rockingham","Virginia",38.512,-78.8758,81138
+"Lynchburg","Virginia",37.4003,-79.1909,80970
+"Bullitt","Kentucky",37.9701,-85.6959,80921
+"Clinton","New York",44.7462,-73.6782,80320
+"Wagoner","Oklahoma",35.9611,-95.5212,80264
+"Talladega","Alabama",33.3801,-86.1659,80244
+"Natrona","Wyoming",42.9622,-106.7985,80067
+"Clearfield","Pennsylvania",41,-78.4742,79466
+"Lewis","Washington",46.5778,-122.3927,79430
+"Kosciusko","Indiana",41.2441,-85.8607,79156
+"Manitowoc","Wisconsin",44.1199,-87.8097,78977
+"Bedford","Virginia",37.3152,-79.5242,78965
+"Clinton","Michigan",42.9437,-84.6015,78957
+"Cape Girardeau","Missouri",37.384,-89.6844,78834
+"White","Arkansas",35.2563,-91.7456,78725
+"Putnam","Tennessee",36.1408,-85.4952,78542
+"Oconee","South Carolina",34.7535,-83.0659,78314
+"Floyd","Indiana",38.3188,-85.907,77879
+"Bulloch","Georgia",32.3968,-81.7432,77719
+"Yuba","California",39.269,-121.3513,77524
+"Umatilla","Oregon",45.5919,-118.7369,77319
+"Cayuga","New York",42.9175,-76.5545,76958
+"Ross","Ohio",39.3376,-83.057,76816
+"Cattaraugus","New York",42.2486,-78.6788,76750
+"Vermilion","Illinois",40.1834,-87.7328,76704
+"Chelan","Washington",47.8692,-120.619,76653
+"Cole","Missouri",38.5054,-92.2816,76630
+"Hancock","Indiana",39.8236,-85.7732,76614
+"Valencia","New Mexico",34.7155,-106.809,76518
+"Anderson","Tennessee",36.1185,-84.1985,76513
+"Clallam","Washington",48.0493,-123.928,76482
+"Cheshire","New Hampshire",42.9194,-72.2512,76040
+"James City","Virginia",37.3288,-76.7789,76032
+"Hancock","Ohio",41.0019,-83.6665,75765
+"Augusta","Virginia",38.1644,-79.1339,75754
+"Coryell","Texas",31.3909,-97.7992,75576
+"Lauderdale","Mississippi",32.4043,-88.6626,75557
+"Scioto","Ohio",38.8039,-82.9929,75441
+"Van Buren","Michigan",42.2513,-86.0189,75416
+"Sullivan","New York",41.7164,-74.7681,75329
+"Forrest","Mississippi",31.1889,-89.2579,75162
+"Monroe","Florida",25.3185,-81.1087,75137
+"Raleigh","West Virginia",37.7714,-81.2487,74452
+"Erie","Ohio",41.3641,-82.6194,74419
+"Riley","Kansas",39.2966,-96.7352,74059
+"Somerset","Pennsylvania",39.9725,-79.0283,73844
+"Putnam","Florida",29.6086,-81.7443,73784
+"Grays Harbor","Washington",47.1502,-123.7736,73769
+"Lonoke","Arkansas",34.7543,-91.8888,73163
+"Wood","Wisconsin",44.4553,-90.0416,72892
+"Chatham","North Carolina",35.7026,-79.2553,72853
+"Pottawatomie","Oklahoma",35.2066,-96.9484,72511
+"Walker","Texas",30.739,-95.5723,72295
+"McKinley","New Mexico",35.5807,-108.2618,71956
+"Kauai","Hawaii",22.0398,-159.5966,71949
+"Surry","North Carolina",36.4146,-80.688,71904
+"Apache","Arizona",35.3955,-109.4888,71714
+"Creek","Oklahoma",35.9026,-96.3708,71505
+"Christian","Kentucky",36.8942,-87.4904,71470
+"DeKalb","Alabama",34.4598,-85.8041,71430
+"Walton","Florida",30.6436,-86.1696,71049
+"Allegany","Maryland",39.6215,-78.6976,71002
+"Madison","New York",42.9128,-75.6697,70990
+"Robertson","Tennessee",36.5255,-86.8706,70982
+"Columbia","Florida",30.2242,-82.6215,70898
+"Portage","Wisconsin",44.476,-89.5014,70822
+"Iberia","Louisiana",29.8965,-91.7301,70763
+"Greenwood","South Carolina",34.1537,-82.1259,70672
+"Franklin","Massachusetts",42.5831,-72.5918,70529
+"Jackson","Georgia",34.1339,-83.5664,70467
+"Isabella","Michigan",43.6406,-84.8468,70363
+"Lea","New Mexico",32.7921,-103.4125,70359
+"Fauquier","Virginia",38.7387,-77.8092,70353
+"Grand Forks","North Dakota",47.9219,-97.4569,70243
+"Morgan","Indiana",39.4815,-86.4462,70141
+"Troup","Georgia",33.0335,-85.0283,70095
+"Tooele","Utah",40.4488,-113.1311,69740
+"Broomfield","Colorado",39.9542,-105.0526,69444
+"Walker","Georgia",34.7356,-85.301,69398
+"Carteret","North Carolina",34.8357,-76.6589,69301
+"Greene","Tennessee",36.1753,-82.8458,69077
+"Ward","North Dakota",48.2217,-101.5418,68962
+"Lewis and Clark","Montana",47.1224,-112.3905,68714
+"Muskogee","Oklahoma",35.6161,-95.3795,68451
+"York","Virginia",37.2431,-76.5635,68389
+"Wilkes","North Carolina",36.2062,-81.163,68341
+"Jones","Mississippi",31.6226,-89.1688,68307
+"Shiawassee","Michigan",42.9537,-84.1467,68176
+"Jefferson","Arkansas",34.2683,-91.9304,68123
+"Franklin","North Carolina",36.0828,-78.2857,68027
+"Wise","Texas",33.2159,-97.6545,67884
+"Harrison","West Virginia",39.2835,-80.3798,67620
+"Klamath","Oregon",42.6863,-121.6501,67606
+"Aroostook","Maine",46.6589,-68.5989,67431
+"Belmont","Ohio",40.0158,-80.9884,67424
+"Blue Earth","Minnesota",44.0346,-94.067,67368
+"Catoosa","Georgia",34.9036,-85.1382,67181
+"Laurens","South Carolina",34.4834,-82.0057,66990
+"San Patricio","Texas",28.0092,-97.5188,66969
+"Williamson","Illinois",37.7303,-88.9299,66929
+"Butler","Kansas",37.7813,-96.8391,66890
+"Boone","Indiana",40.0508,-86.4687,66875
+"Darlington","South Carolina",34.3325,-79.9577,66858
+"Otero","New Mexico",32.6132,-105.7414,66804
+"Rutherford","North Carolina",35.4026,-81.9198,66741
+"St. Francois","Missouri",37.8103,-90.4723,66653
+"Rice","Minnesota",44.3543,-93.2967,66549
+"Harrison","Texas",32.5481,-94.3715,66547
+"Oldham","Kentucky",38.3994,-85.4483,66508
+"Marquette","Michigan",46.4313,-87.6416,66403
+"Wayne","Indiana",39.8644,-85.0099,66176
+"Grant","Indiana",40.5158,-85.6547,66055
+"Spalding","Georgia",33.2609,-84.2841,66043
+"Athens","Ohio",39.3339,-82.0452,65945
+"Jefferson","Ohio",40.385,-80.761,65943
+"Kershaw","South Carolina",34.3388,-80.5902,65926
+"Adams","Illinois",39.9879,-91.1886,65670
+"McCracken","Kentucky",37.054,-88.7128,65485
+"Columbia","Pennsylvania",41.0486,-76.4052,65390
+"Armstrong","Pennsylvania",40.8121,-79.4646,65356
+"Mason","Washington",47.3484,-123.1928,65326
+"Marion","Ohio",40.5872,-83.1609,65179
+"Nacogdoches","Texas",31.616,-94.6159,65080
+"Chaves","New Mexico",33.3633,-104.4669,64912
+"Pulaski","Kentucky",37.1039,-84.5772,64789
+"Crow Wing","Minnesota",46.4824,-94.0709,64775
+"Hamblen","Tennessee",36.2171,-83.2667,64479
+"Ionia","Michigan",42.9451,-85.0746,64401
+"Lake","California",39.0996,-122.7532,64276
+"Warren","New York",43.561,-73.846,64187
+"Tehama","California",40.1257,-122.234,64176
+"Coos","Oregon",43.1742,-124.0594,64175
+"Chippewa","Wisconsin",45.0694,-91.2799,64175
+"Sauk","Wisconsin",43.4267,-89.9482,64152
+"Starr","Texas",26.5622,-98.7384,64032
+"Clay","Minnesota",46.8923,-96.4907,64029
+"Carbon","Pennsylvania",40.9182,-75.7088,63964
+"Pope","Arkansas",35.4478,-93.0345,63926
+"Walker","Alabama",33.8033,-87.2974,63802
+"Montcalm","Michigan",43.3109,-85.1525,63516
+"Sampson","North Carolina",34.9916,-78.3714,63284
+"Livingston","New York",42.7281,-77.7755,63218
+"Crawford","Arkansas",35.588,-94.2429,63118
+"Salem","New Jersey",39.5876,-75.3491,62754
+"Lamar","Mississippi",31.206,-89.5087,62693
+"Warrick","Indiana",38.0922,-87.2721,62608
+"Reno","Kansas",37.9529,-98.086,62421
+"Acadia","Louisiana",30.2906,-92.412,62371
+"Effingham","Georgia",32.3673,-81.3414,62241
+"Georgetown","South Carolina",33.4343,-79.3324,62150
+"Stanly","North Carolina",35.3119,-80.251,62050
+"Liberty","Georgia",31.8282,-81.4949,62039
+"Pender","North Carolina",34.5248,-77.9051,61891
+"Haywood","North Carolina",35.556,-82.9822,61862
+"Knox","Ohio",40.3988,-82.4215,61776
+"Herkimer","New York",43.4197,-74.9625,61738
+"Tipton","Tennessee",35.4973,-89.7566,61562
+"Garfield","Oklahoma",36.3791,-97.7827,61555
+"San Benito","California",36.6057,-121.075,61547
+"Hall","Nebraska",40.8726,-98.5022,61338
+"Washington","New York",43.3137,-73.4308,61304
+"Belknap","New Hampshire",43.5179,-71.4227,61174
+"Lee","North Carolina",35.4752,-79.1715,61083
+"Barry","Michigan",42.595,-85.309,61045
+"Pittsylvania","Virginia",36.8213,-79.3971,60867
+"St. Joseph","Michigan",41.9144,-85.5278,60789
+"Walla Walla","Washington",46.2298,-118.4784,60785
+"Bradford","Pennsylvania",41.7887,-76.5154,60721
+"Laurel","Kentucky",37.1107,-84.1178,60631
+"Washington","Ohio",39.4553,-81.4953,60217
+"Hood","Texas",32.4299,-97.8323,60025
+"Cumberland","Tennessee",35.9504,-84.9984,60016
+"Columbia","New York",42.2501,-73.6318,60016
+"Lawrence","Ohio",38.5984,-82.5368,59901
+"Granville","North Carolina",36.304,-78.6527,59823
+"Vermilion","Louisiana",29.8466,-92.3237,59787
+"Garfield","Colorado",39.5993,-107.904,59605
+"Otsego","New York",42.6337,-75.0326,59593
+"Mercer","West Virginia",37.4055,-81.1114,59370
+"Duplin","North Carolina",34.9365,-77.933,58965
+"Lowndes","Mississippi",33.4729,-88.4433,58896
+"Lincoln","South Dakota",43.2789,-96.7218,58887
+"Kenai Peninsula","Alaska",60.2654,-151.5652,58809
+"Sandusky","Ohio",41.3562,-83.1464,58801
+"Pike","Kentucky",37.4691,-82.3958,58595
+"Rutland","Vermont",43.5802,-73.0366,58527
+"Otter Tail","Minnesota",46.4088,-95.708,58416
+"Washington","Vermont",44.2734,-72.6148,58336
+"Newton","Missouri",36.9055,-94.3393,58288
+"Huron","Ohio",41.1463,-82.598,58271
+"Pickaway","Ohio",39.6419,-83.0244,58112
+"Maverick","Texas",28.7426,-100.3145,58098
+"Russell","Alabama",32.2884,-85.1849,57938
+"Anderson","Texas",31.8133,-95.6525,57917
+"Union","Ohio",40.2994,-83.3716,57871
+"Eddy","New Mexico",32.4715,-104.3044,57865
+"Gordon","Georgia",34.5032,-84.8759,57756
+"Blount","Alabama",33.9809,-86.5674,57755
+"Oxford","Maine",44.4998,-70.7566,57741
+"Lincoln","Missouri",39.058,-90.96,57590
+"Genesee","New York",43.0009,-78.1937,57554
+"Jackson","Illinois",37.7851,-89.3821,57517
+"Hardin","Texas",30.3324,-94.3902,57356
+"Columbia","Wisconsin",43.4666,-89.3337,57331
+"Cherokee","South Carolina",35.0481,-81.6206,57110
+"Jefferson","West Virginia",39.3076,-77.8628,56922
+"Hawkins","Tennessee",36.4412,-82.9447,56735
+"Putnam","West Virginia",38.5086,-81.909,56604
+"Carter","Tennessee",36.2928,-82.1275,56452
+"Lenoir","North Carolina",35.2388,-77.6412,56350
+"Marion","West Virginia",39.51,-80.2434,56233
+"Franklin","Virginia",36.992,-79.881,56231
+"La Plata","Colorado",37.2866,-107.8433,56138
+"Coffee","Tennessee",35.4906,-86.0748,56024
+"Van Zandt","Texas",32.5637,-95.8365,55970
+"Scott","Kentucky",38.2915,-84.5839,55961
+"Chisago","Minnesota",45.5025,-92.9084,55844
+"Watauga","North Carolina",36.2311,-81.6964,55669
+"Lyon","Nevada",39.0206,-119.189,55667
+"Pike","Pennsylvania",41.332,-75.0338,55660
+"Columbus","North Carolina",34.2656,-78.655,55659
+"Autauga","Alabama",32.5349,-86.6427,55639
+"Whiteside","Illinois",41.7563,-89.9141,55583
+"Taney","Missouri",36.6548,-93.0412,55563
+"Pearl River","Mississippi",30.7688,-89.5896,55512
+"Campbell","Virginia",37.2054,-79.0965,55406
+"Grady","Oklahoma",35.0169,-97.8841,55315
+"Seneca","Ohio",41.1239,-83.1277,55251
+"Carson City","Nevada",39.1511,-119.7476,55244
+"Windsor","Vermont",43.5799,-72.5863,55191
+"Eagle","Colorado",39.6278,-106.6953,54960
+"Colbert","Alabama",34.7005,-87.805,54957
+"Box Elder","Utah",41.521,-113.0821,54953
+"Hancock","Maine",44.6643,-68.3585,54832
+"Hoke","North Carolina",35.0175,-79.2373,54590
+"Saline","Kansas",38.7838,-97.65,54384
+"Jefferson","Tennessee",36.051,-83.4463,54162
+"Tuolumne","California",38.0276,-119.9548,54147
+"Lafayette","Mississippi",34.3568,-89.485,54059
+"Washington","Virginia",36.7244,-81.9598,54005
+"Rusk","Texas",32.1077,-94.7618,53988
+"Camden","Georgia",30.9306,-81.6699,53960
+"Johnson","Missouri",38.7441,-93.8064,53948
+"Gila","Arizona",33.7997,-110.8116,53846
+"Waller","Texas",30.0108,-95.9876,53626
+"St. Martin","Louisiana",30.1291,-91.6082,53607
+"Harrisonburg","Virginia",38.4362,-78.8735,53558
+"Ashland","Ohio",40.846,-82.2707,53533
+"Jessamine","Kentucky",37.8721,-84.5809,53476
+"Fulton","New York",43.1138,-74.4222,53452
+"McMinn","Tennessee",35.4247,-84.6175,53392
+"Roane","Tennessee",35.8479,-84.5232,53331
+"Boone","Illinois",42.3231,-88.8234,53293
+"Dickson","Tennessee",36.149,-87.3567,53289
+"Loudon","Tennessee",35.7348,-84.3119,53169
+"Iron","Utah",37.8592,-113.2895,53148
+"St. Charles","Louisiana",29.9055,-90.3582,52856
+"Tuscola","Michigan",43.4641,-83.4167,52683
+"Elko","Nevada",41.1458,-115.3577,52537
+"Pulaski","Missouri",37.8246,-92.2077,52359
+"Cherokee","Texas",31.837,-95.1652,52341
+"Coffee","Alabama",31.4026,-85.9882,52238
+"Kerr","Texas",30.0615,-99.35,52195
+"Columbia","Oregon",45.9438,-123.0883,52117
+"Edgecombe","North Carolina",35.9129,-77.5971,52069
+"Washington","Oklahoma",36.7152,-95.9044,51995
+"Worcester","Maryland",38.2128,-75.334,51967
+"Culpeper","Virginia",38.486,-77.9558,51935
+"Jackson","Alabama",34.7795,-85.9993,51765
+"Cass","Michigan",41.9154,-85.9935,51613
+"Grant","Wisconsin",42.8675,-90.7062,51570
+"Darke","Ohio",40.1333,-84.6194,51387
+"Venango","Pennsylvania",41.401,-79.758,51355
+"Wayne","Pennsylvania",41.6487,-75.3033,51268
+"Coles","Illinois",39.5203,-88.2218,51065
+"Henry","Virginia",36.6828,-79.874,51032
+"Waupaca","Wisconsin",44.4705,-88.9648,50997
+"Medina","Texas",29.3557,-99.1101,50869
+"Warren","Iowa",41.3344,-93.5614,50867
+"Grundy","Illinois",41.2851,-88.4185,50798
+"Ogle","Illinois",42.0426,-89.3207,50793
+"Winona","Minnesota",43.9868,-91.7792,50744
+"Franklin","Kentucky",38.2392,-84.8771,50744
+"Halifax","North Carolina",36.2574,-77.6517,50678
+"Somerset","Maine",45.5139,-69.9589,50573
+"Franklin","New York",44.5929,-74.3038,50389
+"Atascosa","Texas",28.8935,-98.5272,50194
+"Queen Anne's","Maryland",39.0673,-76.0208,50163
+"Polk","Texas",30.7927,-94.83,50155
+"Wilson","Texas",29.174,-98.0866,50110
+"Knox","Illinois",40.9318,-90.2132,50052
+"St. Mary","Louisiana",29.7206,-91.4485,50020
+"Calumet","Wisconsin",44.0816,-88.2181,50005
+"Le Flore","Oklahoma",34.9003,-94.7034,49999
+"Lamar","Texas",33.6673,-95.5712,49705
+"Dearborn","Indiana",39.1452,-84.9732,49612
+"Buffalo","Nebraska",40.8552,-99.075,49594
+"Oktibbeha","Mississippi",33.4249,-88.8793,49593
+"Whitman","Washington",46.9012,-117.523,49577
+"Curry","New Mexico",34.5742,-103.347,49502
+"Navarro","Texas",32.0469,-96.4725,49475
+"Lincoln","Oregon",44.642,-123.8682,49336
+"Vernon","Louisiana",31.1083,-93.1843,49315
+"Montgomery","New York",42.9023,-74.4397,49294
+"Dale","Alabama",31.4318,-85.611,49293
+"Franklin","Vermont",44.8578,-72.913,49275
+"Gibson","Tennessee",35.9966,-88.9326,49193
+"Henry","Illinois",41.3531,-90.1314,49032
+"Val Verde","Texas",29.893,-101.1517,49018
+"Bedford","Tennessee",35.5138,-86.4589,48937
+"Cherokee","Oklahoma",35.9067,-94.9997,48871
+"Newaygo","Michigan",43.5542,-85.8009,48687
+"Bristol","Rhode Island",41.7173,-71.284,48645
+"Shelby","Ohio",40.3315,-84.2047,48610
+"Douglas","Nevada",38.9123,-119.6162,48486
+"Carroll","New Hampshire",43.8738,-71.2031,48461
+"Tioga","New York",42.1703,-76.3063,48431
+"Crittenden","Arkansas",35.2057,-90.3078,48381
+"Carter","Oklahoma",34.2509,-97.2858,48380
+"Henry","Indiana",39.931,-85.3964,48158
+"Bedford","Pennsylvania",40.0065,-78.4903,48154
+"Shelby","Kentucky",38.2154,-85.1948,48100
+"Fremont","Colorado",38.4731,-105.4395,47725
+"Noble","Indiana",41.3986,-85.4175,47640
+"Cortland","New York",42.595,-76.0703,47618
+"Burnet","Texas",30.7884,-98.1823,47548
+"Chenango","New York",42.4935,-75.6116,47527
+"Jackson","Florida",30.7954,-85.2155,47409
+"Laurens","Georgia",32.4636,-82.9222,47404
+"Logan","Oklahoma",35.9193,-97.4433,47401
+"Boyd","Kentucky",38.3596,-82.6877,47361
+"Hancock","Mississippi",30.416,-89.4885,47339
+"Greene","New York",42.2765,-74.1227,47335
+"Bryan","Oklahoma",33.9623,-96.2598,47325
+"Charlottesville","Virginia",38.0375,-78.4855,47217
+"Beaufort","North Carolina",35.494,-76.8598,47160
+"Lincoln","Louisiana",32.6016,-92.6649,47118
+"Kittitas","Washington",47.1243,-120.6797,47097
+"Osage","Oklahoma",36.6292,-96.3985,47074
+"Campbell","Wyoming",44.2483,-105.5483,46958
+"Beltrami","Minnesota",47.9738,-94.9377,46784
+"Clinton","Iowa",41.898,-90.532,46734
+"St. Bernard","Louisiana",29.8692,-89.5552,46694
+"Santa Cruz","Arizona",31.526,-110.8466,46594
+"Monroe","Tennessee",35.4426,-84.2527,46413
+"Marshall","Indiana",41.3248,-86.2618,46336
+"Goodhue","Minnesota",44.4097,-92.7229,46330
+"Washington","Louisiana",30.8533,-90.0405,46325
+"Allegany","New York",42.2574,-78.0276,46304
+"Bingham","Idaho",43.2166,-112.3981,46246
+"Mifflin","Pennsylvania",40.6104,-77.617,46179
+"Monroe","Wisconsin",43.9457,-90.6178,46155
+"Perry","Pennsylvania",40.3984,-77.2623,46133
+"Warren","Mississippi",32.3572,-90.852,46030
+"Nelson","Kentucky",37.8051,-85.466,45915
+"Chesterfield","South Carolina",34.6398,-80.1587,45833
+"Calaveras","California",38.2046,-120.5541,45828
+"Camden","Missouri",38.027,-92.766,45823
+"Gadsden","Florida",30.5795,-84.6136,45787
+"Auglaize","Ohio",40.5609,-84.2218,45709
+"Hillsdale","Michigan",41.8878,-84.5929,45707
+"Stokes","North Carolina",36.4019,-80.2397,45688
+"Lawrence","Indiana",38.8412,-86.4834,45552
+"Henderson","Kentucky",37.7958,-87.573,45550
+"Nye","Nevada",38.0424,-116.472,45514
+"Colquitt","Georgia",31.1884,-83.7688,45510
+"Kendall","Texas",29.9447,-98.7115,45491
+"McDowell","North Carolina",35.6817,-82.0493,45402
+"Logan","Ohio",40.3885,-83.7658,45315
+"Macoupin","Illinois",39.261,-89.9245,45243
+"Stevens","Washington",48.3991,-117.8552,45233
+"Habersham","Georgia",34.631,-83.5311,45204
+"Greene","Arkansas",36.1176,-90.559,45197
+"Barron","Wisconsin",45.4237,-91.8483,45182
+"Itasca","Minnesota",47.5095,-93.6319,45180
+"Huntingdon","Pennsylvania",40.4169,-77.9812,45145
+"Washington","Mississippi",33.2838,-90.9474,45072
+"Baldwin","Georgia",33.0693,-83.2496,45072
+"Wood","Texas",32.7864,-95.3821,45054
+"Hopkins","Kentucky",37.3088,-87.5408,45044
+"Dunn","Wisconsin",44.9466,-91.8964,45029
+"Callaway","Missouri",38.8355,-91.926,44944
+"Union","Pennsylvania",40.963,-77.0622,44831
+"Richmond","North Carolina",35.006,-79.7479,44759
+"Bonner","Idaho",48.3,-116.6011,44688
+"Stephenson","Illinois",42.3518,-89.6623,44683
+"Delaware","New York",42.1981,-74.9665,44676
+"Vance","North Carolina",36.3649,-78.4079,44614
+"Phelps","Missouri",37.8771,-91.7923,44587
+"Shelby","Indiana",39.5237,-85.7917,44559
+"Thomas","Georgia",30.8637,-83.9193,44545
+"Suwannee","Florida",30.1956,-82.9915,44290
+"Madison","Ohio",39.894,-83.4002,44248
+"Chilton","Alabama",32.8479,-86.7188,44147
+"Jackson","Indiana",38.9064,-86.0375,44077
+"Kay","Oklahoma",36.818,-97.1439,44074
+"Barren","Kentucky",36.9656,-85.9337,44026
+"Pittsburg","Oklahoma",34.9239,-95.7484,43955
+"Holmes","Ohio",40.5612,-81.9293,43954
+"Lawrence","Tennessee",35.2173,-87.3956,43780
+"Jefferson","Pennsylvania",41.1282,-78.9994,43570
+"Polk","Wisconsin",45.4614,-92.4413,43549
+"Siskiyou","California",41.5927,-122.5404,43516
+"Miller","Arkansas",33.3124,-93.8921,43515
+"Brown","Ohio",38.9338,-83.8673,43508
+"Douglas","Wisconsin",46.4329,-91.9161,43497
+"Mecosta","Michigan",43.6408,-85.3246,43481
+"Shenandoah","Virginia",38.8583,-78.5709,43441
+"Jackson","North Carolina",35.2876,-83.1408,43435
+"Branch","Michigan",41.9161,-85.059,43428
+"Ravalli","Montana",46.0817,-114.1207,43424
+"Stephens","Oklahoma",34.4856,-97.8515,43401
+"Sweetwater","Wyoming",41.6595,-108.8795,43352
+"DeKalb","Indiana",41.3976,-84.9991,43193
+"Sullivan","New Hampshire",43.3614,-72.2222,43173
+"Fayette","West Virginia",38.0288,-81.0812,43087
+"Highland","Ohio",39.1847,-83.601,43080
+"Coffee","Georgia",31.5493,-82.8492,43070
+"St. John the Baptist","Louisiana",30.1264,-90.4709,43055
+"Kandiyohi","Minnesota",45.1524,-95.0047,42909
+"Caldwell","Texas",29.8368,-97.6199,42817
+"Delaware","Oklahoma",36.4082,-94.8026,42741
+"Muscatine","Iowa",41.4839,-91.1127,42703
+"Cerro Gordo","Iowa",43.0816,-93.2608,42672
+"Windham","Vermont",42.9906,-72.7137,42628
+"Chambers","Texas",29.7384,-94.6101,42571
+"Butler","Missouri",36.7164,-90.4066,42570
+"Davie","North Carolina",35.9291,-80.5445,42543
+"Dubois","Indiana",38.3643,-86.8798,42534
+"Douglas","Washington",47.7361,-119.6918,42520
+"Pettis","Missouri",38.7283,-93.2851,42421
+"Pierce","Wisconsin",44.7194,-92.4224,42336
+"Montrose","Colorado",38.4022,-108.2694,42280
+"Polk","Georgia",34.0018,-85.1881,42251
+"Erath","Texas",32.2363,-98.218,42226
+"Fulton","Ohio",41.6018,-84.1301,42186
+"Okanogan","Washington",48.5488,-119.7408,42080
+"Clinton","Ohio",39.4149,-83.8084,42000
+"Franklin","Tennessee",35.155,-86.0922,41999
+"Ohio","West Virginia",40.0969,-80.6189,41875
+"Sequoyah","Oklahoma",35.4953,-94.7552,41687
+"Summit","Utah",40.8682,-110.9557,41680
+"Baxter","Arkansas",36.2872,-92.3369,41673
+"Wharton","Texas",29.2779,-96.2221,41672
+"Okeechobee","Florida",27.3864,-80.8886,41611
+"Crawford","Ohio",40.8508,-82.9198,41603
+"Hendry","Florida",26.5535,-81.1659,41472
+"Mississippi","Arkansas",35.7624,-90.0521,41396
+"Upshur","Texas",32.7363,-94.9415,41386
+"Tazewell","Virginia",37.125,-81.5606,41201
+"Sanilac","Michigan",43.4236,-82.8203,41179
+"Mayes","Oklahoma",36.3019,-95.2307,41098
+"Manassas","Virginia",38.7479,-77.4838,41038
+"Mercer","Ohio",40.5399,-84.6294,41034
+"McKean","Pennsylvania",41.8076,-78.569,41021
+"Preble","Ohio",39.7415,-84.648,40995
+"Levy","Florida",29.3184,-82.7436,40979
+"Warren","Tennessee",35.6787,-85.7785,40971
+"Shawano","Wisconsin",44.7891,-88.7654,40813
+"Jim Wells","Texas",27.7314,-98.0899,40796
+"Tioga","Pennsylvania",41.7722,-77.2543,40759
+"Gratiot","Michigan",43.2927,-84.6049,40692
+"Danville","Virginia",36.5831,-79.4088,40668
+"Orleans","New York",43.2521,-78.2312,40624
+"Fayette","Tennessee",35.1971,-89.4144,40612
+"Susquehanna","Pennsylvania",41.8214,-75.8007,40604
+"Tift","Georgia",31.4574,-83.5266,40590
+"Ottawa","Ohio",41.5379,-83.1434,40557
+"Cheatham","Tennessee",36.2612,-87.0868,40539
+"Benton","Minnesota",45.6991,-93.9988,40476
+"Nez Perce","Idaho",46.3268,-116.7503,40468
+"Avoyelles","Louisiana",31.0763,-92.0014,40465
+"Snyder","Pennsylvania",40.7698,-77.0702,40452
+"Tallapoosa","Alabama",32.8624,-85.7975,40450
+"Cooke","Texas",33.6393,-97.2126,40428
+"Marinette","Wisconsin",45.3833,-88.0337,40312
+"Harrison","Indiana",38.1951,-86.1114,40164
+"Howell","Missouri",36.774,-91.8865,40130
+"Latah","Idaho",46.8162,-116.7117,40052
+"Wyoming","New York",42.7024,-78.2244,40027
+"Isanti","Minnesota",45.5615,-93.2951,40004
+"Wayne","West Virginia",38.146,-82.427,39952
+"Mower","Minnesota",43.6715,-92.7525,39931
+"McClain","Oklahoma",35.0093,-97.4443,39921
+"Warren","Virginia",38.9087,-78.2085,39888
+"Campbell","Tennessee",36.4035,-84.1494,39818
+"Knox","Maine",44.141,-69.1686,39809
+"Marshall","Iowa",42.0358,-92.9988,39804
+"Murray","Georgia",34.7884,-84.7481,39789
+"Pasquotank","North Carolina",36.2955,-76.284,39775
+"Madison","Idaho",43.7841,-111.6592,39725
+"Waldo","Maine",44.5028,-69.1454,39723
+"Fremont","Wyoming",43.0405,-108.6304,39711
+"Clatsop","Oregon",45.9949,-123.6557,39656
+"Person","North Carolina",36.39,-78.9718,39561
+"LaGrange","Indiana",41.6426,-85.4265,39537
+"Warren","Pennsylvania",41.8145,-79.2741,39466
+"Pike","Mississippi",31.1749,-90.4042,39365
+"Des Moines","Iowa",40.9232,-91.1815,39227
+"Oconee","Georgia",33.8349,-83.4371,39194
+"Webster","Missouri",37.2809,-92.8759,39127
+"Union","Arkansas",33.1713,-92.5972,39089
+"Amador","California",38.4464,-120.6511,39023
+"Guernsey","Ohio",40.052,-81.4942,38996
+"Calloway","Kentucky",36.621,-88.2722,38991
+"Brown","South Dakota",45.5898,-98.3516,38988
+"Rio Arriba","New Mexico",36.5096,-106.6931,38962
+"Crawford","Kansas",37.5073,-94.8518,38874
+"Champaign","Ohio",40.1377,-83.7695,38861
+"Webster","Louisiana",32.7135,-93.335,38813
+"Franklin","Illinois",37.9923,-88.9242,38688
+"Albany","Wyoming",41.6544,-105.7239,38664
+"Clarion","Pennsylvania",41.1924,-79.421,38633
+"Okmulgee","Oklahoma",35.6466,-95.9643,38553
+"Clinton","Pennsylvania",41.234,-77.6381,38549
+"Scott","Missouri",37.053,-89.5686,38538
+"Natchitoches","Louisiana",31.7234,-93.0962,38505
+"Woodford","Illinois",40.7882,-89.2111,38503
+"Pontotoc","Oklahoma",34.7281,-96.6844,38385
+"Newberry","South Carolina",34.2898,-81.6001,38329
+"Bryan","Georgia",32.0145,-81.4436,38321
+"Graham","Arizona",32.9325,-109.8874,38304
+"Montgomery","Indiana",40.0404,-86.8933,38295
+"Prince George","Virginia",37.1865,-77.2242,38292
+"Lawrence","Missouri",37.1064,-93.8329,38241
+"Dallas","Alabama",32.326,-87.1065,38184
+"Wise","Virginia",36.9752,-82.6212,38032
+"Defiance","Ohio",41.3239,-84.4905,38024
+"Oconto","Wisconsin",45.0263,-88.2697,37870
+"Douglas","Minnesota",45.9338,-95.4535,37820
+"Brown","Texas",31.7743,-98.9998,37805
+"Jefferson","Illinois",38.3005,-88.924,37774
+"Cass","Indiana",40.7615,-86.346,37727
+"Colleton","South Carolina",32.8636,-80.6669,37624
+"Yadkin","North Carolina",36.1605,-80.6652,37589
+"Independence","Arkansas",35.7416,-91.5697,37585
+"Clinton","Illinois",38.6065,-89.4225,37549
+"Boone","Arkansas",36.3086,-93.0915,37525
+"Marion","Illinois",38.6496,-88.919,37524
+"Putnam","Indiana",39.6663,-86.845,37419
+"Chippewa","Michigan",46.3053,-84.578,37418
+"Beauregard","Louisiana",30.6486,-93.3432,37387
+"DeSoto","Florida",27.1863,-81.8095,37371
+"Gloucester","Virginia",37.416,-76.5434,37362
+"Essex","New York",44.1172,-73.7726,37281
+"Alexander","North Carolina",35.921,-81.177,37271
+"Dyer","Tennessee",36.0592,-89.4137,37201
+"Graves","Kentucky",36.7231,-88.6512,37125
+"Isle of Wight","Virginia",36.8912,-76.7259,37107
+"Covington","Alabama",31.2485,-86.4513,37096
+"Talbot","Maryland",38.7709,-76.0968,37087
+"Alcorn","Mississippi",34.8808,-88.5803,37058
+"Jasper","Iowa",41.686,-93.0537,37032
+"Addison","Vermont",44.0308,-73.1409,36947
+"Knox","Indiana",38.6891,-87.418,36833
+"Matagorda","Texas",28.8212,-96.011,36791
+"Green","Wisconsin",42.68,-89.6022,36790
+"Escambia","Alabama",31.1262,-87.1615,36775
+"Williams","Ohio",41.5603,-84.5882,36760
+"Steele","Minnesota",44.0223,-93.226,36710
+"Hopkins","Texas",33.1496,-95.564,36708
+"Dare","North Carolina",35.7805,-75.7982,36698
+"Louisa","Virginia",37.9786,-77.963,36654
+"Dodge","Nebraska",41.5779,-96.654,36565
+"Coshocton","Ohio",40.3017,-81.92,36558
+"Orange","Virginia",38.2462,-78.0137,36501
+"Greene","Pennsylvania",39.8538,-80.2229,36484
+"Finney","Kansas",38.0443,-100.737,36451
+"Huntington","Indiana",40.8292,-85.4881,36351
+"Webster","Iowa",42.4279,-94.1818,36348
+"Whitley","Kentucky",36.7581,-84.1452,36252
+"Howard","Texas",32.3062,-101.4355,36213
+"Clark","Kentucky",37.9708,-84.1474,36152
+"Hill","Texas",31.9907,-97.1324,36109
+"Perry","Ohio",39.7371,-82.2361,36076
+"Williams","North Dakota",48.3437,-103.4802,36044
+"Floyd","Kentucky",37.5571,-82.7457,35931
+"Houghton","Michigan",46.8978,-88.6875,35890
+"Scotts Bluff","Nebraska",41.8505,-103.708,35884
+"Delta","Michigan",45.9192,-86.9241,35874
+"Cocke","Tennessee",35.9254,-83.1212,35797
+"McLeod","Minnesota",44.8236,-94.2724,35788
+"Livingston","Illinois",40.8916,-88.5577,35757
+"Ware","Georgia",31.0537,-82.4237,35745
+"Uintah","Utah",40.1248,-109.5186,35736
+"Sagadahoc","Maine",43.9598,-69.8546,35720
+"Carlton","Minnesota",46.5924,-92.677,35709
+"Miami","Indiana",40.7695,-86.045,35684
+"Laclede","Missouri",37.6583,-92.5903,35680
+"Bennington","Vermont",43.0354,-73.093,35649
+"Barry","Missouri",36.7099,-93.8291,35615
+"Jasper","Texas",30.744,-94.0251,35562
+"Monroe","Mississippi",33.8923,-88.4805,35559
+"Adams","Indiana",40.7456,-84.9366,35544
+"Marshall","Mississippi",34.7623,-89.5031,35502
+"Oneida","Wisconsin",45.7056,-89.5218,35480
+"Greenup","Kentucky",38.5457,-82.9223,35359
+"Washington","Texas",30.2145,-96.4034,35275
+"Macon","North Carolina",35.1505,-83.4222,35172
+"Morrow","Ohio",40.5241,-82.7941,35148
+"Brookings","South Dakota",44.3697,-96.7904,35115
+"Wapello","Iowa",41.0306,-92.4095,35102
+"Cowley","Kansas",37.2377,-96.8375,35090
+"Warren","Missouri",38.7646,-91.1607,35090
+"Fannin","Texas",33.5938,-96.1068,35046
+"Lincoln","Nebraska",41.0478,-100.7452,35042
+"Madison","Nebraska",41.9167,-97.6008,35023
+"Lincoln","Oklahoma",35.703,-96.8809,34936
+"Scotland","North Carolina",34.8409,-79.4804,34921
+"Sioux","Iowa",43.0826,-96.1779,34900
+"Silver Bow","Montana",45.9024,-112.6567,34895
+"Greenbrier","West Virginia",37.947,-80.453,34893
+"Harris","Georgia",32.736,-84.9089,34676
+"Clark","Wisconsin",44.7347,-90.6121,34668
+"Fulton","Illinois",40.4728,-90.2075,34654
+"Steuben","Indiana",41.6439,-85.0008,34591
+"Monroe","Illinois",38.2785,-90.1773,34444
+"Harvey","Kansas",38.0432,-97.4272,34434
+"Lincoln","Maine",44.0664,-69.5435,34415
+"Halifax","Virginia",36.7669,-78.9366,34295
+"Seneca","New York",42.781,-76.8238,34295
+"Becker","Minnesota",46.9346,-95.674,34227
+"Lee","Illinois",41.7461,-89.3003,34204
+"Lincoln","Mississippi",31.5324,-90.454,34197
+"Nicollet","Minnesota",44.3499,-94.2474,34176
+"Lincoln","Tennessee",35.1405,-86.589,34158
+"Effingham","Illinois",39.0598,-88.5899,34151
+"Pulaski","Virginia",37.0636,-80.7144,34113
+"Panola","Mississippi",34.3639,-89.9506,34079
+"Transylvania","North Carolina",35.2021,-82.7982,34039
+"Morgan","Illinois",39.7156,-90.2015,34012
+"Lee","Iowa",40.642,-91.4793,33946
+"Whitley","Indiana",41.1394,-85.5051,33899
+"Clarendon","South Carolina",33.6658,-80.2164,33865
+"Putnam","Ohio",41.0221,-84.1317,33836
+"Miami","Kansas",38.5635,-94.8381,33740
+"Ford","Kansas",37.6917,-99.888,33718
+"Gibson","Indiana",38.3119,-87.5846,33711
+"Marshall","Tennessee",35.4689,-86.765,33708
+"Hot Spring","Arkansas",34.3177,-92.9461,33667
+"Preston","West Virginia",39.4693,-79.6682,33610
+"Evangeline","Louisiana",30.7289,-92.4059,33491
+"Hale","Texas",34.0705,-101.8269,33463
+"Botetourt","Virginia",37.5571,-79.8123,33440
+"Jasper","Indiana",41.023,-87.1161,33433
+"Wexford","Michigan",44.3384,-85.5784,33433
+"Chambers","Alabama",32.9143,-85.392,33427
+"Weakley","Tennessee",36.2983,-88.7178,33377
+"Geary","Kansas",39.0024,-96.7525,33309
+"Daviess","Indiana",38.7024,-87.0721,33277
+"Pike","Alabama",31.8027,-85.9409,33274
+"Caroline","Maryland",38.8717,-75.8316,33260
+"Platte","Nebraska",41.5713,-97.5211,33250
+"Lyon","Kansas",38.4562,-96.1526,33237
+"Bladen","North Carolina",34.6146,-78.5637,33209
+"Marion","Iowa",41.3344,-93.0994,33193
+"Emmet","Michigan",45.5201,-84.8904,33175
+"Morrison","Minnesota",46.0126,-94.2684,33119
+"Wasatch","Utah",40.3308,-111.1682,33053
+"Lumpkin","Georgia",34.5722,-84.0027,33009
+"Lawrence","Alabama",34.5216,-87.311,32969
+"Rhea","Tennessee",35.6087,-84.9244,32964
+"McCurtain","Oklahoma",34.1154,-94.7713,32913
+"Bureau","Illinois",41.4041,-89.5286,32878
+"Wakulla","Florida",30.1673,-84.4007,32855
+"Taos","New Mexico",36.5783,-105.631,32759
+"Titus","Texas",33.2166,-94.9657,32709
+"Christian","Illinois",39.5458,-89.2772,32705
+"Lafayette","Missouri",39.0655,-93.7854,32697
+"Iberville","Louisiana",30.2586,-91.3495,32626
+"Bee","Texas",28.4174,-97.7412,32609
+"Logan","West Virginia",37.8315,-81.9353,32593
+"Accomack","Virginia",37.7643,-75.6332,32560
+"Jackson","Ohio",39.0197,-82.6184,32440
+"Chester","South Carolina",34.6921,-81.1595,32260
+"Henry","Tennessee",36.3318,-88.3013,32251
+"Clinton","Indiana",40.3017,-86.4752,32186
+"Greene","Indiana",39.0363,-86.962,32174
+"Jefferson","Indiana",38.7858,-85.4386,32167
+"Montgomery","Kansas",37.1925,-95.7429,32114
+"Juneau","Alaska",58.4546,-134.1739,32099
+"Polk","Missouri",37.6165,-93.4005,32031
+"Pickens","Georgia",34.4643,-84.4656,32002
+"Pontotoc","Mississippi",34.2254,-89.0374,31996
+"Dorchester","Maryland",38.4829,-76.0125,31994
+"Randolph","Illinois",38.0521,-89.8252,31973
+"Stone","Missouri",36.7469,-93.456,31875
+"Claiborne","Tennessee",36.4859,-83.6604,31827
+"Jefferson","Washington",47.7487,-123.596,31825
+"Amherst","Virginia",37.6048,-79.1451,31782
+"Franklin","Alabama",34.4417,-87.8438,31587
+"Adams","Nebraska",40.5245,-98.5012,31541
+"Coos","New Hampshire",44.6896,-71.3056,31486
+"Jefferson Davis","Louisiana",30.2677,-92.8141,31425
+"Hardin","Ohio",40.6615,-83.6595,31393
+"Polk","Minnesota",47.7739,-96.4018,31384
+"Washington","Maine",45.0307,-67.6287,31378
+"Knox","Kentucky",36.8907,-83.854,31288
+"Ottawa","Oklahoma",36.8355,-94.8104,31283
+"Bolivar","Mississippi",33.7971,-90.8806,31253
+"Marshall","Kentucky",36.8834,-88.3294,31225
+"Wabash","Indiana",40.8457,-85.794,31198
+"Schoharie","New York",42.5882,-74.4421,31189
+"Stark","North Dakota",46.8107,-102.6551,31164
+"Morton","North Dakota",46.7161,-101.2811,31118
+"Huron","Michigan",43.8333,-83.019,31105
+"Adams","Mississippi",31.4829,-91.3535,31103
+"Gilmer","Georgia",34.6912,-84.4556,30986
+"Marion","South Carolina",34.0801,-79.3625,30954
+"Marshall","West Virginia",39.8606,-80.6634,30900
+"Muhlenberg","Kentucky",37.2158,-87.142,30815
+"Williamsburg","South Carolina",33.6199,-79.7277,30810
+"Petersburg","Virginia",37.2043,-77.3913,30791
+"Vernon","Wisconsin",43.5939,-90.8344,30759
+"Delta","Colorado",38.8614,-107.8629,30758
+"Summit","Colorado",39.6342,-106.1164,30735
+"Mecklenburg","Virginia",36.6804,-78.3627,30726
+"Kleberg","Texas",27.4337,-97.7273,30725
+"Clare","Michigan",43.9879,-84.8478,30655
+"Malheur","Oregon",43.1934,-117.6231,30632
+"Lassen","California",40.6736,-120.5943,30600
+"Caroline","Virginia",38.0267,-77.3471,30581
+"Smyth","Virginia",36.8437,-81.537,30539
+"Dillon","South Carolina",34.3915,-79.3789,30473
+"Freeborn","Minnesota",43.6738,-93.3488,30465
+"Sanpete","Utah",39.3739,-111.5763,30421
+"Sheridan","Wyoming",44.79,-106.8793,30397
+"Lake","Montana",47.6459,-114.0894,30383
+"Obion","Tennessee",36.3582,-89.1488,30343
+"McDonough","Illinois",40.4562,-90.6779,30107
+"Boyle","Kentucky",37.6244,-84.8668,30090
+"Elk","Pennsylvania",41.4251,-78.6491,30077
+"Caledonia","Vermont",44.4647,-72.1021,30027
+"Cass","Texas",33.0775,-94.3436,30002
+"Gallia","Ohio",38.8247,-82.3169,29995
+"White","Georgia",34.6464,-83.7471,29962
+"Wayne","Georgia",31.5515,-81.9168,29959
+"Franklin","Maine",44.9741,-70.4441,29933
+"Carroll","Virginia",36.7316,-80.7339,29911
+"Austin","Texas",29.887,-96.2779,29892
+"Marion","Alabama",34.1366,-87.8871,29818
+"Lee","Georgia",31.7795,-84.1411,29735
+"Sumter","Georgia",32.0399,-84.197,29714
+"Dunklin","Missouri",36.2721,-90.0909,29657
+"Madison","Georgia",34.1278,-83.209,29624
+"Haralson","Georgia",33.7942,-85.211,29608
+"Jasper","South Carolina",32.4374,-81.0317,29558
+"Trempealeau","Wisconsin",44.304,-91.3585,29525
+"Cass","Minnesota",46.9496,-94.3254,29462
+"Giles","Tennessee",35.2022,-87.0348,29403
+"Park","Wyoming",44.5205,-109.5879,29273
+"Stoddard","Missouri",36.8556,-89.9443,29255
+"Pine","Minnesota",46.1208,-92.7413,29254
+"Powhatan","Virginia",37.5502,-77.9152,29253
+"Neshoba","Mississippi",32.7535,-89.1176,29250
+"Jefferson","Idaho",43.8201,-112.3113,29238
+"Caddo","Oklahoma",35.1744,-98.3752,29179
+"Garrett","Maryland",39.5289,-79.2729,29155
+"Hancock","West Virginia",40.5219,-80.5739,29118
+"Mason","Michigan",43.9952,-86.25,29062
+"Fredericksburg","Virginia",38.2992,-77.4872,29059
+"Custer","Oklahoma",35.6388,-99.0015,28929
+"Orange","Vermont",44.0056,-72.3769,28873
+"Logan","Illinois",40.1245,-89.3675,28818
+"Jackson","West Virginia",38.8345,-81.6748,28793
+"Palo Pinto","Texas",32.7532,-98.313,28792
+"Leflore","Mississippi",33.5505,-90.3011,28764
+"Randolph","West Virginia",38.7747,-79.8758,28763
+"Ellis","Kansas",38.9147,-99.3173,28747
+"Wythe","Virginia",36.9171,-81.0787,28725
+"Dinwiddie","Virginia",37.0759,-77.6323,28686
+"Baker","Florida",30.3311,-82.2846,28679
+"Marion","Tennessee",35.1293,-85.622,28639
+"Jones","Georgia",33.0251,-83.5605,28622
+"Morgan","Colorado",40.2628,-103.8098,28617
+"Fayette","Ohio",39.5599,-83.4561,28609
+"Montgomery","Illinois",39.231,-89.4789,28598
+"Union","Mississippi",34.4905,-89.0039,28578
+"San Jacinto","Texas",30.5795,-95.1669,28574
+"Marion","Missouri",39.8059,-91.6224,28572
+"McPherson","Kansas",38.3917,-97.648,28557
+"Yazoo","Mississippi",32.7803,-90.3964,28511
+"Ripley","Indiana",39.1035,-85.2624,28457
+"Grimes","Texas",30.5435,-95.9855,28447
+"Alpena","Michigan",45.0348,-83.6277,28431
+"Le Sueur","Minnesota",44.3714,-93.7301,28425
+"Tate","Mississippi",34.6503,-89.9448,28419
+"Cherokee","North Carolina",35.1339,-84.0635,28413
+"Meade","Kentucky",37.9698,-86.2171,28379
+"Copiah","Mississippi",31.8692,-90.4488,28339
+"Hocking","Ohio",39.497,-82.4792,28306
+"Scott","Mississippi",32.4064,-89.5376,28288
+"Van Wert","Ohio",40.8554,-84.5861,28213
+"Meade","South Dakota",44.5668,-102.7169,28149
+"Codington","South Dakota",44.9779,-97.1886,28133
+"Carroll","Arkansas",36.341,-93.5382,28062
+"Glenn","California",39.5983,-122.3921,28060
+"Montgomery","Kentucky",38.0335,-83.9131,28042
+"Wells","Indiana",40.7292,-85.2212,28010
+"Henderson","Tennessee",35.6543,-88.388,27956
+"Washington","Indiana",38.6,-86.1053,27942
+"Pike","Ohio",39.0773,-83.0668,27914
+"Winchester","Virginia",39.1735,-78.1746,27912
+"Carroll","Tennessee",35.9732,-88.4502,27841
+"Garvin","Oklahoma",34.7046,-97.3093,27789
+"Bradford","Florida",29.95,-82.1688,27723
+"Del Norte","California",41.7431,-123.8972,27692
+"Lincoln","Wisconsin",45.3375,-89.7346,27687
+"Adams","Ohio",38.8455,-83.4721,27685
+"Jennings","Indiana",38.9969,-85.6281,27639
+"Door","Wisconsin",44.9473,-87.3135,27621
+"San Miguel","New Mexico",35.4806,-104.816,27546
+"Peach","Georgia",32.5688,-83.8269,27502
+"Monroe","Georgia",33.0139,-83.9186,27455
+"Iroquois","Illinois",40.7472,-87.8243,27437
+"De Soto","Louisiana",32.0554,-93.7372,27395
+"Grant","New Mexico",32.7389,-108.3824,27391
+"Union","South Carolina",34.6895,-81.6191,27325
+"Montgomery","North Carolina",35.3325,-79.9055,27223
+"Currituck","North Carolina",36.4031,-76.0059,27210
+"Carroll","Ohio",40.5796,-81.0897,27195
+"White","Tennessee",35.9264,-85.4552,27087
+"Wyoming","Pennsylvania",41.5183,-76.0166,27078
+"Henry","Ohio",41.3339,-84.0682,27068
+"Logan","Kentucky",36.8597,-86.8789,27049
+"Mineral","West Virginia",39.4147,-78.9438,27047
+"Elmore","Idaho",43.3539,-115.4693,27043
+"Hardee","Florida",27.4927,-81.81,27027
+"Edgefield","South Carolina",33.7722,-81.9664,27021
+"Ashe","North Carolina",36.4341,-81.5003,27009
+"Carter","Kentucky",38.3182,-83.0495,26976
+"Toombs","Georgia",32.1217,-82.3313,26947
+"Russell","Virginia",36.9339,-82.0954,26937
+"Uvalde","Texas",29.3573,-99.7622,26899
+"Fluvanna","Virginia",37.8419,-78.2772,26873
+"Orleans","Vermont",44.829,-72.2434,26843
+"Simpson","Mississippi",31.9132,-89.9195,26818
+"Tillamook","Oregon",45.4637,-123.7127,26782
+"Cibola","New Mexico",34.9125,-107.9997,26763
+"Mason","West Virginia",38.7697,-82.0266,26700
+"King George","Virginia",38.2733,-77.1572,26679
+"Gillespie","Texas",30.3181,-98.9465,26668
+"Juneau","Wisconsin",43.9246,-90.1138,26603
+"Decatur","Georgia",30.8783,-84.579,26595
+"Decatur","Indiana",39.307,-85.5011,26587
+"Oceana","Michigan",43.6409,-86.2676,26545
+"Union","Oregon",45.3102,-118.0088,26502
+"Woodford","Kentucky",38.0424,-84.7436,26486
+"Johnson","Arkansas",35.5697,-93.4601,26475
+"Lewis","New York",43.7847,-75.4488,26456
+"Bell","Kentucky",36.7306,-83.6741,26426
+"West Baton Rouge","Louisiana",30.4636,-91.3127,26395
+"Geneva","Alabama",31.095,-85.8391,26383
+"Boone","Iowa",42.0365,-93.9316,26381
+"Marlboro","South Carolina",34.602,-79.6786,26376
+"Upson","Georgia",32.8813,-84.2994,26329
+"Grayson","Kentucky",37.4608,-86.3439,26313
+"Harlan","Kentucky",36.8569,-83.218,26307
+"Wasco","Oregon",45.16,-121.1678,26274
+"Perry","Kentucky",37.2443,-83.2215,26266
+"Montezuma","Colorado",37.3386,-108.5966,26266
+"Clay","Indiana",39.3928,-87.1158,26231
+"Elbert","Colorado",39.2865,-104.1359,26230
+"Barton","Kansas",38.479,-98.7565,26209
+"Charlevoix","Michigan",45.3014,-85.1259,26197
+"Cherokee","Alabama",34.1759,-85.6038,26035
+"Cass","Nebraska",40.9097,-96.1409,26022
+"Hart","Georgia",34.3509,-82.9642,25981
+"Mille Lacs","Minnesota",45.938,-93.6301,25963
+"Stephens","Georgia",34.5541,-83.2932,25934
+"McNairy","Tennessee",35.1755,-88.5636,25814
+"Lawrence","South Dakota",44.3586,-103.7923,25806
+"Fannin","Georgia",34.8641,-84.3198,25797
+"Sunflower","Mississippi",33.6023,-90.5886,25759
+"Somerset","Maryland",38.1158,-75.7518,25699
+"Lyon","Minnesota",44.4135,-95.839,25696
+"Lauderdale","Tennessee",35.7605,-89.6305,25689
+"Hardin","Tennessee",35.1987,-88.1845,25665
+"Franklin","Kansas",38.5645,-95.286,25643
+"Taylor","Kentucky",37.3664,-85.3278,25572
+"Allen","Louisiana",30.653,-92.828,25572
+"Benton","Iowa",42.0802,-92.0657,25558
+"Texas","Missouri",37.3173,-91.965,25518
+"Posey","Indiana",38.0218,-87.8684,25480
+"St. Francis","Arkansas",35.022,-90.7478,25477
+"Adair","Missouri",40.1906,-92.6007,25468
+"Cheboygan","Michigan",45.4463,-84.4999,25435
+"Tattnall","Georgia",32.0458,-82.0582,25392
+"Lamoille","Vermont",44.607,-72.6418,25376
+"Dickinson","Michigan",46.0092,-87.8703,25373
+"Miller","Missouri",38.2145,-92.4284,25369
+"Audrain","Missouri",39.2157,-91.8416,25336
+"Routt","Colorado",40.4851,-106.9912,25317
+"Gladwin","Michigan",43.9907,-84.3883,25312
+"Salem","Virginia",37.2864,-80.0555,25290
+"Dawson","Georgia",34.4443,-84.1706,25277
+"Shelby","Texas",31.7924,-94.145,25263
+"Hardeman","Tennessee",35.2068,-88.9931,25247
+"Fayette","Texas",29.8768,-96.9198,25247
+"Iosco","Michigan",44.3559,-83.6359,25213
+"Morehouse","Louisiana",32.8202,-91.8018,25189
+"Prentiss","Mississippi",34.6183,-88.5201,25155
+"Plymouth","Iowa",42.7378,-96.2141,25141
+"Grant","Kentucky",38.6488,-84.6246,25107
+"Washington","Florida",30.6106,-85.6653,25094
+"Brown","Minnesota",44.2421,-94.7276,25076
+"Cleburne","Arkansas",35.5382,-92.0267,25063
+"Bremer","Iowa",42.7746,-92.318,25032
+"Barbour","Alabama",31.8696,-85.3932,25026
+"Hickman","Tennessee",35.8033,-87.4733,25017
+"Teller","Colorado",38.8824,-105.1618,24981
+"Yates","New York",42.6335,-77.1055,24981
+"Nicholas","West Virginia",38.2917,-80.7994,24857
+"Chattooga","Georgia",34.475,-85.3453,24826
+"Washington","Missouri",37.9617,-90.8774,24819
+"Jackson","Oklahoma",34.588,-99.4148,24808
+"Milam","Texas",30.7863,-96.9768,24797
+"Marion","Mississippi",31.2308,-89.8224,24785
+"Randolph","Missouri",39.4402,-92.4971,24769
+"Randolph","Indiana",40.1576,-85.0114,24694
+"Grady","Georgia",30.8747,-84.2344,24693
+"Staunton","Virginia",38.1593,-79.0611,24660
+"Juniata","Pennsylvania",40.5311,-77.4022,24657
+"Seminole","Oklahoma",35.1675,-96.6155,24624
+"Otsego","Michigan",45.0214,-84.599,24613
+"Churchill","Nevada",39.5808,-118.3358,24606
+"Todd","Minnesota",46.0706,-94.8976,24603
+"Abbeville","South Carolina",34.2226,-82.4593,24582
+"Manistee","Michigan",44.333,-86.0568,24539
+"Rowan","Kentucky",38.1963,-83.4211,24534
+"Lincoln","Kentucky",37.4554,-84.6608,24493
+"Butts","Georgia",33.2879,-83.9572,24463
+"Upshur","West Virginia",38.8978,-80.2334,24451
+"Anson","North Carolina",34.9738,-80.1027,24430
+"Waushara","Wisconsin",44.1131,-89.2429,24256
+"Aransas","Texas",28.1249,-96.9934,24220
+"Macon","Tennessee",36.532,-86.0073,24208
+"Pottawatomie","Kansas",39.379,-96.3424,24203
+"White","Indiana",40.7498,-86.8655,24163
+"George","Mississippi",30.8626,-88.644,24098
+"Ohio","Kentucky",37.4782,-86.8489,24081
+"Jerome","Idaho",42.6899,-114.264,24074
+"Jefferson","Oregon",44.6294,-121.1761,24048
+"Luna","New Mexico",32.1822,-107.7498,24022
+"Union","Georgia",34.8341,-83.9907,23999
+"Crawford","Missouri",37.9764,-91.3039,23984
+"Sabine","Louisiana",31.564,-93.5547,23915
+"Clarke","Alabama",31.6767,-87.8308,23866
+"Roscommon","Michigan",44.3356,-84.6116,23863
+"Page","Virginia",38.6194,-78.4844,23862
+"Cassia","Idaho",42.2839,-113.6001,23847
+"Mingo","West Virginia",37.7265,-82.1347,23808
+"Scott","Indiana",38.6851,-85.7475,23785
+"Hertford","North Carolina",36.3591,-76.982,23752
+"Poinsett","Arkansas",35.574,-90.663,23747
+"Saline","Illinois",37.7531,-88.5407,23735
+"Crook","Oregon",44.1422,-120.3566,23733
+"Lee","Virginia",36.7054,-83.1286,23723
+"Winston","Alabama",34.1492,-87.3737,23712
+"Payette","Idaho",44.0067,-116.7608,23705
+"Dawson","Nebraska",40.8699,-99.8196,23638
+"Iowa","Wisconsin",43.0005,-90.1354,23632
+"Columbia","Arkansas",33.2143,-93.2273,23620
+"Ouachita","Arkansas",33.5934,-92.8819,23597
+"Goochland","Virginia",37.722,-77.9156,23472
+"Itawamba","Mississippi",34.28,-88.3613,23396
+"Limestone","Texas",31.5455,-96.5805,23364
+"Teton","Wyoming",43.9347,-110.5898,23356
+"Osceola","Michigan",43.9898,-85.3252,23323
+"Fairfax","Virginia",38.8531,-77.2997,23312
+"Plaquemines","Louisiana",29.4406,-89.61,23305
+"Hampshire","West Virginia",39.3171,-78.6141,23304
+"Antrim","Michigan",44.9991,-85.1403,23301
+"Hood River","Oregon",45.519,-121.6511,23270
+"Grainger","Tennessee",36.2763,-83.5096,23268
+"Panola","Texas",32.1624,-94.3056,23186
+"Meeker","Minnesota",45.1231,-94.5273,23149
+"Fayette","Indiana",39.6401,-85.1787,23068
+"Franklin","Georgia",34.3754,-83.2291,23015
+"Starke","Indiana",41.2809,-86.6476,22996
+"Hockley","Texas",33.6077,-102.3432,22986
+"Meigs","Ohio",39.0822,-82.0229,22974
+"Houston","Texas",31.3177,-95.4227,22942
+"Saline","Missouri",39.1368,-93.2018,22932
+"Sumner","Kansas",37.2373,-97.4765,22928
+"Menominee","Michigan",45.5801,-87.5566,22902
+"Ray","Missouri",39.3523,-93.9899,22900
+"Prince Edward","Virginia",37.2243,-78.4411,22892
+"Curry","Oregon",42.4576,-124.1568,22889
+"McDonald","Missouri",36.6287,-94.3483,22882
+"Leake","Mississippi",32.7535,-89.524,22791
+"Bandera","Texas",29.7472,-99.2463,22770
+"Franklin","Indiana",39.4149,-85.0602,22750
+"Yankton","South Dakota",43.009,-97.3948,22746
+"Randolph","Alabama",33.2938,-85.4591,22732
+"Blaine","Idaho",43.412,-113.9802,22729
+"Rockbridge","Virginia",37.8145,-79.4473,22728
+"Coahoma","Mississippi",34.23,-90.6017,22685
+"Martin","North Carolina",35.8432,-77.1093,22644
+"Asotin","Washington",46.1918,-117.203,22636
+"Caswell","North Carolina",36.3932,-79.3335,22619
+"Anderson","Kentucky",38.0039,-84.991,22580
+"Burke","Georgia",33.0611,-82.0007,22567
+"Emanuel","Georgia",32.5897,-82.3017,22525
+"Crisp","Georgia",31.9229,-83.7681,22509
+"Hopewell","Virginia",37.2915,-77.2985,22500
+"Johnson","Kentucky",37.8466,-82.8315,22427
+"Fairfield","South Carolina",34.3951,-81.1212,22406
+"Bibb","Alabama",32.9986,-87.1265,22374
+"Mahaska","Iowa",41.3352,-92.6409,22351
+"Clark","Arkansas",34.0509,-93.1764,22341
+"Grant","Louisiana",31.5997,-92.5594,22339
+"New Kent","Virginia",37.5052,-76.9973,22310
+"Waynesboro","Virginia",38.0674,-78.9014,22300
+"Logan","Colorado",40.7247,-103.1101,22282
+"Union","Louisiana",32.8318,-92.3748,22270
+"Assumption","Louisiana",29.9024,-91.0608,22236
+"Nodaway","Missouri",40.3608,-94.8834,22199
+"Adair","Oklahoma",35.8839,-94.6587,22171
+"Overton","Tennessee",36.345,-85.2881,22171
+"Brooke","West Virginia",40.2739,-80.5765,22162
+"Pacific","Washington",46.5557,-123.7041,22121
+"Washington","Iowa",41.3356,-91.7179,22100
+"Mitchell","Georgia",31.2253,-84.1943,22072
+"Gray","Texas",35.4012,-100.8126,22063
+"Klickitat","Washington",45.8738,-120.7891,22055
+"Scott","Tennessee",36.4285,-84.5035,22020
+"Tippah","Mississippi",34.7684,-88.9089,21976
+"Letcher","Kentucky",37.1212,-82.8553,21936
+"Vilas","Wisconsin",46.0529,-89.5148,21923
+"Wyandot","Ohio",40.8424,-83.3044,21907
+"Putnam","Georgia",33.3218,-83.3728,21906
+"Seward","Kansas",37.1933,-100.8513,21902
+"Boone","West Virginia",38.023,-81.7112,21897
+"Pointe Coupee","Louisiana",30.7095,-91.6008,21883
+"Beckham","Oklahoma",35.2687,-99.682,21860
+"Henry","Missouri",38.3852,-93.7927,21854
+"Jersey","Illinois",39.0855,-90.3565,21776
+"Scott","Virginia",36.7143,-82.6029,21761
+"Taylor","Florida",30.047,-83.6035,21709
+"Hempstead","Arkansas",33.7354,-93.6684,21695
+"Mercer","Kentucky",37.811,-84.8744,21690
+"Nobles","Minnesota",43.6742,-95.7534,21667
+"Leelanau","Michigan",44.9385,-85.812,21649
+"Shelby","Illinois",39.3912,-88.8055,21623
+"Logan","Arkansas",35.2149,-93.7166,21619
+"Madison","North Carolina",35.858,-82.7058,21608
+"Wabasha","Minnesota",44.2843,-92.2303,21564
+"Gage","Nebraska",40.2619,-96.6894,21548
+"Morgan","Tennessee",36.135,-84.6492,21538
+"Tyler","Texas",30.7712,-94.3766,21524
+"Colusa","California",39.1775,-122.237,21491
+"Sevier","Utah",38.7478,-111.8045,21475
+"Calhoun","Texas",28.5067,-96.602,21470
+"Llano","Texas",30.7057,-98.6841,21452
+"Jo Daviess","Illinois",42.3658,-90.2126,21429
+"Yell","Arkansas",35.0025,-93.4111,21425
+"Willacy","Texas",26.4693,-97.6622,21419
+"Fayette","Illinois",39.0002,-89.0241,21418
+"McDuffie","Georgia",33.4828,-82.4814,21404
+"Buchanan","Virginia",37.2666,-82.036,21374
+"Colorado","Texas",29.6208,-96.5263,21357
+"Saunders","Nebraska",41.2264,-96.6374,21356
+"Hubbard","Minnesota",47.1086,-94.9167,21287
+"Newton","Mississippi",32.4002,-89.1188,21215
+"Barnwell","South Carolina",33.2661,-81.435,21170
+"Moore","Texas",35.8377,-101.8929,21169
+"Lampasas","Texas",31.1962,-98.2414,21152
+"St. James","Louisiana",30.027,-90.7931,21142
+"Buchanan","Iowa",42.4708,-91.8379,21141
+"Hutchinson","Texas",35.84,-101.3547,21105
+"Perry","Illinois",38.0837,-89.367,21092
+"Meriwether","Georgia",33.0406,-84.6883,21080
+"Gaines","Texas",32.7407,-102.6352,21077
+"Allen","Kentucky",36.7512,-86.1904,21065
+"La Paz","Arizona",33.7294,-113.9815,21035
+"Fillmore","Minnesota",43.674,-92.0902,21031
+"Monroe","Alabama",31.5708,-87.3654,21006
+"Greene","North Carolina",35.485,-77.6758,20987
+"Grenada","Mississippi",33.77,-89.8021,20927
+"Conway","Arkansas",35.2624,-92.7015,20895
+"Ogemaw","Michigan",44.3349,-84.1264,20895
+"Wyoming","West Virginia",37.6096,-81.5492,20890
+"Stutsman","North Dakota",46.9793,-98.9588,20879
+"Owen","Indiana",39.3128,-86.8377,20854
+"Gonzales","Texas",29.4567,-97.4925,20828
+"Minidoka","Idaho",42.8543,-113.6375,20817
+"Dodge","Minnesota",44.0226,-92.862,20807
+"Dodge","Georgia",32.1722,-83.1684,20725
+"Jay","Indiana",40.4379,-85.0057,20697
+"Polk","North Carolina",35.2793,-82.1697,20682
+"Sullivan","Indiana",39.0888,-87.4147,20647
+"Texas","Oklahoma",36.7479,-101.4901,20633
+"Lincoln","West Virginia",38.1754,-82.0704,20617
+"Jones","Iowa",42.1212,-91.1315,20575
+"Vernon","Missouri",37.8506,-94.3424,20560
+"Jackson","Wisconsin",44.3192,-90.8052,20556
+"Washington","Nebraska",41.5311,-96.222,20546
+"Clinton","Missouri",39.6018,-94.4046,20503
+"Wayne","Kentucky",36.8013,-84.8286,20447
+"Morgan","Missouri",38.4237,-92.886,20438
+"Carbon","Utah",39.6481,-110.5888,20401
+"Kewaunee","Wisconsin",44.5161,-87.6153,20398
+"Uinta","Wyoming",41.2876,-110.5476,20374
+"Spencer","Indiana",38.014,-87.0077,20364
+"Woodward","Oklahoma",36.4227,-99.2651,20352
+"Worth","Georgia",31.5515,-83.8509,20346
+"Wayne","Mississippi",31.6408,-88.6958,20344
+"Taylor","Wisconsin",45.2116,-90.5012,20320
+"Washington","Georgia",32.9695,-82.7959,20316
+"Saluda","South Carolina",34.0061,-81.7268,20292
+"Breckinridge","Kentucky",37.7732,-86.4293,20283
+"Richland","Louisiana",32.4178,-91.7635,20251
+"DeWitt","Texas",29.0821,-97.3568,20217
+"Adams","Wisconsin",43.9695,-89.7704,20208
+"Carroll","Iowa",42.0362,-94.8605,20150
+"Carroll","Indiana",40.5828,-86.5635,20137
+"Dakota","Nebraska",42.3911,-96.5646,20124
+"Clay","Kentucky",37.1597,-83.7147,20110
+"Franklin","Louisiana",32.1333,-91.6738,20109
+"DeKalb","Tennessee",35.9799,-85.8328,20104
+"Winneshiek","Iowa",43.2907,-91.8437,20090
+"Lavaca","Texas",29.3843,-96.9302,20072
+"Fulton","Indiana",41.047,-86.2636,20069
+"Pickens","Alabama",33.2809,-88.0887,20049
+"Cherokee","Kansas",37.1693,-94.8463,20017
+"Frio","Texas",28.8678,-99.1082,20013
+"Ashley","Arkansas",33.1912,-91.7685,20000
+"Polk","Arkansas",34.4858,-94.2282,19999
+"Bourbon","Kentucky",38.2067,-84.2171,19998
+"Chaffee","Colorado",38.747,-106.1941,19977
+"Duchesne","Utah",40.2982,-110.4252,19950
+"Buena Vista","Iowa",42.7355,-95.1511,19950
+"Labette","Kansas",37.1913,-95.2976,19938
+"Smith","Tennessee",36.2505,-85.9567,19926
+"Davison","South Dakota",43.6747,-98.146,19890
+"Henry","Iowa",40.988,-91.5445,19889
+"Jones","Texas",32.7399,-99.8787,19874
+"Lincoln","Montana",48.5425,-115.4051,19845
+"Warren","North Carolina",36.3965,-78.1067,19746
+"Freestone","Texas",31.7049,-96.1491,19744
+"Martin","Minnesota",43.6744,-94.5511,19737
+"Greene","Virginia",38.2976,-78.4669,19734
+"Butler","Alabama",31.7524,-86.6803,19726
+"Adams","Washington",46.9833,-118.5606,19702
+"Union","Tennessee",36.2879,-83.8375,19678
+"McIntosh","Oklahoma",35.3736,-95.6668,19677
+"Northampton","North Carolina",36.4178,-77.3969,19672
+"Montague","Texas",33.6757,-97.7246,19640
+"Lincoln","New Mexico",33.7453,-105.4593,19640
+"Lincoln","Wyoming",42.2639,-110.656,19640
+"Fayette","Iowa",42.8626,-91.8443,19604
+"Orange","Indiana",38.5418,-86.4951,19552
+"Douglas","Illinois",39.7695,-88.2173,19551
+"Concordia","Louisiana",31.4459,-91.6401,19533
+"Holmes","Florida",30.8679,-85.8141,19530
+"Clay","Mississippi",33.6557,-88.7816,19515
+"Kent","Maryland",39.2545,-76.0399,19456
+"Tishomingo","Mississippi",34.7404,-88.2393,19396
+"Adair","Kentucky",37.1041,-85.2807,19366
+"Jackson","Iowa",42.1717,-90.5742,19348
+"Pierce","Georgia",31.3588,-82.2128,19336
+"Benton","Missouri",38.2948,-93.2879,19305
+"Marion","Kentucky",37.5525,-85.2696,19257
+"Long","Georgia",31.7526,-81.7457,19236
+"East Feliciana","Louisiana",30.8451,-91.0455,19228
+"Perry","Missouri",37.7072,-89.8244,19227
+"Hampton","South Carolina",32.7763,-81.1407,19223
+"Berrien","Georgia",31.276,-83.2296,19206
+"Langlade","Wisconsin",45.2623,-89.0719,19167
+"Elbert","Georgia",34.1168,-82.8401,19164
+"Marengo","Alabama",32.2476,-87.7896,19138
+"Perry","Indiana",38.0796,-86.638,19091
+"Bertie","North Carolina",36.0662,-76.9787,19081
+"Los Alamos","New Mexico",35.8693,-106.3073,18976
+"Jefferson","Kansas",39.2358,-95.3834,18974
+"Spencer","Kentucky",38.0325,-85.3279,18945
+"Brantley","Georgia",31.1969,-81.9819,18924
+"Banks","Georgia",34.3543,-83.4972,18900
+"Plumas","California",40.0047,-120.8386,18844
+"Lamar","Georgia",33.0765,-84.1394,18834
+"Hart","Kentucky",37.2999,-85.8847,18833
+"Crawford","Illinois",39.0027,-87.7595,18833
+"Morgan","Georgia",33.5908,-83.4924,18832
+"Covington","Mississippi",31.6332,-89.5526,18810
+"Green Lake","Wisconsin",43.8004,-89.0448,18807
+"Harrison","Kentucky",38.4418,-84.3314,18763
+"Paulding","Ohio",41.1166,-84.5802,18742
+"Roosevelt","New Mexico",34.0212,-103.4801,18723
+"Houston","Minnesota",43.6714,-91.4929,18670
+"Waseca","Minnesota",44.0221,-93.5873,18658
+"Deaf Smith","Texas",34.966,-102.6049,18617
+"Dickinson","Kansas",38.8665,-97.1527,18614
+"Pike","Georgia",33.0923,-84.3892,18565
+"Madison","Florida",30.4441,-83.4701,18557
+"Humphreys","Tennessee",36.0409,-87.7757,18528
+"Cedar","Iowa",41.7723,-91.1324,18475
+"Macon","Alabama",32.3859,-85.6927,18437
+"Appling","Georgia",31.7493,-82.289,18428
+"Bosque","Texas",31.9004,-97.6343,18428
+"Fentress","Tennessee",36.3805,-84.9325,18405
+"Poweshiek","Iowa",41.6864,-92.5315,18391
+"Park","Colorado",39.1194,-105.7172,18345
+"Beadle","South Dakota",44.4145,-98.2781,18338
+"Simpson","Kentucky",36.7419,-86.5823,18319
+"Attala","Mississippi",33.0863,-89.5815,18308
+"Eastland","Texas",32.3271,-98.8323,18289
+"Otero","Colorado",37.9026,-103.7164,18284
+"Stone","Mississippi",30.79,-89.1177,18282
+"Drew","Arkansas",33.5894,-91.72,18263
+"Bethel","Alaska",60.9131,-159.8186,18263
+"Wright","Missouri",37.2702,-92.4687,18256
+"Gilchrist","Florida",29.7258,-82.8004,18245
+"Burleson","Texas",30.4925,-96.6215,18237
+"Grant","Arkansas",34.29,-92.4236,18229
+"Andrews","Texas",32.305,-102.6378,18227
+"Montour","Pennsylvania",41.0279,-76.6586,18178
+"Pike","Missouri",39.3438,-91.1714,18158
+"Jefferson","Iowa",41.0318,-91.9489,18153
+"Phillips","Arkansas",34.4275,-90.8489,18151
+"Winston","Mississippi",33.0885,-89.0344,18116
+"McDowell","West Virginia",37.3785,-81.6536,18083
+"Pitkin","Colorado",39.2171,-106.9166,17980
+"Young","Texas",33.1767,-98.6878,17961
+"Randolph","Arkansas",36.3415,-91.0276,17934
+"Inyo","California",36.5111,-117.4107,17930
+"Ste. Genevieve","Missouri",37.8944,-90.1944,17887
+"Westmoreland","Virginia",38.112,-76.8042,17873
+"Yancey","North Carolina",35.8989,-82.3076,17870
+"Russell","Kentucky",36.991,-85.0587,17846
+"Schuyler","New York",42.3938,-76.8752,17845
+"Radford","Virginia",37.1229,-80.5587,17833
+"Southampton","Virginia",36.7204,-77.1061,17829
+"Unicoi","Tennessee",36.1107,-82.4323,17821
+"Hancock","Illinois",40.4038,-91.1647,17820
+"Greene","Georgia",33.5788,-83.1667,17808
+"Morgan","West Virginia",39.5604,-78.2578,17800
+"Franklin","Arkansas",35.5123,-93.8906,17785
+"Gem","Idaho",44.0616,-116.3975,17771
+"Arkansas","Arkansas",34.2892,-91.3742,17761
+"Johnson","Tennessee",36.4549,-81.8518,17755
+"Kalkaska","Michigan",44.6847,-85.0902,17725
+"Benzie","Michigan",44.6387,-86.0155,17703
+"Patrick","Virginia",36.6783,-80.2844,17660
+"Hughes","South Dakota",44.389,-99.996,17560
+"Garrard","Kentucky",37.6396,-84.5377,17554
+"Andrew","Missouri",39.9835,-94.8021,17554
+"Manassas Park","Virginia",38.7709,-77.4429,17548
+"Clayton","Iowa",42.8448,-91.3414,17527
+"Cooper","Missouri",38.8436,-92.8101,17522
+"Avery","North Carolina",36.0766,-81.9226,17510
+"Dukes","Massachusetts",41.3961,-70.6501,17430
+"Holmes","Mississippi",33.1235,-90.092,17414
+"Richland","Wisconsin",43.3756,-90.4295,17408
+"Haywood","Tennessee",35.5832,-89.2838,17391
+"McCreary","Kentucky",36.7371,-84.4842,17333
+"Leon","Texas",31.2965,-95.9957,17325
+"Mariposa","California",37.5815,-119.9055,17319
+"Colonial Heights","Virginia",37.265,-77.3969,17283
+"Falls","Texas",31.2533,-96.9359,17281
+"New Madrid","Missouri",36.5946,-89.6517,17275
+"Edgar","Illinois",39.6785,-87.7456,17272
+"Dickinson","Iowa",43.378,-95.1508,17260
+"Chester","Tennessee",35.4217,-88.6135,17260
+"Cook","Georgia",31.154,-83.4305,17217
+"Seward","Nebraska",40.8724,-97.1395,17217
+"Sharp","Arkansas",36.1612,-91.4798,17217
+"Lee","Texas",30.3107,-96.9657,17174
+"Lee","South Carolina",34.1633,-80.2545,17144
+"Henry","Alabama",31.5147,-85.2414,17123
+"Mason","Kentucky",38.5952,-83.8242,17122
+"Gunnison","Colorado",38.6668,-107.0317,17119
+"Delaware","Iowa",42.4712,-91.3673,17107
+"Robertson","Texas",31.027,-96.5129,17094
+"Buckingham","Virginia",37.5722,-78.5287,17087
+"Chickasaw","Mississippi",33.9208,-88.9479,17060
+"Bristol","Virginia",36.6181,-82.1604,17059
+"Crawford","Iowa",42.0372,-95.382,16998
+"King William","Virginia",37.7066,-77.0885,16985
+"Warren","Illinois",40.8488,-90.615,16981
+"Tama","Iowa",42.0798,-92.5325,16962
+"San Juan","Washington",48.5782,-122.965,16953
+"Sevier","Arkansas",33.9972,-94.2412,16947
+"Hardin","Iowa",42.3839,-93.2404,16924
+"Scurry","Texas",32.7463,-100.9164,16918
+"Parke","Indiana",39.7736,-87.2064,16912
+"Jackson","Arkansas",35.5992,-91.2145,16908
+"Ben Hill","Georgia",31.7598,-83.2205,16889
+"Piscataquis","Maine",45.8373,-69.2846,16864
+"Rabun","Georgia",34.8818,-83.402,16859
+"Dallas","Missouri",37.6804,-93.0237,16841
+"Humboldt","Nevada",41.4068,-118.112,16834
+"Union","Illinois",37.4713,-89.2551,16829
+"Taylor","West Virginia",39.336,-80.0462,16817
+"Polk","Tennessee",35.1199,-84.5233,16807
+"Rockcastle","Kentucky",37.3651,-84.316,16795
+"Giles","Virginia",37.3142,-80.7029,16760
+"Dixie","Florida",29.6082,-83.1588,16740
+"Socorro","New Mexico",34.0072,-106.9304,16723
+"Marshall","Oklahoma",34.0245,-96.7691,16688
+"Potter","Pennsylvania",41.7449,-77.8958,16685
+"Lafayette","Wisconsin",42.6605,-90.1317,16682
+"Wayne","Tennessee",35.2399,-87.788,16638
+"Rush","Indiana",39.62,-85.4658,16632
+"Marion","Arkansas",36.2684,-92.6842,16586
+"Van Buren","Arkansas",35.5806,-92.5157,16578
+"Cross","Arkansas",35.2957,-90.7711,16576
+"Barbour","West Virginia",39.1329,-80.003,16543
+"Bond","Illinois",38.8868,-89.4356,16520
+"Park","Montana",45.4884,-110.5267,16513
+"Lawrence","Arkansas",36.0412,-91.107,16511
+"Idaho","Idaho",45.8441,-115.4675,16511
+"Sawyer","Wisconsin",45.88,-91.1446,16477
+"Fountain","Indiana",40.1209,-87.242,16456
+"Jasper","Mississippi",32.0191,-89.1189,16454
+"Hill","Montana",48.6282,-110.1112,16422
+"Piatt","Illinois",40.0103,-88.5911,16412
+"Fayette","Alabama",33.7212,-87.7389,16406
+"Pawnee","Oklahoma",36.3169,-96.6992,16402
+"Madison","Arkansas",36.011,-93.7246,16393
+"Washington","Alabama",31.4076,-88.2079,16336
+"Brunswick","Virginia",36.7648,-77.859,16336
+"Pemiscot","Missouri",36.2114,-89.7854,16330
+"Wayne","Illinois",38.4295,-88.4256,16309
+"Bates","Missouri",38.2573,-94.34,16282
+"Richland","North Dakota",46.2646,-96.9483,16245
+"Atchison","Kansas",39.5318,-95.3135,16210
+"Kanabec","Minnesota",45.9452,-93.2934,16205
+"Dade","Georgia",34.8546,-85.5045,16183
+"Crawford","Wisconsin",43.2395,-90.931,16155
+"Iowa","Iowa",41.6863,-92.0655,16155
+"Alamosa","Colorado",37.5729,-105.7883,16153
+"Madison","Iowa",41.3307,-94.0156,16148
+"Clay","Iowa",43.0826,-95.1509,16138
+"Benton","Tennessee",36.0698,-88.0683,16133
+"Baker","Oregon",44.7092,-117.6753,16090
+"Lewis","West Virginia",38.9959,-80.5022,16024
+"Neosho","Kansas",37.5585,-95.3068,16008
+"Henry","Kentucky",38.4485,-85.1189,15999
+"Casey","Kentucky",37.3223,-84.9284,15968
+"Otoe","Nebraska",40.6485,-96.1348,15965
+"Smith","Mississippi",32.0177,-89.5067,15919
+"Moniteau","Missouri",38.6328,-92.5831,15907
+"Telfair","Georgia",31.9298,-82.939,15871
+"Osage","Kansas",38.6523,-95.7269,15855
+"Claiborne","Louisiana",32.8227,-92.9958,15854
+"Lawrence","Illinois",38.72,-87.7268,15830
+"Aitkin","Minnesota",46.6083,-93.4154,15826
+"Jackson","Louisiana",32.302,-92.5579,15822
+"Appomattox","Virginia",37.3724,-78.8126,15814
+"Kingfisher","Oklahoma",35.9454,-97.9421,15811
+"Floyd","Virginia",36.9316,-80.3626,15766
+"De Witt","Illinois",40.1746,-88.9041,15764
+"Washburn","Wisconsin",45.8992,-91.7913,15726
+"Pecos","Texas",30.781,-102.7236,15725
+"Floyd","Iowa",43.0599,-92.789,15713
+"Richland","Illinois",38.7124,-88.0851,15677
+"Union","South Dakota",42.8326,-96.656,15659
+"Grayson","Virginia",36.6565,-81.2249,15651
+"Clarke","Mississippi",32.0414,-88.6894,15612
+"Lawrence","Kentucky",38.0679,-82.7348,15604
+"Clark","Illinois",39.3336,-87.7877,15602
+"Pike","Illinois",39.6225,-90.8863,15571
+"Brooks","Georgia",30.842,-83.5802,15548
+"Karnes","Texas",28.9057,-97.8594,15547
+"Reeves","Texas",31.3231,-103.6931,15546
+"Grand","Colorado",40.1026,-106.1183,15536
+"Ashland","Wisconsin",46.3148,-90.6781,15524
+"Dent","Missouri",37.6066,-91.5079,15518
+"Mercer","Illinois",41.2053,-90.7414,15503
+"Jefferson","Georgia",33.0549,-82.4182,15489
+"Vermillion","Indiana",39.8538,-87.464,15485
+"Torrance","New Mexico",34.6405,-105.8508,15477
+"West Feliciana","Louisiana",30.8798,-91.42,15441
+"Marquette","Wisconsin",43.8196,-89.3987,15380
+"Burnett","Wisconsin",45.8627,-92.3676,15363
+"Nottoway","Virginia",37.1431,-78.0512,15338
+"San Juan","Utah",37.626,-109.8045,15295
+"Wetzel","West Virginia",39.6053,-80.6391,15291
+"Union","Florida",30.0438,-82.3714,15282
+"Gooding","Idaho",42.971,-114.8116,15280
+"Roseau","Minnesota",48.7751,-95.8108,15259
+"Page","Iowa",40.7391,-95.1502,15205
+"Redwood","Minnesota",44.4037,-95.2538,15193
+"Macon","Missouri",39.8308,-92.5646,15154
+"Tipton","Indiana",40.3114,-86.0519,15154
+"Harrison","Ohio",40.2938,-81.0911,15132
+"Brown","Indiana",39.1962,-86.2274,15093
+"Bayfield","Wisconsin",46.5237,-91.2009,15088
+"Missaukee","Michigan",44.3374,-85.0947,15075
+"Gulf","Florida",29.9556,-85.2266,15073
+"Carbon","Wyoming",41.6946,-106.9307,15073
+"Jeff Davis","Georgia",31.8056,-82.6369,15063
+"Knott","Kentucky",37.354,-82.9541,15041
+"Oglethorpe","Georgia",33.8807,-83.0807,15040
+"Williamsburg","Virginia",37.2693,-76.7076,15034
+"Alleghany","Virginia",37.7878,-80.0062,15030
+"Mills","Iowa",41.0334,-95.6213,15023
+"Arenac","Michigan",44.0656,-83.8952,15013
+"Livingston","Missouri",39.7821,-93.5483,14969
+"Bledsoe","Tennessee",35.5964,-85.2051,14961
+"Mitchell","North Carolina",36.0133,-82.1636,14959
+"Cleburne","Alabama",33.6746,-85.5188,14952
+"LaSalle","Louisiana",31.6768,-92.1604,14950
+"Sequatchie","Tennessee",35.3712,-85.4106,14936
+"Hamilton","Iowa",42.3838,-93.7068,14905
+"Nolan","Texas",32.3035,-100.4061,14901
+"Sibley","Minnesota",44.5795,-94.2321,14871
+"Kossuth","Iowa",43.2041,-94.2067,14864
+"Jackson","Texas",28.9542,-96.5776,14822
+"Nelson","Virginia",37.7874,-78.8868,14812
+"Hale","Alabama",32.7627,-87.6291,14754
+"Choctaw","Oklahoma",34.0266,-95.5522,14727
+"Gogebic","Michigan",46.4087,-89.6944,14715
+"Clay","Arkansas",36.3682,-90.4175,14710
+"Trinity","Texas",31.0888,-95.1355,14689
+"Gasconade","Missouri",38.4409,-91.5079,14673
+"Calhoun","South Carolina",33.6749,-80.7803,14608
+"Pendleton","Kentucky",38.6956,-84.3603,14587
+"Union","Kentucky",37.6584,-87.9454,14582
+"Renville","Minnesota",44.7268,-94.9471,14572
+"Trigg","Kentucky",36.8064,-87.8733,14569
+"Morgan","Ohio",39.6204,-81.8527,14557
+"Moultrie","Illinois",39.6415,-88.6193,14557
+"Bourbon","Kansas",37.8552,-94.8493,14539
+"Dickenson","Virginia",37.1258,-82.3504,14524
+"Fleming","Kentucky",38.3701,-83.6966,14519
+"Butler","Iowa",42.7316,-92.7902,14508
+"Clarke","Virginia",39.1123,-77.9967,14498
+"Fulton","Pennsylvania",39.9253,-78.1127,14492
+"Rolette","North Dakota",48.7725,-99.8409,14437
+"Walthall","Mississippi",31.1484,-90.1061,14423
+"Calhoun","Mississippi",33.9365,-89.3365,14417
+"Noble","Ohio",39.766,-81.4555,14410
+"Carroll","Illinois",42.0688,-89.9343,14398
+"Hamilton","Florida",30.4964,-82.9479,14397
+"Mono","California",37.9391,-118.8869,14395
+"Cannon","Tennessee",35.8087,-86.0617,14374
+"Madison","Texas",30.9655,-95.9284,14329
+"Calhoun","Florida",30.406,-85.1972,14324
+"Las Animas","Colorado",37.3158,-104.0387,14323
+"Crockett","Tennessee",35.8135,-89.1395,14310
+"Falls Church","Virginia",38.8847,-77.1751,14309
+"Jefferson","Florida",30.4375,-83.8953,14278
+"Oglala Lakota","South Dakota",43.3355,-102.5516,14277
+"Craig","Oklahoma",36.7618,-95.2085,14274
+"Larue","Kentucky",37.5458,-85.6979,14269
+"Zapata","Texas",27.0008,-99.1686,14243
+"Swain","North Carolina",35.4868,-83.4928,14241
+"Bamberg","South Carolina",33.2148,-81.0542,14236
+"Saline","Nebraska",40.5241,-97.1409,14221
+"McIntosh","Georgia",31.4963,-81.4103,14217
+"Estill","Kentucky",37.6924,-83.9643,14187
+"Winn","Louisiana",31.9442,-92.6369,14165
+"Cedar","Missouri",37.7239,-93.8566,14144
+"Pennington","Minnesota",48.0663,-96.0367,14110
+"Clay","South Dakota",42.9146,-96.9756,14076
+"Rusk","Wisconsin",45.4752,-91.1331,14074
+"Jasper","Georgia",33.3164,-83.6881,14074
+"Harrison","Iowa",41.6829,-95.8168,14043
+"Massac","Illinois",37.2189,-88.7076,14041
+"Tallahatchie","Mississippi",33.9505,-90.1733,14041
+"Braxton","West Virginia",38.6999,-80.7193,14032
+"Chowan","North Carolina",36.1508,-76.6079,13995
+"Newton","Indiana",40.9558,-87.3976,13981
+"Screven","Georgia",32.7505,-81.6119,13977
+"Murray","Oklahoma",34.4823,-97.0679,13972
+"Washington","Illinois",38.3522,-89.4105,13967
+"Callahan","Texas",32.2977,-99.3735,13959
+"Crawford","Michigan",44.6836,-84.6103,13904
+"Lamar","Alabama",33.7792,-88.0969,13854
+"Converse","Wyoming",42.9724,-105.5071,13842
+"McKenzie","North Dakota",47.7402,-103.3953,13836
+"Ketchikan Gateway","Alaska",55.5852,-130.9288,13833
+"Roane","West Virginia",38.714,-81.3483,13831
+"Monroe","Ohio",39.7274,-81.0829,13827
+"Crenshaw","Alabama",31.7315,-86.3135,13826
+"Atoka","Oklahoma",34.3736,-96.0378,13815
+"O'Brien","Iowa",43.0838,-95.6249,13796
+"Hardy","West Virginia",39.0075,-78.8579,13789
+"Newton","Texas",30.7864,-93.7447,13788
+"Glades","Florida",26.9564,-81.189,13777
+"Allamakee","Iowa",43.2843,-91.3781,13761
+"Franklin","Idaho",42.1811,-111.8132,13736
+"Faribault","Minnesota",43.6739,-93.948,13727
+"White","Illinois",38.0875,-88.1796,13712
+"Glacier","Montana",48.7051,-112.9948,13706
+"Wadena","Minnesota",46.5857,-94.9694,13681
+"York","Nebraska",40.8727,-97.5971,13671
+"Greene","Mississippi",31.2143,-88.6391,13619
+"Osage","Missouri",38.4604,-91.8618,13613
+"Comanche","Texas",31.948,-98.5582,13597
+"Izard","Arkansas",36.0948,-91.9134,13596
+"Archuleta","Colorado",37.1936,-107.0484,13588
+"Pend Oreille","Washington",48.5323,-117.274,13588
+"Dooly","Georgia",32.1572,-83.7988,13571
+"Stewart","Tennessee",36.5012,-87.8385,13553
+"Perquimans","North Carolina",36.2058,-76.4411,13513
+"Mason","Illinois",40.2396,-89.9168,13486
+"Ripley","Missouri",36.6528,-90.8639,13484
+"Bienville","Louisiana",32.3473,-93.0561,13391
+"Kodiak Island","Alaska",57.6807,-153.7972,13383
+"Grundy","Tennessee",35.3884,-85.7226,13371
+"Jackson","Kentucky",37.4198,-84.0058,13368
+"Price","Wisconsin",45.6804,-90.3614,13351
+"Lewis","Kentucky",38.5315,-83.3781,13345
+"Monroe","West Virginia",37.5604,-80.5505,13344
+"Douglas","Missouri",36.9326,-92.4988,13335
+"Mississippi","Missouri",36.8281,-89.2911,13328
+"Big Horn","Montana",45.4234,-107.4897,13302
+"Goshen","Wyoming",42.0879,-104.3533,13301
+"Clay","Alabama",33.2691,-85.8605,13285
+"Lincoln","Arkansas",33.957,-91.7344,13278
+"Morgan","Kentucky",37.9223,-83.2589,13270
+"Howard","Arkansas",34.0888,-93.9936,13267
+"Hughes","Oklahoma",35.0484,-96.2502,13265
+"Jackson","Kansas",39.4168,-95.7937,13249
+"Clay","Illinois",38.7542,-88.4902,13217
+"Madison","Virginia",38.4137,-78.2792,13208
+"Ford","Illinois",40.5972,-88.2233,13155
+"Moffat","Colorado",40.6184,-108.2073,13150
+"Fremont","Idaho",44.2288,-111.4819,13111
+"Macon","Georgia",32.3584,-84.0425,13107
+"Buffalo","Wisconsin",44.3798,-91.7545,13087
+"Wayne","Missouri",37.1126,-90.4614,13058
+"Vinton","Ohio",39.251,-82.4853,13045
+"Charlton","Georgia",30.7817,-82.1377,13032
+"Webster","Kentucky",37.5184,-87.6831,13021
+"Lamb","Texas",34.0686,-102.3517,13018
+"Cass","Iowa",41.3315,-94.9278,12990
+"Greene","Illinois",39.3562,-90.3905,12988
+"Amelia","Virginia",37.336,-77.9761,12970
+"Millard","Utah",39.0733,-113.1006,12963
+"Camp","Texas",32.9732,-94.9785,12938
+"Bleckley","Georgia",32.4344,-83.3279,12870
+"Dawson","Texas",32.7425,-101.9477,12849
+"Breathitt","Kentucky",37.5216,-83.3241,12802
+"Butler","Kentucky",37.2073,-86.6817,12756
+"Choctaw","Alabama",32.0197,-88.2632,12755
+"Lake","South Dakota",44.022,-97.1294,12747
+"Wilbarger","Texas",34.0808,-99.241,12717
+"Summers","West Virginia",37.6559,-80.8586,12710
+"Shoshone","Idaho",47.353,-115.8924,12700
+"Haskell","Oklahoma",35.2248,-95.1166,12688
+"Presque Isle","Michigan",45.3401,-83.918,12687
+"Caldwell","Kentucky",37.1453,-87.8679,12679
+"Pamlico","North Carolina",35.1435,-76.7407,12673
+"Martinsville","Virginia",36.6826,-79.8636,12646
+"Wright","Iowa",42.7331,-93.7351,12644
+"Sumter","Alabama",32.5911,-88.1988,12595
+"Lawrence","Mississippi",31.5502,-90.107,12595
+"Stone","Arkansas",35.8599,-92.1568,12582
+"Trinity","California",40.6507,-123.1126,12541
+"Allen","Kansas",37.8857,-95.3014,12503
+"Pulaski","Indiana",41.0418,-86.6988,12482
+"Appanoose","Iowa",40.7432,-92.8686,12462
+"Bath","Kentucky",38.145,-83.7427,12421
+"Terry","Texas",33.1738,-102.3352,12408
+"Johnson","Illinois",37.4597,-88.881,12391
+"Pike","Indiana",38.3988,-87.2322,12364
+"Morris","Texas",33.1135,-94.7327,12357
+"Koochiching","Minnesota",48.2453,-93.7834,12355
+"Magoffin","Kentucky",37.7065,-83.0649,12346
+"Little River","Arkansas",33.7009,-94.2352,12345
+"Amite","Mississippi",31.1744,-90.8044,12341
+"Todd","Kentucky",36.8356,-87.1792,12334
+"Cass","Illinois",39.9735,-90.2474,12324
+"Union","Iowa",41.0277,-94.2424,12303
+"Fulton","Arkansas",36.3816,-91.8182,12301
+"Lunenburg","Virginia",36.9462,-78.2406,12294
+"Powell","Kentucky",37.8311,-83.8237,12283
+"Yalobusha","Mississippi",34.0282,-89.7076,12276
+"Crawford","Georgia",32.7145,-83.9863,12267
+"Grundy","Iowa",42.4019,-92.7914,12262
+"Menard","Illinois",40.0274,-89.8022,12261
+"Meigs","Tennessee",35.5129,-84.8133,12237
+"Conecuh","Alabama",31.4293,-86.9937,12219
+"Edmonson","Kentucky",37.2088,-86.2386,12195
+"Bollinger","Missouri",37.3222,-90.0259,12181
+"Madison","Missouri",37.4781,-90.345,12176
+"Live Oak","Texas",28.3514,-98.1248,12175
+"Boundary","Idaho",48.7669,-116.4629,12156
+"Northumberland","Virginia",37.8874,-76.4195,12151
+"Lewis","Tennessee",35.5273,-87.4931,12131
+"Poquoson","Virginia",37.1318,-76.3568,12121
+"Red River","Texas",33.6207,-95.0503,12115
+"Colfax","New Mexico",36.6061,-104.6468,12106
+"Jefferson","Montana",46.1485,-112.0938,12069
+"Washington","Kentucky",37.7534,-85.1748,12044
+"Prowers","Colorado",37.9552,-102.3934,12035
+"Linn","Missouri",39.8702,-93.1072,12004
+"Rains","Texas",32.8704,-95.7934,12001
+"Okfuskee","Oklahoma",35.4654,-96.3228,11987
+"Perry","Mississippi",31.172,-88.9923,11981
+"Chickasaw","Iowa",43.06,-92.3177,11970
+"Charlotte","Virginia",37.0116,-78.6616,11953
+"Morgan","Utah",41.0893,-111.5732,11950
+"Zavala","Texas",28.8662,-99.7605,11930
+"Blackford","Indiana",40.4736,-85.3248,11926
+"Franklin","Florida",29.8764,-84.814,11914
+"Skamania","Washington",46.023,-121.9148,11906
+"Chippewa","Minnesota",45.0223,-95.5667,11876
+"DeKalb","Missouri",39.8932,-94.4047,11872
+"Marion","Kansas",38.3589,-97.0969,11865
+"Northampton","Virginia",37.343,-75.877,11826
+"Towns","Georgia",34.9167,-83.7373,11815
+"Big Horn","Wyoming",44.5267,-107.9952,11809
+"Lake","Michigan",43.9901,-85.8016,11805
+"Sanders","Montana",47.6748,-115.1333,11804
+"Lyon","Iowa",43.3805,-96.2102,11800
+"Washington","North Carolina",35.8226,-76.5775,11788
+"Heard","Georgia",33.297,-85.1283,11785
+"Teton","Idaho",43.7594,-111.2076,11776
+"Jackson","Tennessee",36.3592,-85.6731,11767
+"Ward","Texas",31.5095,-103.1025,11745
+"Blanco","Texas",30.2664,-98.3999,11733
+"Barton","Missouri",37.5023,-94.3471,11732
+"Owyhee","Idaho",42.5814,-116.1699,11724
+"Decatur","Tennessee",35.603,-88.1088,11663
+"Juab","Utah",39.7027,-112.7848,11623
+"Grant","West Virginia",39.1051,-79.1956,11565
+"Custer","Montana",46.2527,-105.5717,11563
+"Marshall","Illinois",41.0332,-89.3448,11562
+"Shelby","Iowa",41.6851,-95.3102,11544
+"Desha","Arkansas",33.8309,-91.2551,11538
+"Ramsey","North Dakota",48.2689,-98.7201,11521
+"Gates","North Carolina",36.4449,-76.7005,11519
+"Morrow","Oregon",45.419,-119.5844,11425
+"Martin","Kentucky",37.8016,-82.5132,11421
+"Montgomery","Missouri",38.9415,-91.4702,11414
+"Greensville","Virginia",36.6759,-77.5596,11403
+"Wabash","Illinois",38.4461,-87.8443,11390
+"Rio Grande","Colorado",37.5825,-106.3832,11300
+"Cherokee","Iowa",42.7356,-95.6238,11281
+"Cottonwood","Minnesota",44.0071,-95.1812,11279
+"Noble","Oklahoma",36.3886,-97.2305,11263
+"Nantucket","Massachusetts",41.2831,-70.0692,11212
+"Sussex","Virginia",36.9218,-77.2618,11202
+"Duval","Texas",27.6814,-98.5089,11194
+"Pulaski","Georgia",32.2323,-83.476,11185
+"Jefferson Davis","Mississippi",31.5697,-89.823,11182
+"Fergus","Montana",47.2636,-109.2245,11167
+"Clay","North Carolina",35.0572,-83.7502,11150
+"Bacon","Georgia",31.5537,-82.4527,11140
+"Madison","Louisiana",32.3644,-91.2427,11137
+"Louisa","Iowa",41.2185,-91.2596,11125
+"Pope","Minnesota",45.586,-95.4445,11107
+"Iron","Michigan",46.2087,-88.5306,11099
+"Richland","Montana",47.7879,-104.5614,11097
+"Roosevelt","Montana",48.2945,-105.0164,11091
+"Valley","Idaho",44.7666,-115.5663,11085
+"Alleghany","North Carolina",36.4916,-81.127,11085
+"Washita","Oklahoma",35.2904,-98.9922,11066
+"Pushmataha","Oklahoma",34.4162,-95.3759,11055
+"Johnston","Oklahoma",34.3165,-96.6606,11028
+"Green","Kentucky",37.2641,-85.5531,11000
+"Sierra","New Mexico",33.1305,-107.1924,10988
+"Essex","Virginia",37.9435,-76.9516,10960
+"West Carroll","Louisiana",32.7885,-91.4568,10934
+"Trousdale","Tennessee",36.3921,-86.1568,10910
+"Watonwan","Minnesota",43.9784,-94.6141,10903
+"Owen","Kentucky",38.5197,-84.8281,10847
+"Box Butte","Nebraska",42.2198,-103.0857,10845
+"Candler","Georgia",32.4034,-82.0737,10834
+"Bradley","Arkansas",33.4664,-92.1624,10805
+"Custer","Nebraska",41.3943,-99.7262,10788
+"Cumberland","Illinois",39.2733,-88.2402,10787
+"Mackinac","Michigan",46.0805,-85.0867,10781
+"Franklin","Texas",33.1755,-95.2184,10767
+"Lincoln","Washington",47.5762,-118.4187,10732
+"Switzerland","Indiana",38.8262,-85.0369,10727
+"Red Willow","Nebraska",40.1758,-100.4769,10725
+"Pike","Arkansas",34.1635,-93.6564,10714
+"Hancock","Iowa",43.0819,-93.7343,10709
+"Guthrie","Iowa",41.6838,-94.5011,10702
+"Coosa","Alabama",32.9362,-86.2477,10696
+"Carroll","Kentucky",38.6678,-85.1236,10691
+"Carbon","Montana",45.2274,-109.0279,10689
+"Lancaster","Virginia",37.7345,-76.4632,10686
+"Colfax","Nebraska",41.574,-97.0865,10681
+"Evans","Georgia",32.1568,-81.8869,10671
+"Camden","North Carolina",36.3877,-76.2064,10654
+"Middlesex","Virginia",37.6303,-76.5697,10642
+"Walsh","North Dakota",48.3695,-97.7213,10642
+"Monroe","Kentucky",36.7122,-85.7165,10616
+"Barnes","North Dakota",46.9361,-98.0715,10592
+"Mitchell","Iowa",43.3564,-92.789,10588
+"Crawford","Indiana",38.2924,-86.4517,10582
+"Lake","Minnesota",47.641,-91.4458,10571
+"Noxubee","Mississippi",33.1101,-88.5697,10566
+"Oregon","Missouri",36.6867,-91.4034,10561
+"Wilcox","Alabama",31.9893,-87.3082,10552
+"Lanier","Georgia",31.0379,-83.0627,10534
+"Winnebago","Iowa",43.3776,-93.7342,10474
+"Sabine","Texas",31.3432,-93.8518,10470
+"Chattahoochee","Georgia",32.347,-84.787,10470
+"Clay","Texas",33.7855,-98.2085,10444
+"Chicot","Arkansas",33.267,-91.2937,10433
+"Alcona","Michigan",44.6854,-83.5937,10396
+"Mountrail","North Dakota",48.2013,-102.3557,10348
+"Perry","Arkansas",34.9476,-92.9312,10342
+"Roberts","South Dakota",45.6296,-96.9461,10310
+"Todd","South Dakota",43.1934,-100.7185,10308
+"Butte","South Dakota",44.9058,-103.508,10295
+"Runnels","Texas",31.8311,-99.9762,10280
+"Scott","Arkansas",34.8607,-94.0633,10269
+"Ralls","Missouri",39.5277,-91.522,10258
+"Nowata","Oklahoma",36.7985,-95.6174,10243
+"Latimer","Oklahoma",34.876,-95.2504,10239
+"Dimmit","Texas",28.4226,-99.7567,10232
+"St. Helena","Louisiana",30.8219,-90.7103,10227
+"Early","Georgia",31.3228,-84.9037,10218
+"Clinton","Kentucky",36.7275,-85.1361,10175
+"Bullock","Alabama",32.1005,-85.7157,10173
+"Martin","Indiana",38.708,-86.8031,10169
+"Keokuk","Iowa",41.3365,-92.1786,10163
+"Iron","Missouri",37.5552,-90.7735,10150
+"Washington","Idaho",44.4524,-116.7847,10128
+"Love","Oklahoma",33.9499,-97.2441,10128
+"Holt","Nebraska",42.4557,-98.7838,10123
+"Nemaha","Kansas",39.7834,-96.0141,10109
+"Emery","Utah",38.9967,-110.7007,10099
+"Franklin","Iowa",42.7325,-93.2625,10091
+"Leslie","Kentucky",37.0941,-83.3811,10081
+"Metcalfe","Kentucky",36.9905,-85.6292,10062
+"Howard","Missouri",39.1425,-92.6963,10022
+"Montgomery","Iowa",41.0301,-95.1564,10016
+"Yuma","Colorado",40.0029,-102.4243,10013
+"Nome","Alaska",64.9111,-164.0273,10009
+"Marion","Texas",32.798,-94.3571,9987
+"Carroll","Mississippi",33.4485,-89.9202,9972
+"Caldwell","Louisiana",32.0924,-92.1166,9959
+"Montgomery","Mississippi",33.4941,-89.6164,9956
+"Lowndes","Alabama",32.1547,-86.6501,9936
+"Ochiltree","Texas",36.2784,-100.8157,9907
+"Lewis","Missouri",40.0969,-91.7221,9898
+"Grundy","Missouri",40.1139,-93.5653,9885
+"Jackson","Minnesota",43.6742,-95.1541,9873
+"Cumberland","Virginia",37.5121,-78.2449,9869
+"Sublette","Wyoming",42.7669,-109.9147,9865
+"Kemper","Mississippi",32.7546,-88.6412,9829
+"Tunica","Mississippi",34.6507,-90.375,9807
+"Wilkes","Georgia",33.7819,-82.7432,9797
+"Yellow Medicine","Minnesota",44.7163,-95.8684,9775
+"Stevens","Minnesota",45.5861,-96.0003,9770
+"Ritchie","West Virginia",39.1783,-81.063,9747
+"Webster","Mississippi",33.6131,-89.2848,9727
+"Johnson","Georgia",32.7015,-82.6601,9717
+"Marshall","Kansas",39.7836,-96.5229,9713
+"Sac","Iowa",42.3863,-95.1054,9711
+"Grand","Utah",38.982,-109.5699,9698
+"Linn","Kansas",38.2123,-94.843,9687
+"Calhoun","Iowa",42.3852,-94.6404,9656
+"Parmer","Texas",34.53,-102.7845,9639
+"Catahoula","Louisiana",31.6662,-91.847,9586
+"Brown","Kansas",39.8265,-95.5642,9575
+"White Pine","Nevada",39.4422,-114.9017,9570
+"Stillwater","Montana",45.669,-109.3952,9562
+"Jasper","Illinois",39.01,-88.1538,9547
+"Clear Creek","Colorado",39.6891,-105.6444,9533
+"Rice","Kansas",38.3472,-98.201,9532
+"McLean","North Dakota",47.6069,-101.3218,9531
+"Blaine","Oklahoma",35.8752,-98.4334,9521
+"Humboldt","Iowa",42.7764,-94.2072,9518
+"McCormick","South Carolina",33.8995,-82.31,9495
+"Greenlee","Arizona",33.2152,-109.2402,9465
+"St. Clair","Missouri",38.0372,-93.776,9455
+"Beaverhead","Montana",45.1327,-112.8988,9454
+"Jones","North Carolina",35.0217,-77.3552,9453
+"Hickory","Missouri",37.9408,-93.3207,9452
+"Cheyenne","Nebraska",41.2197,-102.995,9428
+"Wayne","Nebraska",42.2093,-97.1193,9388
+"Rock","Minnesota",43.6747,-96.2532,9386
+"Clarke","Iowa",41.029,-93.7852,9383
+"Irwin","Georgia",31.6023,-83.2764,9379
+"North Slope","Alaska",69.3122,-153.4811,9375
+"Stephens","Texas",32.7359,-98.8362,9358
+"Marshall","Minnesota",48.3581,-96.3685,9353
+"Swift","Minnesota",45.2827,-95.6815,9329
+"Pratt","Kansas",37.6477,-98.7396,9324
+"Charles Mix","South Dakota",43.2079,-98.5879,9324
+"Emmet","Iowa",43.378,-94.6785,9322
+"Montmorency","Michigan",45.0276,-84.1272,9270
+"Brewster","Texas",29.8119,-103.2517,9231
+"Benewah","Idaho",47.2175,-116.6587,9231
+"Hamilton","Nebraska",40.873,-98.0229,9219
+"McLean","Kentucky",37.5292,-87.2636,9202
+"Howard","Iowa",43.3568,-92.3172,9201
+"Livingston","Kentucky",37.2096,-88.3537,9172
+"Pipestone","Minnesota",44.023,-96.2587,9163
+"Deer Lodge","Montana",46.0608,-113.0678,9153
+"Ozark","Missouri",36.6493,-92.4447,9138
+"Perry","Alabama",32.6384,-87.2944,9104
+"Alger","Michigan",46.4086,-86.604,9098
+"Montgomery","Georgia",32.1734,-82.5348,9069
+"Rosebud","Montana",46.2297,-106.7307,9065
+"Caldwell","Missouri",39.6557,-93.9827,9052
+"Phelps","Nebraska",40.5111,-99.4146,9050
+"Claiborne","Mississippi",31.9737,-90.9118,9042
+"Forest","Wisconsin",45.6673,-88.7704,9003
+"Davis","Iowa",40.7477,-92.4097,8977
+"Montgomery","Arkansas",34.5389,-93.6595,8964
+"Lee","Arkansas",34.7805,-90.7808,8963
+"Somervell","Texas",32.2222,-97.7744,8958
+"Richmond","Virginia",37.9434,-76.7269,8951
+"Wilkinson","Georgia",32.8024,-83.1712,8945
+"Palo Alto","Iowa",43.0821,-94.6781,8941
+"Crittenden","Kentucky",37.3527,-88.0972,8940
+"Greene","Iowa",42.0363,-94.3968,8923
+"Woods","Oklahoma",36.7669,-98.8651,8914
+"Jack","Texas",33.2335,-98.1725,8888
+"Cuming","Nebraska",41.9164,-96.7874,8882
+"Clearwater","Minnesota",47.5776,-95.379,8872
+"Modoc","California",41.5898,-120.725,8853
+"Cloud","Kansas",39.4803,-97.6493,8831
+"Custer","South Dakota",43.6776,-103.4515,8826
+"Dawson","Montana",47.2664,-104.8995,8824
+"Kiowa","Oklahoma",34.9164,-98.9809,8816
+"Maries","Missouri",38.1616,-91.9249,8791
+"Allendale","South Carolina",32.9881,-81.3582,8789
+"Jenkins","Georgia",32.7925,-81.9635,8787
+"Mathews","Virginia",37.4354,-76.3437,8760
+"Gallatin","Kentucky",38.7569,-84.8593,8760
+"Archer","Texas",33.6153,-98.6877,8754
+"Hancock","Kentucky",37.8415,-86.7779,8748
+"Tyler","West Virginia",39.4653,-80.8848,8736
+"Clearwater","Idaho",46.6737,-115.6567,8735
+"Wilkinson","Mississippi",31.1611,-91.3109,8727
+"Carroll","Missouri",39.427,-93.5052,8723
+"Wilcox","Georgia",31.9729,-83.4323,8701
+"Benton","Indiana",40.6063,-87.3109,8695
+"Dawes","Nebraska",42.7198,-103.1354,8685
+"Monona","Iowa",42.0517,-95.9599,8675
+"Terrell","Georgia",31.777,-84.437,8654
+"Monroe","Missouri",39.4955,-92.0007,8630
+"Yoakum","Texas",33.173,-102.8278,8612
+"Wilson","Kansas",37.5592,-95.7434,8600
+"Clay","West Virginia",38.4625,-81.0751,8599
+"Lafayette","Florida",29.9855,-83.1811,8576
+"Platte","Wyoming",42.1332,-104.9659,8572
+"Sitka","Alaska",57.2401,-135.3152,8569
+"Lucas","Iowa",41.0294,-93.3277,8556
+"Madison","Montana",45.3007,-111.9203,8530
+"Trimble","Kentucky",38.613,-85.3375,8528
+"Johnson","Wyoming",44.0388,-106.5847,8518
+"Graham","North Carolina",35.3502,-83.8335,8501
+"Hancock","Georgia",33.2704,-83.0007,8500
+"Doddridge","West Virginia",39.2692,-80.707,8499
+"Cedar","Nebraska",42.5993,-97.2524,8483
+"Red River","Louisiana",32.0931,-93.3398,8462
+"Marion","Georgia",32.3535,-84.5246,8450
+"Hamilton","Texas",31.7048,-98.1107,8434
+"Harrison","Missouri",40.3547,-93.9921,8427
+"Knox","Nebraska",42.6368,-97.8919,8400
+"Pocahontas","West Virginia",38.3318,-80.0078,8382
+"Mercer","North Dakota",47.3092,-101.8315,8359
+"Baraga","Michigan",46.6626,-88.3652,8337
+"Liberty","Florida",30.2414,-84.8829,8333
+"Turner","South Dakota",43.3109,-97.1487,8325
+"Atkinson","Georgia",31.2971,-82.8801,8311
+"Bracken","Kentucky",38.6888,-84.0902,8308
+"Kusilvak","Alaska",62.155,-163.3826,8298
+"Daviess","Missouri",39.9608,-93.9855,8294
+"Webster","West Virginia",38.4947,-80.4219,8289
+"Oscoda","Michigan",44.6818,-84.1298,8282
+"Coleman","Texas",31.7732,-99.4536,8281
+"Benton","Mississippi",34.8173,-89.1885,8275
+"Quay","New Mexico",35.1043,-103.5498,8265
+"San Augustine","Texas",31.3942,-94.1682,8260
+"Mitchell","Texas",32.3062,-100.9212,8256
+"Nevada","Arkansas",33.664,-93.3072,8249
+"Murray","Minnesota",44.0221,-95.7633,8247
+"Lyon","Kentucky",37.0191,-88.0833,8226
+"Greene","Alabama",32.8531,-87.9522,8221
+"Warren","Indiana",40.3469,-87.3533,8219
+"Seminole","Georgia",30.9388,-84.8688,8218
+"Coffey","Kansas",38.2369,-95.7341,8218
+"Shannon","Missouri",37.1574,-91.4005,8207
+"Choctaw","Mississippi",33.3473,-89.2484,8206
+"Houston","Tennessee",36.286,-87.717,8201
+"Humphreys","Mississippi",33.1287,-90.5266,8198
+"Twiggs","Georgia",32.6672,-83.4271,8195
+"Hamilton","Illinois",38.0815,-88.5391,8151
+"Prairie","Arkansas",34.8298,-91.5528,8138
+"Conejos","Colorado",37.2007,-106.1916,8130
+"Taylor","Georgia",32.5555,-84.2505,8126
+"San Miguel","Colorado",38.0037,-108.4057,8110
+"Cleveland","Arkansas",33.8984,-92.1851,8063
+"Keith","Nebraska",41.1988,-101.6614,8048
+"Schoolcraft","Michigan",46.1966,-86.1995,8031
+"Clay","Kansas",39.3497,-97.1652,8030
+"Perry","Tennessee",35.6426,-87.8589,8020
+"Franklin","Virginia",36.6831,-76.9386,8015
+"Traill","North Dakota",47.4542,-97.1616,7999
+"Butler","Nebraska",41.2261,-97.1318,7997
+"Gilmer","West Virginia",38.9241,-80.8571,7970
+"McCulloch","Texas",31.1989,-99.3475,7970
+"Washakie","Wyoming",43.905,-107.6829,7933
+"Lincoln","Georgia",33.7936,-82.4512,7929
+"Lemhi","Idaho",44.9433,-113.9332,7929
+"Turner","Georgia",31.7164,-83.6241,7920
+"Ballard","Kentucky",37.0585,-88.9994,7914
+"Richardson","Nebraska",40.125,-95.7176,7913
+"Decatur","Iowa",40.7377,-93.7863,7908
+"Searcy","Arkansas",35.9109,-92.6995,7898
+"Wheeler","Georgia",32.117,-82.7246,7897
+"Lake","Oregon",42.7935,-120.3874,7896
+"Anderson","Kansas",38.2142,-95.2933,7877
+"Lake","Colorado",39.2025,-106.3448,7845
+"Merrick","Nebraska",41.169,-98.038,7826
+"Winkler","Texas",31.85,-103.0482,7822
+"Monroe","Iowa",41.0298,-92.869,7761
+"Newton","Arkansas",35.92,-93.2178,7753
+"Thomas","Kansas",39.3509,-101.0555,7748
+"Franklin","Mississippi",31.4772,-90.8979,7716
+"Northwest Arctic","Alaska",67.053,-159.721,7709
+"Kane","Utah",37.2851,-111.8877,7658
+"Major","Oklahoma",36.3116,-98.536,7654
+"Ferry","Washington",48.4703,-118.5166,7643
+"Clay","Tennessee",36.5511,-85.5439,7640
+"Power","Idaho",42.6937,-112.8407,7635
+"Boise","Idaho",43.9891,-115.7303,7625
+"Doniphan","Kansas",39.7881,-95.1468,7616
+"Goliad","Texas",28.6571,-97.4265,7578
+"Dade","Missouri",37.432,-93.8503,7571
+"Castro","Texas",34.5299,-102.2617,7561
+"La Salle","Texas",28.3451,-99.0997,7551
+"Crook","Wyoming",44.5886,-104.5699,7502
+"Elliott","Kentucky",38.1179,-83.0976,7461
+"Pleasants","West Virginia",39.3709,-81.1606,7457
+"Chariton","Missouri",39.5151,-92.9626,7449
+"Valley","Montana",48.3653,-106.6674,7424
+"Worth","Iowa",43.3774,-93.2608,7422
+"Swisher","Texas",34.5304,-101.735,7403
+"Rappahannock","Virginia",38.6848,-78.1592,7360
+"Tillman","Oklahoma",34.3728,-98.9242,7347
+"Grant","Kansas",37.5623,-101.308,7324
+"Harney","Oregon",43.0641,-118.9679,7310
+"Hutchinson","South Dakota",43.3349,-97.7544,7308
+"Lake","Tennessee",36.3352,-89.4935,7273
+"Dallam","Texas",36.2779,-102.6023,7272
+"Pepin","Wisconsin",44.5829,-92.0015,7261
+"Kit Carson","Colorado",39.3055,-102.6029,7246
+"Childress","Texas",34.5292,-100.2076,7219
+"Thurston","Nebraska",42.1582,-96.544,7218
+"Lexington","Virginia",37.7825,-79.4441,7205
+"Forest","Pennsylvania",41.513,-79.2361,7190
+"Nicholas","Kentucky",38.3356,-84.0153,7189
+"Wolfe","Kentucky",37.7393,-83.4932,7188
+"Calhoun","West Virginia",38.8445,-81.1176,7185
+"Grant","Oregon",44.4915,-119.0073,7174
+"Kingman","Kansas",37.5589,-98.1363,7173
+"Union","Indiana",39.6256,-84.9251,7140
+"Pierce","Nebraska",42.2644,-97.6013,7132
+"Jefferson","Mississippi",31.7342,-91.0373,7129
+"Grant","South Dakota",45.1719,-96.7677,7125
+"Dallas","Arkansas",33.9699,-92.6544,7114
+"Van Buren","Iowa",40.7532,-91.95,7104
+"Jefferson","Nebraska",40.1757,-97.1427,7102
+"Brooks","Texas",27.0316,-98.2187,7100
+"Lee","Kentucky",37.5948,-83.7162,7088
+"Grand Isle","Vermont",44.7968,-73.2949,7075
+"Wallowa","Oregon",45.5799,-117.1811,7065
+"Adair","Iowa",41.3307,-94.4709,7048
+"Quitman","Mississippi",34.2514,-90.2891,7038
+"Caribou","Idaho",42.7705,-111.5623,7028
+"Refugio","Texas",28.3253,-97.1656,7015
+"King and Queen","Virginia",37.7186,-76.8953,7011
+"Nemaha","Nebraska",40.3877,-95.8498,6978
+"Pendleton","West Virginia",38.6807,-79.3509,6968
+"Charles City","Virginia",37.3567,-77.0622,6965
+"Cameron","Louisiana",29.8754,-93.1937,6963
+"East Carroll","Louisiana",32.7325,-91.235,6947
+"Tucker","West Virginia",39.1136,-79.565,6943
+"Weston","Wyoming",43.8405,-104.5678,6942
+"Bailey","Texas",34.0685,-102.8299,6916
+"Bon Homme","South Dakota",42.9885,-97.8846,6914
+"Southeast Fairbanks","Alaska",63.8762,-143.213,6911
+"Schuyler","Illinois",40.158,-90.6151,6897
+"Russell","Kansas",38.9148,-98.7624,6896
+"Fremont","Iowa",40.7456,-95.6047,6895
+"Randolph","Georgia",31.7626,-84.7542,6888
+"Monroe","Arkansas",34.6778,-91.2039,6879
+"Wabaunsee","Kansas",38.9533,-96.205,6877
+"Ida","Iowa",42.3869,-95.5135,6862
+"Benson","North Dakota",48.0694,-99.366,6860
+"Pembina","North Dakota",48.7675,-97.5518,6850
+"Powell","Montana",46.8564,-112.9361,6843
+"Presidio","Texas",29.9998,-104.2405,6808
+"Treutlen","Georgia",32.4039,-82.5673,6787
+"Clark","Missouri",40.4103,-91.7384,6783
+"Huerfano","Colorado",37.6847,-104.9606,6769
+"Henderson","Illinois",40.8181,-90.9251,6737
+"Saguache","Colorado",38.0806,-106.2815,6730
+"Lafayette","Arkansas",33.2416,-93.607,6728
+"Pocahontas","Iowa",42.7342,-94.6787,6725
+"Fall River","South Dakota",43.2394,-103.5275,6721
+"Blaine","Montana",48.4327,-108.9586,6698
+"Cumberland","Kentucky",36.7866,-85.3885,6660
+"Clinch","Georgia",30.9149,-82.7062,6648
+"Lac qui Parle","Minnesota",44.9955,-96.1735,6645
+"Brown","Illinois",39.9618,-90.7504,6599
+"Beaver","Utah",38.357,-113.2358,6594
+"Pershing","Nevada",40.4403,-118.4045,6591
+"Kearney","Nebraska",40.5067,-98.948,6588
+"Gentry","Missouri",40.2121,-94.4099,6576
+"Hancock","Tennessee",36.5236,-83.2219,6568
+"Pawnee","Kansas",38.1813,-99.2367,6539
+"Moody","South Dakota",44.022,-96.6709,6508
+"Burt","Nebraska",41.8515,-96.3286,6503
+"Chugach","Alaska",60.7228,-145.7754,6495
+"Woodruff","Arkansas",35.1863,-91.2431,6477
+"Buena Vista","Virginia",37.7319,-79.3568,6477
+"Norman","Minnesota",47.3265,-96.4553,6466
+"Menifee","Kentucky",37.9414,-83.5989,6463
+"Surry","Virginia",37.1098,-76.9002,6459
+"Stewart","Georgia",32.0785,-84.8352,6446
+"Spink","South Dakota",44.938,-98.3462,6438
+"Edwards","Illinois",38.4165,-88.0533,6431
+"Howard","Nebraska",41.22,-98.5171,6428
+"Wayne","Iowa",40.7395,-93.3274,6426
+"Bottineau","North Dakota",48.7922,-100.8333,6418
+"Galax","Virginia",36.666,-80.9176,6402
+"Moore","Tennessee",35.2846,-86.3587,6396
+"Rio Blanco","Colorado",39.9798,-108.2171,6369
+"Prince of Wales-Hyder","Alaska",55.7997,-133.0192,6338
+"Bland","Virginia",37.134,-81.1302,6334
+"Antelope","Nebraska",42.1769,-98.0667,6315
+"Calhoun","Georgia",31.5292,-84.6245,6301
+"Luce","Michigan",46.4707,-85.5444,6286
+"Reynolds","Missouri",37.3623,-90.9691,6274
+"Wilkin","Minnesota",46.357,-96.4683,6264
+"Talbot","Georgia",32.6995,-84.533,6245
+"Clay","Nebraska",40.5244,-98.0513,6193
+"Essex","Vermont",44.7275,-71.7359,6179
+"Ellsworth","Kansas",38.6966,-98.2048,6176
+"Sullivan","Missouri",40.2106,-93.1115,6163
+"Taylor","Iowa",40.7374,-94.6964,6160
+"Teton","Montana",47.8372,-112.2406,6127
+"Gilpin","Colorado",39.8575,-105.5226,6108
+"Hamlin","South Dakota",44.6738,-97.1883,6104
+"Carter","Missouri",36.9412,-90.9623,6085
+"Jefferson","Oklahoma",34.111,-97.8358,6084
+"Broadwater","Montana",46.3324,-111.4955,6080
+"Fulton","Kentucky",36.554,-89.1874,6064
+"Bear Lake","Idaho",42.2848,-111.3297,6054
+"Mitchell","Kansas",39.3933,-98.2094,6053
+"Sullivan","Pennsylvania",41.4462,-76.5122,6038
+"Garza","Texas",33.1799,-101.2984,6028
+"Gray","Kansas",37.7382,-100.4379,6020
+"Osceola","Iowa",43.3786,-95.6237,6016
+"Alexander","Illinois",37.1915,-89.3375,6011
+"Greenwood","Kansas",37.8778,-96.2326,6010
+"San Saba","Texas",31.1552,-98.8176,6004
+"Shelby","Missouri",39.7978,-92.0766,5975
+"Grant","Minnesota",45.934,-96.0122,5962
+"Carson","Texas",35.4035,-101.3543,5957
+"Stanton","Nebraska",41.9169,-97.1939,5946
+"Pondera","Montana",48.2279,-112.2267,5911
+"Sherman","Kansas",39.3514,-101.72,5904
+"Ohio","Indiana",38.9501,-84.9652,5890
+"Lynn","Texas",33.1768,-101.8161,5886
+"Dewey","South Dakota",45.1566,-100.8718,5841
+"McHenry","North Dakota",48.2346,-100.6363,5825
+"Van Buren","Tennessee",35.696,-85.4526,5813
+"Ontonagon","Michigan",46.6644,-89.3148,5802
+"Cherry","Nebraska",42.545,-101.1186,5801
+"Alfalfa","Oklahoma",36.731,-98.324,5791
+"Greer","Oklahoma",34.9357,-99.5608,5790
+"Cotton","Oklahoma",34.2902,-98.3722,5783
+"Floyd","Texas",34.0725,-101.3032,5782
+"Ottawa","Kansas",39.1325,-97.6502,5776
+"Wirt","West Virginia",39.0225,-81.3786,5764
+"Crosby","Texas",33.6146,-101.3,5753
+"Crowley","Colorado",38.3266,-103.7845,5733
+"Chouteau","Montana",47.8806,-110.4352,5731
+"Miller","Georgia",31.164,-84.7308,5725
+"Putnam","Illinois",41.2045,-89.2858,5720
+"Haskell","Texas",33.1782,-99.7303,5711
+"Aleutians West","Alaska",52.798,-106.6061,5708
+"Dixon","Nebraska",42.4931,-96.8677,5682
+"Iron","Wisconsin",46.2623,-90.242,5679
+"Bent","Colorado",37.9551,-103.0716,5677
+"Martin","Texas",32.306,-101.9512,5676
+"Covington","Virginia",37.7786,-79.9867,5653
+"Lincoln","Minnesota",44.4126,-96.2671,5641
+"Lincoln","Colorado",38.988,-103.514,5608
+"Hartley","Texas",35.84,-102.6029,5588
+"Coal","Oklahoma",34.5882,-96.2978,5577
+"Lander","Nevada",39.9338,-117.0379,5565
+"Morris","Kansas",38.6874,-96.6499,5551
+"McCook","South Dakota",43.6743,-97.3685,5543
+"Fillmore","Nebraska",40.5247,-97.5965,5542
+"Audubon","Iowa",41.6846,-94.9058,5528
+"Mahnomen","Minnesota",47.3253,-95.8091,5508
+"Harper","Kansas",37.1916,-98.0754,5506
+"Stevens","Kansas",37.1923,-101.3121,5498
+"Washington","Kansas",39.7842,-97.0875,5474
+"Day","South Dakota",45.3671,-97.6074,5452
+"Tripp","South Dakota",43.3459,-99.884,5448
+"Hansford","Texas",36.2774,-101.3546,5431
+"Walworth","South Dakota",45.43,-100.0315,5431
+"Norton","Kansas",39.7844,-99.9035,5416
+"Pulaski","Illinois",37.2232,-89.1266,5414
+"Emporia","Virginia",36.6953,-77.5356,5408
+"Cook","Minnesota",47.9026,-90.5351,5402
+"Stark","Illinois",41.0934,-89.7974,5393
+"Lincoln","Idaho",43.0024,-114.1383,5342
+"Beaver","Oklahoma",36.7497,-100.4768,5326
+"Yukon-Koyukuk","Alaska",65.5087,-151.3896,5305
+"Phillips","Kansas",39.7846,-99.347,5297
+"Delta","Texas",33.3863,-95.6723,5277
+"Warren","Georgia",33.4089,-82.6767,5259
+"Ransom","North Dakota",46.4562,-97.6574,5258
+"Brule","South Dakota",43.7181,-99.0809,5233
+"Boone","Nebraska",41.7068,-98.0673,5228
+"Schley","Georgia",32.2616,-84.3147,5215
+"Sheridan","Nebraska",42.5048,-102.4089,5215
+"Polk","Nebraska",41.1869,-97.5684,5208
+"Wheeler","Texas",35.4013,-100.2698,5187
+"Jim Hogg","Texas",27.0434,-98.6973,5187
+"Atchison","Missouri",40.4308,-95.4281,5180
+"Lincoln","Nevada",37.6433,-114.8776,5177
+"Calhoun","Arkansas",33.5581,-92.503,5160
+"Johnson","Nebraska",40.3926,-96.2651,5118
+"Craig","Virginia",37.4817,-80.2114,5103
+"Hyde","North Carolina",35.5305,-76.2509,5089
+"Pickett","Tennessee",36.5584,-85.0749,5068
+"Garfield","Utah",37.8549,-111.4431,5000
+"Thayer","Nebraska",40.1762,-97.5949,5000
+"Rooks","Kansas",39.3502,-99.325,4985
+"Gallatin","Illinois",37.7628,-88.2305,4983
+"Scott","Illinois",39.6441,-90.4747,4982
+"Big Stone","Minnesota",45.4261,-96.4109,4974
+"Custer","Colorado",38.1087,-105.3675,4941
+"Kingsbury","South Dakota",44.3696,-97.4915,4936
+"Dillingham","Alaska",59.7991,-158.2351,4934
+"Scotland","Missouri",40.4526,-92.147,4923
+"Ringgold","Iowa",40.7352,-94.244,4922
+"Scott","Kansas",38.4822,-100.9069,4893
+"Ouray","Colorado",38.1555,-107.7693,4890
+"Dewey","Oklahoma",35.9876,-99.008,4885
+"Marshall","South Dakota",45.7586,-97.5986,4881
+"Mills","Texas",31.4952,-98.5955,4877
+"Washington","Colorado",39.971,-103.2013,4869
+"Dickey","North Dakota",46.1102,-98.5047,4857
+"Toole","Montana",48.6554,-111.6957,4812
+"Calhoun","Illinois",39.1693,-90.6676,4782
+"Putnam","Missouri",40.4789,-93.0162,4746
+"Crane","Texas",31.4285,-102.5156,4739
+"Carlisle","Kentucky",36.8532,-88.971,4738
+"Furnas","Nebraska",40.1764,-99.9123,4712
+"Morrill","Nebraska",41.716,-103.0105,4711
+"Hudspeth","Texas",31.4562,-105.3865,4687
+"Musselshell","Montana",46.4966,-108.3981,4682
+"Republic","Kansas",39.8278,-97.6506,4607
+"Menominee","Wisconsin",45.0044,-88.71,4566
+"Schuyler","Missouri",40.4703,-92.5209,4550
+"Hot Springs","Wyoming",43.7189,-108.4421,4550
+"Cameron","Pennsylvania",41.4368,-78.2039,4512
+"Mora","New Mexico",36.0106,-104.9451,4500
+"Barber","Kansas",37.2289,-98.6848,4493
+"Mineral","Nevada",38.5386,-118.435,4487
+"Hickman","Kentucky",36.6782,-88.9761,4461
+"Hamilton","New York",43.6611,-74.4974,4454
+"Tensas","Louisiana",32.0018,-91.3401,4435
+"Oneida","Idaho",42.195,-112.5394,4429
+"Sharkey","Mississippi",32.8798,-90.8132,4427
+"Owsley","Kentucky",37.4192,-83.6831,4416
+"Kimble","Texas",30.4868,-99.7487,4375
+"Holt","Missouri",40.0944,-95.2155,4374
+"Grant","Oklahoma",36.7961,-97.7861,4369
+"Dunn","North Dakota",47.3568,-102.6182,4362
+"Phillips","Colorado",40.5939,-102.3576,4343
+"Sioux","North Dakota",46.1127,-101.0404,4339
+"Guadalupe","New Mexico",34.8633,-104.7906,4336
+"Mineral","Montana",47.1472,-114.9983,4330
+"Wahkiakum","Washington",46.2918,-123.4244,4318
+"Florence","Wisconsin",45.8485,-88.3981,4312
+"Deuel","South Dakota",44.7601,-96.668,4309
+"Kittson","Minnesota",48.7766,-96.7829,4272
+"Bath","Virginia",38.0587,-79.7411,4248
+"Mason","Texas",30.7177,-99.2262,4248
+"Hidalgo","New Mexico",31.914,-108.7148,4234
+"LaMoure","North Dakota",46.4569,-98.5355,4225
+"Nuckolls","Nebraska",40.1764,-98.0472,4204
+"Adams","Idaho",44.8895,-116.4538,4200
+"Custer","Idaho",44.2411,-114.2817,4193
+"Gregory","South Dakota",43.1924,-99.1856,4193
+"Pope","Illinois",37.4127,-88.5615,4177
+"Stafford","Kansas",38.031,-98.7174,4125
+"Meade","Kansas",37.2382,-100.3662,4120
+"Corson","South Dakota",45.7086,-101.1969,4106
+"Union","New Mexico",36.4817,-103.471,4106
+"Valley","Nebraska",41.5673,-98.9819,4100
+"Storey","Nevada",39.447,-119.5294,4086
+"Pierce","North Dakota",48.2496,-99.9718,4061
+"Phillips","Montana",48.2592,-107.9132,4032
+"Columbia","Washington",46.2975,-117.9078,4024
+"Red Lake","Minnesota",47.8717,-96.0953,4005
+"Haskell","Kansas",37.5622,-100.8712,3990
+"Tyrrell","North Carolina",35.8172,-76.209,3978
+"Norton","Virginia",36.9314,-82.6262,3969
+"Hardeman","Texas",34.2903,-99.7457,3958
+"Knox","Missouri",40.1282,-92.1481,3948
+"Echols","Georgia",30.7101,-82.894,3944
+"Ellis","Oklahoma",36.2184,-99.7547,3936
+"Hemphill","Texas",35.8375,-100.2705,3901
+"Sargent","North Dakota",46.1078,-97.6306,3899
+"Hardin","Illinois",37.5182,-88.2668,3890
+"Wells","North Dakota",47.5875,-99.6609,3889
+"Edmunds","South Dakota",45.4188,-99.2153,3876
+"Kearny","Kansas",38.0002,-101.3199,3863
+"Lewis","Idaho",46.237,-116.4263,3850
+"Lyman","South Dakota",43.8958,-99.8474,3831
+"Fisher","Texas",32.7428,-100.4022,3827
+"Costilla","Colorado",37.2781,-105.4283,3810
+"Sutton","Texas",30.4984,-100.5382,3793
+"Cavalier","North Dakota",48.7723,-98.4648,3769
+"Reagan","Texas",31.3662,-101.5231,3766
+"Lake of the Woods","Minnesota",48.7712,-94.9046,3747
+"Harper","Oklahoma",36.7888,-99.6673,3730
+"Clark","South Dakota",44.8583,-97.7295,3715
+"Chase","Nebraska",40.5242,-101.698,3707
+"Knox","Texas",33.6061,-99.7414,3679
+"Sweet Grass","Montana",45.8139,-109.941,3676
+"Kinney","Texas",29.3502,-100.418,3674
+"Upton","Texas",31.3687,-102.0431,3651
+"Roger Mills","Oklahoma",35.6883,-99.6958,3635
+"Adams","Iowa",41.029,-94.6992,3633
+"Mercer","Missouri",40.4223,-93.5686,3623
+"Smith","Kansas",39.7852,-98.7855,3594
+"Kimball","Nebraska",41.1977,-103.7149,3576
+"Baca","Colorado",37.3192,-102.5604,3570
+"Baylor","Texas",33.6165,-99.2135,3560
+"Catron","New Mexico",33.9153,-108.4047,3547
+"Nance","Nebraska",41.3973,-97.9922,3525
+"Webster","Nebraska",40.1764,-98.5,3497
+"Osborne","Kansas",39.3503,-98.768,3494
+"Bennett","South Dakota",43.195,-101.664,3430
+"Real","Texas",29.8317,-99.8222,3429
+"Hanson","South Dakota",43.6748,-97.7873,3423
+"Crockett","Texas",30.723,-101.4121,3393
+"Aleutians East","Alaska",55.3665,-161.9813,3389
+"Sheridan","Montana",48.7212,-104.5047,3389
+"Harlan","Nebraska",40.1765,-99.4046,3380
+"Granite","Montana",46.4045,-113.4404,3325
+"Donley","Texas",34.9654,-100.814,3317
+"Lipscomb","Texas",36.2777,-100.2731,3301
+"Coke","Texas",31.8886,-100.5299,3298
+"Jackson","South Dakota",43.6942,-101.6281,3296
+"Shackelford","Texas",32.736,-99.3541,3291
+"Traverse","Minnesota",45.7722,-96.4716,3282
+"Chautauqua","Kansas",37.15,-96.2454,3280
+"Petersburg","Alaska",57.1195,-132.9344,3278
+"Emmons","North Dakota",46.2851,-100.2387,3262
+"Foster","North Dakota",47.4571,-98.883,3231
+"Woodson","Kansas",37.8867,-95.7401,3117
+"Bowman","North Dakota",46.1126,-103.5206,3091
+"Baker","Georgia",31.3261,-84.4447,3090
+"Hand","South Dakota",44.5478,-99.0049,3064
+"Stanley","South Dakota",44.4123,-100.7359,3058
+"Sherman","Texas",36.2777,-101.8935,3046
+"Hall","Texas",34.5308,-100.6811,3025
+"Concho","Texas",31.3265,-99.864,3018
+"Sherman","Nebraska",41.2206,-98.9762,3015
+"Lincoln","Kansas",39.0453,-98.2077,3013
+"Perkins","South Dakota",45.4905,-102.4757,2996
+"Glascock","Georgia",33.2293,-82.6107,2984
+"Fallon","Montana",46.334,-104.4174,2975
+"Franklin","Nebraska",40.1763,-98.9528,2970
+"Rush","Kansas",38.5232,-99.3092,2953
+"Collingsworth","Texas",34.9649,-100.27,2939
+"Clay","Georgia",31.6263,-84.9801,2931
+"Douglas","South Dakota",43.3869,-98.3661,2913
+"Sierra","California",39.5804,-120.5161,2898
+"Schleicher","Texas",30.8975,-100.5385,2898
+"Copper River","Alaska",61.8834,-143.968,2894
+"Perkins","Nebraska",40.8509,-101.6496,2889
+"Brown","Nebraska",42.43,-99.9295,2887
+"Nelson","North Dakota",47.9217,-98.192,2864
+"Cochran","Texas",33.6042,-102.8285,2860
+"Jewell","Kansas",39.7847,-98.2183,2854
+"Ness","Kansas",38.4794,-99.9162,2838
+"Decatur","Kansas",39.7847,-100.4599,2826
+"Edwards","Kansas",37.8876,-99.3122,2822
+"Trego","Kansas",38.9143,-99.8728,2802
+"Logan","Kansas",38.9173,-101.1484,2789
+"Hitchcock","Nebraska",40.1763,-101.0423,2788
+"Ziebach","South Dakota",44.9804,-101.6658,2767
+"Aurora","South Dakota",43.718,-98.5616,2757
+"Wayne","Utah",38.3243,-110.9039,2698
+"Harmon","Oklahoma",34.7441,-99.8463,2663
+"Morton","Kansas",37.1914,-101.7992,2656
+"Gove","Kansas",38.9161,-100.483,2650
+"Pawnee","Nebraska",40.1315,-96.2371,2640
+"Cheyenne","Kansas",39.7858,-101.7312,2639
+"Frontier","Nebraska",40.5301,-100.3942,2636
+"Chase","Kansas",38.302,-96.5939,2604
+"Butte","Idaho",43.7229,-113.1721,2603
+"Webster","Georgia",32.0468,-84.5511,2587
+"Hamilton","Kansas",37.9991,-101.7912,2552
+"Haines","Alaska",59.1199,-135.5,2547
+"McIntosh","North Dakota",46.1118,-99.4412,2535
+"Sheridan","Kansas",39.3503,-100.4418,2515
+"Wrangell","Alaska",56.3317,-132.0223,2510
+"Hettinger","North Dakota",46.4325,-102.4603,2510
+"Denali","Alaska",63.6714,-150.0118,2502
+"Elk","Kansas",37.4537,-96.2441,2502
+"Rawlins","Kansas",39.7852,-101.0757,2490
+"Kiowa","Kansas",37.5582,-99.2861,2483
+"Kidder","North Dakota",46.9801,-99.7801,2468
+"Graham","Kansas",39.3497,-99.8832,2464
+"Liberty","Montana",48.5617,-111.0246,2455
+"Rich","Utah",41.6323,-111.2445,2415
+"Renville","North Dakota",48.719,-101.6578,2387
+"Niobrara","Wyoming",43.0565,-104.4754,2377
+"Sanborn","South Dakota",44.0234,-98.0914,2372
+"Greeley","Nebraska",41.5674,-98.5212,2361
+"Grant","North Dakota",46.3583,-101.6397,2318
+"McPherson","South Dakota",45.7664,-99.2214,2316
+"Faulk","South Dakota",45.071,-99.1453,2315
+"Griggs","North Dakota",47.4573,-98.237,2314
+"Potter","South Dakota",45.0645,-99.9573,2311
+"Sedgwick","Colorado",40.8759,-102.3518,2306
+"Quitman","Georgia",31.8673,-85.0188,2290
+"Divide","North Dakota",48.8149,-103.4872,2289
+"Adams","North Dakota",46.0968,-102.5285,2271
+"Eddy","North Dakota",47.7176,-98.9016,2262
+"Garfield","Washington",46.4316,-117.5452,2258
+"Jeff Davis","Texas",30.7154,-104.14,2245
+"Miner","South Dakota",44.022,-97.6102,2213
+"Highland","Virginia",38.3623,-79.5685,2202
+"Towner","North Dakota",48.6855,-99.2458,2191
+"Culberson","Texas",31.447,-104.5173,2183
+"Dickens","Texas",33.6166,-100.7789,2182
+"Cimarron","Oklahoma",36.7483,-102.5177,2159
+"Burke","North Dakota",48.791,-102.5182,2142
+"Robertson","Kentucky",38.5188,-84.052,2139
+"Wheatland","Montana",46.4663,-109.8445,2138
+"Hoonah-Angoon","Alaska",58.2884,-135.643,2135
+"Wichita","Kansas",38.4821,-101.3474,2112
+"Oldham","Texas",35.405,-102.6029,2110
+"Menard","Texas",30.8898,-99.8206,2108
+"Keweenaw","Michigan",47.628,-88.4346,2102
+"Garfield","Nebraska",41.9144,-98.9914,2081
+"Mellette","South Dakota",43.5813,-100.76,2065
+"Stanton","Kansas",37.563,-101.7842,2030
+"Jerauld","South Dakota",44.0663,-98.6296,2009
+"Clark","Kansas",37.2355,-99.8203,2006
+"Buffalo","South Dakota",44.0763,-99.2049,2005
+"Worth","Missouri",40.4791,-94.4221,2001
+"Gosper","Nebraska",40.5148,-99.8307,2001
+"Cheyenne","Colorado",38.8279,-102.6035,1999
+"De Baca","New Mexico",34.3425,-104.412,1995
+"Judith Basin","Montana",47.0455,-110.266,1968
+"Oliver","North Dakota",47.1153,-101.3403,1962
+"Armstrong","Texas",34.9649,-101.3574,1950
+"Edwards","Texas",29.9827,-100.3047,1944
+"Haakon","South Dakota",44.2944,-101.54,1935
+"Dundy","Nebraska",40.1762,-101.688,1928
+"Garden","Nebraska",41.6194,-102.3354,1916
+"Dolores","Colorado",37.7517,-108.5174,1896
+"Gilliam","Oregon",45.3782,-120.2108,1896
+"Boyd","Nebraska",42.8997,-98.7665,1882
+"Hodgeman","Kansas",38.0875,-99.8979,1872
+"Piute","Utah",38.3367,-112.1273,1870
+"Eureka","Nevada",39.9839,-116.2686,1839
+"McCone","Montana",47.6452,-105.7954,1826
+"Steele","North Dakota",47.4562,-97.7246,1817
+"Golden Valley","North Dakota",46.9402,-103.8466,1796
+"Meagher","Montana",46.5982,-110.8857,1795
+"Deuel","Nebraska",41.1116,-102.3339,1770
+"Comanche","Kansas",37.1913,-99.2718,1759
+"Logan","North Dakota",46.4573,-99.4774,1743
+"Daniels","Montana",48.7838,-105.5485,1705
+"Sherman","Oregon",45.4052,-120.6894,1686
+"Powder River","Montana",45.395,-105.6302,1634
+"Cottle","Texas",34.0777,-100.2788,1624
+"Taliaferro","Georgia",33.5661,-82.8788,1596
+"Wallace","Kansas",38.9167,-101.7636,1583
+"Irion","Texas",31.3039,-100.9824,1553
+"Lane","Kansas",38.4813,-100.4664,1523
+"Throckmorton","Texas",33.1775,-99.2124,1500
+"Kiowa","Colorado",38.4327,-102.7403,1463
+"Campbell","South Dakota",45.7712,-100.0516,1458
+"Glasscock","Texas",31.8694,-101.5208,1447
+"Hyde","South Dakota",44.5473,-99.4871,1446
+"Rock","Nebraska",42.4213,-99.4499,1430
+"Wheeler","Oregon",44.7261,-120.0276,1417
+"Stonewall","Texas",33.1791,-100.2533,1412
+"Motley","Texas",34.0741,-100.7798,1362
+"Briscoe","Texas",34.5303,-101.2086,1348
+"Jackson","Colorado",40.6664,-106.3428,1316
+"Carter","Montana",45.5168,-104.5362,1305
+"Skagway","Alaska",59.563,-135.3363,1300
+"Sioux","Nebraska",42.4877,-103.7589,1298
+"Sheridan","North Dakota",47.5755,-100.3456,1289
+"Sully","South Dakota",44.7156,-100.1322,1278
+"Sterling","Texas",31.8279,-101.05,1274
+"Issaquena","Mississippi",32.7414,-90.9892,1223
+"Foard","Texas",33.9746,-99.778,1207
+"Harding","South Dakota",45.5803,-103.4958,1178
+"Prairie","Montana",46.8605,-105.378,1162
+"Alpine","California",38.5972,-119.8207,1159
+"Greeley","Kansas",38.4805,-101.806,1156
+"Lake and Peninsula","Alaska",58.6547,-156.1892,1156
+"Camas","Idaho",43.4633,-114.8058,1069
+"Garfield","Montana",47.2776,-106.9929,1051
+"Wibaux","Montana",46.9653,-104.249,1037
+"Esmeralda","Nevada",37.7847,-117.6323,1030
+"Terrell","Texas",30.225,-102.0765,903
+"Logan","Nebraska",41.5666,-100.4827,896
+"Hayes","Nebraska",40.5248,-101.0619,889
+"Billings","North Dakota",47.0236,-103.3763,886
+"Clark","Idaho",44.2839,-112.3512,885
+"Keya Paha","Nebraska",42.8789,-99.7124,875
+"Jones","South Dakota",43.9606,-100.6897,873
+"Mineral","Colorado",37.6689,-106.9241,853
+"Golden Valley","Montana",46.3812,-109.1751,814
+"Slope","North Dakota",46.4472,-103.4599,788
+"Roberts","Texas",35.8385,-100.8134,784
+"Hinsdale","Colorado",37.8215,-107.3003,781
+"Hooker","Nebraska",41.9161,-101.1353,741
+"Bristol Bay","Alaska",58.7439,-156.7,739
+"McMullen","Texas",28.3527,-98.5678,724
+"Kent","Texas",33.1814,-100.7776,704
+"Grant","Nebraska",41.915,-101.7405,691
+"Loup","Nebraska",41.9138,-99.4544,690
+"Wheeler","Nebraska",41.9148,-98.5282,689
+"Borden","Texas",32.7437,-101.4318,653
+"San Juan","Colorado",37.764,-107.6762,646
+"Banner","Nebraska",41.546,-103.7105,645
+"Treasure","Montana",46.2115,-107.2716,614
+"Yakutat","Alaska",59.8889,-140.3577,597
+"Daggett","Utah",40.8873,-109.5076,590
+"Thomas","Nebraska",41.9136,-100.5558,586
+"Blaine","Nebraska",41.9128,-99.9768,467
+"Petroleum","Montana",47.1176,-108.2502,464
+"Arthur","Nebraska",41.5689,-101.6958,439
+"Kalawao","Hawaii",21.1709,-156.9475,436
+"Harding","New Mexico",35.8579,-103.8202,432
+"McPherson","Nebraska",41.5682,-101.0604,420
+"Kenedy","Texas",26.9285,-97.7017,391
+"King","Texas",33.6165,-100.2558,279
+"Loving","Texas",31.8493,-103.58,117
