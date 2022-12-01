@@ -1,0 +1,152 @@
+"metro","lat","long","country","capital","population","code"
+"Tokyo",35.6839,139.7744,"Japan","primary",73567992,1
+"Manila",14.6,120.9833,"Philippines","primary",49204612,2
+"New York",40.6943,-73.9249,"United States","",35985606,5
+"São Paulo",-23.5504,-46.6339,"Brazil","admin",32181679,7
+"Mexico City",19.4333,-99.1333,"Mexico","primary",31681822,8
+"Ōsaka",34.752,135.4582,"Japan","admin",28966151,10
+"Shenzhen",22.535,114.054,"China","minor",22619092,16
+"Buenos Aires",-34.5997,-58.3819,"Argentina","primary",22210951,17
+"Paris",48.8566,2.3522,"France","primary",19695230,20
+"Istanbul",41.01,28.9603,"Turkey","admin",19367055,21
+"Los Angeles",34.1139,-118.4068,"United States","",18609134,23
+"Nagoya",35.1167,136.9333,"Japan","admin",16441024,30
+"Rio de Janeiro",-22.9083,-43.1964,"Brazil","admin",15827382,32
+"London",51.5072,-0.1275,"United Kingdom","primary",14821304,34
+"Chicago",41.8373,-87.6862,"United States","",12470997,39
+"Kuala Lumpur",3.1478,101.6953,"Malaysia","primary",10807820,54
+"Washington",38.9047,-77.0163,"United States","primary",10149976,61
+"Santiago",-33.45,-70.6667,"Chile","primary",10063479,62
+"Miami",25.7839,-80.2102,"United States","",9902553,65
+"Dallas",32.7936,-96.7662,"United States","",9877892,66
+"Philadelphia",40.0077,-75.1339,"United States","",9773061,67
+"Guadalajara",20.6767,-103.3475,"Mexico","admin",9312250,71
+"Madrid",40.4167,-3.7167,"Spain","primary",9079338,77
+"Toronto",43.7417,-79.3733,"Canada","admin",8819867,81
+"Boston",42.3188,-71.0846,"United States","admin",8520995,85
+"Luoyang",34.6587,112.4245,"China","",7988613,94
+"Riverside",33.9381,-117.3948,"United States","",7985397,95
+"Pune",18.5196,73.8553,"India","",7948000,96
+"San Francisco",37.7562,-122.443,"United States","",7595851,99
+"Barcelona",41.3825,2.1769,"Spain","admin",7500634,101
+"Belo Horizonte",-19.9281,-43.9419,"Brazil","admin",7490031,102
+"Atlanta",33.7627,-84.4224,"United States","admin",7266155,108
+"Houston",29.7863,-95.3889,"United States","",7017069,114
+"Phoenix",33.5722,-112.0891,"United States","admin",6822371,120
+"San Diego",32.8312,-117.1225,"United States","",6798543,122
+"Singapore",1.3,103.8,"Singapore","primary",6797905,124
+"Brussels",50.8353,4.3314,"Belgium","primary",6773793,125
+"Seattle",47.6211,-122.3244,"United States","",6469998,130
+"Cologne",50.9422,6.9578,"Germany","",6286392,134
+"Detroit",42.3834,-83.1024,"United States","",6045812,139
+"Montréal",45.5089,-73.5617,"Canada","",5965229,141
+"Taipei",25.0478,121.5319,"Taiwan","",5829309,147
+"Milan",45.4669,9.19,"Italy","admin",5684439,153
+"Suqian",33.9331,118.2831,"China","",5639806,157
+"Minneapolis",44.9635,-93.2678,"United States","",5576125,160
+"Tampa",27.9942,-82.4451,"United States","",5391455,170
+"Dortmund",51.5139,7.4653,"Germany","minor",5384948,171
+"Angeles City",15.1472,120.5847,"Philippines","admin",5317353,177
+"Denver",39.7621,-104.8759,"United States","admin",5266690,178
+"Melbourne",-37.8136,144.9631,"Australia","admin",5255084,179
+"Kaohsiung",22.6167,120.3,"Taiwan","admin",5160894,182
+"Fukuoka",33.6,130.4167,"Japan","admin",5098286,184
+"Amsterdam",52.3667,4.8833,"Netherlands","primary",5094500,186
+"Sydney",-33.865,151.2094,"Australia","admin",4899924,198
+"Lipa City",13.9411,121.1622,"Philippines","",4851926,199
+"Bridgeport",41.1918,-73.1953,"United States","",4777477,204
+"Berlin",52.5167,13.3833,"Germany","primary",4581496,209
+"Cebu City",10.293,123.902,"Philippines","admin",4236588,220
+"Naples",40.8333,14.25,"Italy","admin",4119920,223
+"Rome",41.8931,12.4828,"Italy","primary",4105266,224
+"Recife",-8.0539,-34.8808,"Brazil","admin",4100391,225
+"Vancouver",49.25,-123.1,"Canada","",4062275,228
+"Monterrey",25.6667,-100.3,"Mexico","admin",4008983,231
+"Birmingham",52.48,-1.9025,"United Kingdom","",3903648,238
+"Cleveland",41.4767,-81.6804,"United States","",3901658,239
+"Taichung",24.15,120.6667,"Taiwan","admin",3807610,243
+"Frankfurt",50.1136,8.6797,"Germany","minor",3799942,245
+"Leeds",53.7997,-1.5492,"United Kingdom","",3696271,247
+"Orlando",28.4772,-81.3369,"United States","",3693202,249
+"Porto Alegre",-30.0328,-51.23,"Brazil","admin",3662519,251
+"Stuttgart",48.7761,9.1775,"Germany","admin",3636673,254
+"Sacramento",38.5667,-121.4683,"United States","admin",3633540,255
+"Campinas",-22.9009,-47.0573,"Brazil","",3610315,259
+"Las Vegas",36.2333,-115.2654,"United States","",3582576,260
+"Salvador",-12.9708,-38.5108,"Brazil","admin",3557799,263
+"St. Louis",38.6358,-90.2451,"United States","",3513672,267
+"Portland",45.5372,-122.65,"United States","",3509135,269
+"Fortaleza",-3.7275,-38.5275,"Brazil","admin",3430071,275
+"Lisbon",38.708,-9.139,"Portugal","primary",3380738,281
+"San Jose",37.3019,-121.8486,"United States","",3160766,298
+"Brasília",-15.7939,-47.8828,"Brazil","primary",3160165,299
+"Bacolod",10.6765,122.9509,"Philippines","admin",3138556,303
+"Hartford",41.7661,-72.6834,"United States","admin",3132972,304
+"Davao",7.0667,125.6,"Philippines","admin",3106402,306
+"Pittsburgh",40.4396,-79.9762,"United States","",3059663,308
+"Baltimore",39.3051,-76.6144,"United States","",3044699,311
+"Hamburg",53.55,10,"Germany","admin",3015707,315
+"Munich",48.1375,11.575,"Germany","admin",3003850,316
+"Curitiba",-25.4297,-49.2719,"Brazil","admin",3003742,317
+"Rotterdam",51.9225,4.4792,"Netherlands","minor",2998272,319
+"Lille",50.6278,3.0583,"France","admin",2998266,320
+"Vila Nova de Gaia",41.1333,-8.6167,"Portugal","minor",2996059,321
+"Kansas City",39.1239,-94.5541,"United States","",2969778,323
+"La Paz",-16.4942,-68.1475,"Bolivia","primary",2896612,331
+"Salt Lake City",40.7777,-111.9306,"United States","admin",2796307,340
+"Haiphong",20.8,106.6667,"Vietnam","admin",2783884,341
+"Baguio City",16.4152,120.5956,"Philippines","admin",2776049,343
+"Takasaki",36.3167,139,"Japan","",2772249,344
+"Manchester",53.4794,-2.2453,"United Kingdom","",2744216,347
+"Okayama",34.65,133.9167,"Japan","admin",2690423,349
+"Puebla",19.0333,-98.1833,"Mexico","admin",2671069,350
+"Cincinnati",39.1413,-84.5061,"United States","",2656108,352
+"Brisbane",-27.4678,153.0281,"Australia","admin",2641132,356
+"Charlotte",35.208,-80.8304,"United States","",2638960,357
+"Providence",41.823,-71.4187,"United States","admin",2637663,358
+"Sapporo",43.0621,141.3544,"Japan","admin",2621790,359
+"Zhuhai",22.2769,113.5678,"China","minor",2568952,366
+"Utsunomiya",36.55,139.8833,"Japan","admin",2563677,367
+"Buffalo",42.9016,-78.8487,"United States","",2558100,368
+"Aachen",50.7762,6.0838,"Germany","minor",2547752,372
+"Zürich",47.3744,8.5411,"Switzerland","admin",2497651,381
+"Milwaukee",43.0642,-87.9673,"United States","",2453362,386
+"Bielefeld",52.0167,8.5333,"Germany","minor",2448932,389
+"San Antonio",29.4658,-98.5253,"United States","",2416702,392
+"Sendai",38.2683,140.8694,"Japan","admin",2400581,397
+"Vienna",48.2083,16.3725,"Austria","primary",2395979,400
+"Eindhoven",51.4344,5.4842,"Netherlands","minor",2383706,402
+"Austin",30.3004,-97.7522,"United States","admin",2363518,406
+"Juárez",31.7386,-106.487,"Mexico","minor",2314513,414
+"Indianapolis",39.7771,-86.1458,"United States","admin",2294680,415
+"Belém",-1.4558,-48.5039,"Brazil","admin",2274313,416
+"Legazpi City",13.1333,123.7333,"Philippines","admin",2269370,417
+"Columbus",39.9862,-82.985,"United States","admin",2254433,420
+"Virginia Beach",36.7335,-76.0435,"United States","",2201795,426
+"León de los Aldama",21.1167,-101.6833,"Mexico","minor",2178724,428
+"Auckland",-36.85,174.7833,"New Zealand","admin",2175883,430
+"Marseille",43.2964,5.37,"France","admin",2163072,432
+"Venice",45.4397,12.3319,"Italy","admin",2132033,437
+"Glasgow",55.8611,-4.25,"United Kingdom","",2120939,440
+"Mannheim",49.4878,8.4661,"Germany","minor",2116270,443
+"Raleigh",35.8325,-78.6435,"United States","admin",2114189,444
+"Butterworth",5.3992,100.3639,"Malaysia","",2098278,446
+"Warsaw",52.23,21.0111,"Poland","primary",2096526,447
+"Hamamatsu",34.7167,137.7333,"Japan","",2093393,448
+"Katowice",50.25,19,"Poland","admin",2091615,449
+"Turin",45.0667,7.7,"Italy","admin",2091469,450
+"Hiroshima",34.4,132.45,"Japan","admin",2089435,452
+"Perth",-31.9522,115.8589,"Australia","admin",2081052,453
+"McAllen",26.2273,-98.2471,"United States","",2002963,464
+"Hannover",52.3744,9.7386,"Germany","admin",1993375,466
+"Bologna",44.4939,11.3428,"Italy","admin",1984295,467
+"Valencia",39.47,-0.3764,"Spain","admin",1922842,473
+"San Carlos City",15.9281,120.3489,"Philippines","",1921287,474
+"Serra",-20.1289,-40.3078,"Brazil","",1919463,475
+"Allentown",40.5961,-75.4756,"United States","",1911138,477
+"Manaus",-3.1,-60.0167,"Brazil","admin",1875979,486
+"Murcia",37.9861,-1.1303,"Spain","admin",1855990,489
+"Lyon",45.76,4.84,"France","admin",1850089,491
+"Cabanatuan City",15.4833,120.9667,"Philippines","",1845976,493
+"Iligan",8.2333,124.25,"Philippines","admin",1832980,495
+"Cagayan de Oro",8.4833,124.65,"Philippines","admin",1807152,498
