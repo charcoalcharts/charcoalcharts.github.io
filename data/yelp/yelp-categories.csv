@@ -1,7 +1,7 @@
 alias,cat,group,color
 italian,Italian,Europe,#bfff00
 japanese,Japanese,Asia,#027ae3
-mexican,Mexican,Latin America,#ff7700
+mexican,Mexican,Latin America,#ff3b05
 chinese,Chinese,Asia,#027ae3
 tradamerican,American (Traditional),North America,#ffae00
 french,French,Europe,#bfff00
@@ -16,10 +16,10 @@ vietnamese,Vietnamese,Asia,#027ae3
 turkish,Turkish,Middle East,#02e385
 korean,Korean,Asia,#027ae3
 mideastern,Middle Eastern,Middle East,#02e385
-latin,Latin,Latin America,#ff7700
+latin,Latin,Latin America,#ff3b05
 greek,Greek,Europe,#bfff00
 british,British,Europe,#bfff00
-caribbean,Caribbean,Latin America,#ff7700
+caribbean,Caribbean,Latin America,#ff3b05
 "asianfusian,panasian,oriental",Asian Fusion,Asia,#027ae3
 modern_european,Modern European,Europe,#bfff00
 portuguese,Portuguese,Europe,#bfff00
@@ -39,9 +39,9 @@ hawaiian,Hawaiian,Pacific,#e0003c
 polish,Polish,Europe,#bfff00
 "jewish,kosher",Kosher,Widespread,#696969
 newcanadian,Canadian (New),North America,#ffae00
-cuban,Cuban,Latin America,#ff7700
+cuban,Cuban,Latin America,#ff3b05
 moroccan,Moroccan,Africa,#4ade00
-peruvian,Peruvian,Latin America,#ff7700
+peruvian,Peruvian,Latin America,#ff3b05
 persian,Persian,Middle East,#02e385
 himalayan,Himalayan,South Asia,#8902ba
 ethiopian,Ethiopian,Africa,#4ade00
@@ -66,10 +66,10 @@ singaporean,Singaporean,Asia,#027ae3
 cambodian,Cambodian,Asia,#027ae3
 syrian,Syrian,Middle East,#02e385
 "laotian,laos",Laotian,Asia,#027ae3
-argentine,Argentine,Latin America,#ff7700
+argentine,Argentine,Latin America,#ff3b05
 scandinavian,Scandinavian,Europe,#bfff00
 galician,Galician,Europe,#bfff00
-honduran,Honduran,Latin America,#ff7700
+honduran,Honduran,Latin America,#ff3b05
 lyonnais,Lyonnais,Europe,#bfff00
 srilankan,Srilankan,South Asia,#8902ba
 hungarian,Hungarian,Europe,#bfff00
@@ -84,7 +84,7 @@ beisl,Beisl,Europe,#bfff00
 "czech,czechslavakian",Czech,Europe,#bfff00
 somali,Somali,Africa,#4ade00
 andalusian,Andalusian,Europe,#bfff00
-nicaraguan,Nicaraguan,Latin America,#ff7700
+nicaraguan,Nicaraguan,Latin America,#ff3b05
 eritrean,Eritrean,Africa,#4ade00
 israeli,Israeli,Middle East,#02e385
 corsican,Corsican,Europe,#bfff00
@@ -99,7 +99,7 @@ danish,Danish,Europe,#bfff00
 eastern_european,Eastern European,Europe,#bfff00
 nikkei,Nikkei,Widespread,#696969
 newzealand,New Zealand,Down Unda,#e00096
-chilean,Chilean,Latin America,#ff7700
+chilean,Chilean,Latin America,#ff3b05
 australian,Australian,Down Unda,#e00096
 modern_australian,Modern Australian,Down Unda,#e00096
-brazilian,Brazilian,Latin America,#ff7700
+brazilian,Brazilian,Latin America,#ff3b05
