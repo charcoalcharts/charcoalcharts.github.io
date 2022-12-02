@@ -1,0 +1,105 @@
+alias,cat,group,color
+italian,Italian,Europe,#bfff00
+japanese,Japanese,Asia,#027ae3
+mexican,Mexican,Latin America,#ff7700
+chinese,Chinese,Asia,#027ae3
+tradamerican,American (Traditional),North America,#ffae00
+french,French,Europe,#bfff00
+mediterranean,Mediterranean,Widespread,#696969
+newamerican,American (New),North America,#ffae00
+indpak,Indian,South Asia,#8902ba
+spanish,Spanish,Europe,#bfff00
+thai,Thai,Asia,#027ae3
+bbq,BBQ,Widespread,#696969
+german,German,Europe,#bfff00
+vietnamese,Vietnamese,Asia,#027ae3
+turkish,Turkish,Middle East,#02e385
+korean,Korean,Asia,#027ae3
+mideastern,Middle Eastern,Middle East,#02e385
+latin,Latin,Latin America,#ff7700
+greek,Greek,Europe,#bfff00
+british,British,Europe,#bfff00
+caribbean,Caribbean,Latin America,#ff7700
+"asianfusian,panasian,oriental",Asian Fusion,Asia,#027ae3
+modern_european,Modern European,Europe,#bfff00
+portuguese,Portuguese,Europe,#bfff00
+halal,Halal,Middle East,#02e385
+international,International,Widespread,#696969
+tex-mex,Tex-Mex,North America,#ffae00
+taiwanese,Taiwanese,Asia,#027ae3
+pakistani,Pakistani,South Asia,#8902ba
+african,African,Africa,#4ade00
+austrian,Austrian,Europe,#bfff00
+soulfood,Soul Food,North America,#ffae00
+southern,Southern,North America,#ffae00
+cajun,Cajun,North America,#ffae00
+filipino,Filipino,Asia,#027ae3
+belgian,Belgian,Europe,#bfff00
+hawaiian,Hawaiian,Pacific,#e0003c
+polish,Polish,Europe,#bfff00
+"jewish,kosher",Kosher,Widespread,#696969
+newcanadian,Canadian (New),North America,#ffae00
+cuban,Cuban,Latin America,#ff7700
+moroccan,Moroccan,Africa,#4ade00
+peruvian,Peruvian,Latin America,#ff7700
+persian,Persian,Middle East,#02e385
+himalayan,Himalayan,South Asia,#8902ba
+ethiopian,Ethiopian,Africa,#4ade00
+"norcinerie,tavolacalda,trattorie",Italian (Traditional),Europe,#bfff00
+irish,Irish,Europe,#bfff00
+bavarian,Bavarian,Europe,#bfff00
+catalan,Catalan,Europe,#bfff00
+swissfood,Swiss,Europe,#bfff00
+"serbocroatian,yugoslav",Serbo-Croatian,Europe,#bfff00
+russian,Russian,Europe,#bfff00
+mongolian,Mongolian,Asia,#027ae3
+indonesian,Indonesian,Asia,#027ae3
+afghani,Afghani,Middle East,#02e385
+arabian,Arabian,Middle East,#02e385
+basque,Basque,Europe,#bfff00
+swabian,Swabian,Europe,#bfff00
+newmexican,New Mexican,North America,#ffae00
+malaysian,Malaysian,Asia,#027ae3
+bangladeshi,Bangladeshi,South Asia,#8902ba
+hkcafe,Hong Kong,Asia,#027ae3
+singaporean,Singaporean,Asia,#027ae3
+cambodian,Cambodian,Asia,#027ae3
+syrian,Syrian,Middle East,#02e385
+"laotian,laos",Laotian,Asia,#027ae3
+argentine,Argentine,Latin America,#ff7700
+scandinavian,Scandinavian,Europe,#bfff00
+galician,Galician,Europe,#bfff00
+honduran,Honduran,Latin America,#ff7700
+lyonnais,Lyonnais,Europe,#bfff00
+srilankan,Srilankan,South Asia,#8902ba
+hungarian,Hungarian,Europe,#bfff00
+georgian,Georgian,Central Asia,#02dbe3
+burmese,Burmese,Asia,#027ae3
+ukrainian,Ukrainian,Europe,#bfff00
+scottish,Scottish,Europe,#bfff00
+armenian,Armenian,Central Asia,#02dbe3
+asturian,Asturian,Europe,#bfff00
+uzbek,Uzbek,Central Asia,#02dbe3
+beisl,Beisl,Europe,#bfff00
+"czech,czechslavakian",Czech,Europe,#bfff00
+somali,Somali,Africa,#4ade00
+andalusian,Andalusian,Europe,#bfff00
+nicaraguan,Nicaraguan,Latin America,#ff7700
+eritrean,Eritrean,Africa,#4ade00
+israeli,Israeli,Middle East,#02e385
+corsican,Corsican,Europe,#bfff00
+bulgarian,Bulgarian,Europe,#bfff00
+polynesian,Polynesian,Pacific,#e0003c
+guamanian,Guamanian,Pacific,#e0003c
+romanian,Romanian,Europe,#bfff00
+iberian,Iberian,Europe,#bfff00
+slovakian,Slovakian,Europe,#bfff00
+cypriot,Cypriot,Middle East,#02e385
+danish,Danish,Europe,#bfff00
+eastern_european,Eastern European,Europe,#bfff00
+nikkei,Nikkei,Widespread,#696969
+newzealand,New Zealand,Down Unda,#e00096
+chilean,Chilean,Latin America,#ff7700
+australian,Australian,Down Unda,#e00096
+modern_australian,Modern Australian,Down Unda,#e00096
+brazilian,Brazilian,Latin America,#ff7700
