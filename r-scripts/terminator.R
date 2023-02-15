@@ -96,7 +96,7 @@ terminator <- function(time, from = -180-360, to = 180+360, by = 1) {
   }) %>%
     plyr::rbind.fill()
 
-bo=as.POSIXct(as.numeric(time),origin="1970-1-1"); attr(b,"tzone")="UTC"
+bo=as.POSIXct(as.numeric(time),origin="1970-1-1"); attr(bo,"tzone")="UTC"
 bo=as.numeric(format(as.Date(bo)-22,"%m"))
 df$night=ifelse(bo%in%3:8,-1,1)
 df
