@@ -95,7 +95,7 @@ terminator <- function(time, from = -180, to = 180, by = 0.1) {
     plyr::rbind.fill()
 
 bo=as.numeric(format(as.Date(as.POSIXct(time,origin="1970-1-1"))-22,"%m"))
-df$night=ifelse(bo%in%3:8,1,-1)
+df$night=ifelse(bo%in%3:8,-1,1)
 df
 }
 
