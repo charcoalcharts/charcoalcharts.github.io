@@ -100,9 +100,9 @@ df
 }
 
 
-shade=function(time,...){
+shade=function(time,plot=T,...){
   a=terminator(time,...)
 b=data.frame(long=c(a$long,180,-180,a$long[1]),lat=c(a$lat,c(150,150)*a$night[1],a$lat[1]))
-polygon(b$long,b$lat,border=NA,xpd=T,...)}
+if(plot) polygon(b$long,b$lat,border=NA,xpd=T,...) else return(b)}
 
 
