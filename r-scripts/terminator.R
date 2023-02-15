@@ -1,8 +1,8 @@
 # ADDS A TERMINATOR TO A MAP TO SHOW DAYTIME / NIGHTTIME REGIONS
 # Returns a dataframe of latitude and longitude for the line that separates illuminated day and dark night for any given time
 # This is just a port of the Javascript Leaflet.Terminator plugin (https://github.com/joergdietrich/Leaflet.Terminator/blob/master/L.Terminator.js)
-library(plyr)
-library(dplyr)
+#library(plyr)
+#library(dplyr)
 
 rad2deg <- function(rad) {
   (rad * 180) / (pi)
