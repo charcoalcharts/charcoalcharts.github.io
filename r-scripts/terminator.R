@@ -78,7 +78,7 @@ longitude <- function(ha, sunPos) {
   rad2deg(atan(-cos(deg2rad(ha)) / tan(deg2rad(sunPos$delta))))
 }
 
-terminator <- function(time, from = -180, to = 180, by = 0.1) {
+terminator <- function(time, from = -180-360, to = 180+360, by = 1) {
   # calculate latitude and longitude of terminator within specified range using time (in POSIXct format, e.g. `Sys.time()`)
   jDay = getJulian(time)
   gst = getGMST(jDay)
@@ -98,4 +98,11 @@ bo=as.numeric(format(as.Date(as.POSIXct(time,origin="1970-1-1"))-22,"%m"))
 df$night=ifelse(bo%in%3:8,-1,1)
 df
 }
+
+
+shade=function(time,...){
+  a=terminator(time,...)
+b=data.frame(long=c(a$long,180,-180,a$long[1]),lat=c(a$lat,c(150,150)*a$night[1],a$lat[1]))
+polygon(b$long,b$lat,border=NA,xpd=T,...)}
+
 
