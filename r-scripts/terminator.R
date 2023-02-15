@@ -102,7 +102,7 @@ df
 
 shade=function(time,from=-180-360,to=180+360,by=1,plot=T,...){
   a=terminator(time,from,to,by)
-b=data.frame(long=c(a$long,180,-180,a$long[1]),lat=c(a$lat,c(150,150)*a$night[1],a$lat[1]))
+b=data.frame(long=c(a$long,to,from,a$long[1]),lat=c(a$lat,c(150,150)*a$night[1],a$lat[1]))
 if(plot) polygon(b$long,b$lat,border=NA,xpd=T,...) else return(b)}
 
 
