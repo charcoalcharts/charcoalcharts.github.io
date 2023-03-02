@@ -30,7 +30,7 @@
       }
     </script>
     <script async
-    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDUZggZEn9MOpftH_WjCsrH-rU1El2gJ0A&callback=initMap">
+    src="https://maps.googleapis.com/maps/api/js?key=XXXkeyXXX&callback=initMap">
     </script>
   </body>
 </html>
