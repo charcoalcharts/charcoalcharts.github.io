@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
+    <meta charset="utf-8">
+    <title>Map</title>
+    <style>
+      #map {
+        height: XXXHXXXpx;
+	   width: XXXWXXXpx;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="map"></div>
+    <script>
+      function initMap() {
+        var map = new google.maps.Map(document.getElementById('map'), {
+          zoom: XXXZOOMXXX,
+          center: {lat: XXXLATXXX, lng: XXXLONGXXX},
+          disableDefaultUI: true,
+          styles: [
+    {"featureType": "landscape", "elementType": "geometry.fill", "stylers": [{"color": "XXXCOLOR1XXX"}]},
+    {"featureType": "water", "elementType": "geometry.fill", "stylers": [{"color": "#D9D9D9"}]},
+    {"featureType": "all", "elementType": "geometry.stroke", "stylers": [{"visibility": "off"}]},
+    {"featureType": "all", "elementType": "labels", "stylers": [{"visibility": "off"}]},
+    {"featureType": "road", "elementType": "geometry.fill", "stylers": [{"color": "XXXCOLOR2XXX"},{"weight": "5.00"}]}
+]
+        });
+
+      }
+    </script>
+    <script async
+    src="https://maps.googleapis.com/maps/api/js?key=XXXkeyXXX&callback=initMap">
+    </script>
+  </body>
+</html>
