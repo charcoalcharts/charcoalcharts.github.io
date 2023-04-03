@@ -26,7 +26,7 @@
 ]
         });
         
-        <-- Add Polygons -->
+        <!-- Add Polygons -->
 
       }
     </script>
