@@ -5,7 +5,7 @@ if(length(lat2)>1) a2=is.na(k) else a2=T; k[is.na(k)]=km1(lat1[a1]+ru[1],long1[a
 gl=read.csv("http://charcoalcharts.com/data/greatlakes.csv")
 plotlake=function(col=gray(.9)) for(p in unique(gl$poly)) polygon(gl$long[gl$poly==p],gl$lat[gl$poly==p],col=col,border=NA)
 
-plotCircle <- function(LatDec, LonDec, Km, n=360, data=F) {
+plotCircle <- function(LatDec, LonDec, Km, n=360, data=F, ...) {
     #LatDec = latitude in decimal degrees of the center of the circle
     #LonDec = longitude in decimal degrees
     #Km = radius of the circle in kilometers
@@ -18,7 +18,7 @@ plotCircle <- function(LatDec, LonDec, Km, n=360, data=F) {
     Lon2Rad <- Lon1Rad+atan2(sin(AngRad)*sin(Km/ER)*cos(Lat1Rad),cos(Km/ER)-sin(Lat1Rad)*sin(Lat2Rad))#Longitude of each point of the circle rearding to angle in radians
     Lat2Deg <- Lat2Rad*(180/pi)#Latitude of each point of the circle rearding to angle in degrees (conversion of radians to degrees deg = rad*(180/pi) )
     Lon2Deg <- Lon2Rad*(180/pi)#Longitude of each point of the circle rearding to angle in degrees (conversion of radians to degrees deg = rad*(180/pi) )
-    if(!data) polygon(Lon2Deg,Lat2Deg,border=NA,xpd=T,col=rgb(0,1,1,.2))
+    if(!data) polygon(Lon2Deg,Lat2Deg,...)
     if(data) data.frame(lat=Lat2Deg,long=Lon2Deg)
 }
 
