@@ -4,8 +4,6 @@ if(length(lat2)>1) a2=is.na(k) else a2=T; k[is.na(k)]=km1(lat1[a1]+ru[1],long1[a
 
 gl=read.csv("http://charcoalcharts.com/data/greatlakes.csv")
 plotlake=function(col=gray(.9)) for(p in unique(gl$poly)) polygon(gl$long[gl$poly==p],gl$lat[gl$poly==p],col=col,border=NA)
-plotlakes=function(col=gray(.9)) plotlake()
-
 
 plotCircle <- function(LatDec, LonDec, Km, n=360, data=F) {
     #LatDec = latitude in decimal degrees of the center of the circle
