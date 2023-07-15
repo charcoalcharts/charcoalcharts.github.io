@@ -24,7 +24,7 @@ rlines=function(x,y,data=F,...){
   if(data) data.frame(lat,long) else lines(long,lat,...)}}
 
 glines=function(x,y,data=F,...){
-path=gcIntermediate(cbind(x[1],y[1]),cbind(x[2],y[2]),n=101,addStartEnd=T,breakAtDateLine=T)
+path=gcIntermediate(cbind(x[1],y[1]),cbind(x[2],y[2]),n=1001,addStartEnd=T,breakAtDateLine=T)
 if(length(path)==2) path=rbind(path[[1]],c(NA,NA),path[[2]])
 if(data) data.frame(lat=path[,2],long=path[,1]) else lines(path[,1],path[,2],...)}
 
