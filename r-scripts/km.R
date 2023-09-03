@@ -3,7 +3,7 @@ km=function(lat1,long1,lat2,long2){k=km1(lat1,long1,lat2,long2); if(any(is.na(k)
 if(length(lat2)>1) a2=is.na(k) else a2=T; k[is.na(k)]=km1(lat1[a1]+ru[1],long1[a1]+ru[2],lat2[a2]+ru[3],long2[a2]+ru[4])}; k}
 
 gl=read.csv("http://charcoalcharts.com/data/greatlakes.csv")
-plotlake=function(col=gray(.9)) for(p in unique(gl$poly)) polygon(gl$long[gl$poly==p],gl$lat[gl$poly==p],col=col,border=NA)
+plotlake=function(col=gray(.9)) for(p in unique(gl$poly)) polygon(gl$long[gl$poly==p],gl$lat[gl$poly==p],col=col,border=NA,xpd=T)
 
 plotCircle <- function(LatDec, LonDec, Km, n=360, data=F, ...) {
     #LatDec = latitude in decimal degrees of the center of the circle
