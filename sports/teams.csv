@@ -1,287 +1,286 @@
-"league","lat","long","team","rank","color1","color2","class"
-"MLB",33.4454239,-112.0670095,"Arizona Diamondbacks",1,"#A71930","#E3D4AD","mlb"
-"MLB",33.89073506,-84.46814939,"Atlanta Braves",1,"#CE1141","#13274F","mlb"
-"MLB",39.28388555,-76.62191945,"Baltimore Orioles",1,"#DF4601","#FC4C02","mlb"
-"MLB",42.34670017,-71.09740019,"Boston Red Sox",1,"#BD3039","#0C2340","mlb"
-"MLB",41.94814314,-87.65537562,"Chicago Cubs",1,"#0E3386","#CC3433","mlb"
-"MLB",41.83005397,-87.63385949,"Chicago White Sox",1,"#27251F","#C4CED4","mlb"
-"MLB",39.09736413,-84.50674954,"Cincinnati Reds",1,"#C6011F","#111111","mlb"
-"MLB",41.49619491,-81.68520744,"Cleveland Guardians",1,"#00385D","#E50022","mlb"
-"MLB",39.75612972,-104.9944249,"Colorado Rockies",1,"#333366","#C4CED4","mlb"
-"MLB",42.33914906,-83.04866991,"Detroit Tigers",1,"#0C2340","#FA4616","mlb"
-"MLB",29.75712967,-95.35553576,"Houston Astros",1,"#002D62","#EB6E1F","mlb"
-"MLB",39.05156357,-94.48055024,"Kansas City Royals",1,"#004687","#BD9B60","mlb"
-"MLB",33.80042388,-117.8827428,"Los Angeles Angels",1,"#003263","#BA0021","mlb"
-"MLB",34.07399317,-118.2402158,"Los Angeles Dodgers",1,"#005A9C","#EF3E42","mlb"
-"MLB",25.77779122,-80.21986802,"Miami Marlins",1,"#00A3E0","#EF3340","mlb"
-"MLB",43.02879293,-87.97093586,"Milwaukee Brewers",1,"#ffc52f","#12284b","mlb"
-"MLB",44.9817278,-93.27782232,"Minnesota Twins",1,"#002B5C","#D31145","mlb"
-"MLB",40.75713049,-73.8458318,"New York Mets",1,"#002D72","#FF5910","mlb"
-"MLB",40.8295614,-73.92655001,"New York Yankees",1,"#003087","#E4002C","mlb"
-"MLB",36.1, -115.171667,"Athletics",1,"#003831","#EFB21E","mlb"
-"MLB",39.90591727,-75.16640937,"Philadelphia Phillies",1,"#E81828","#002d72","mlb"
-"MLB",40.44685933,-80.00567322,"Pittsburgh Pirates",1,"#27251F","#FDB827","mlb"
-"MLB",32.70759445,-117.1573471,"San Diego Padres",1,"#2F241D","#FFC425","mlb"
-"MLB",37.77844244,-122.3892698,"San Francisco Giants",1,"#FD5A1E","#27251F","mlb"
-"MLB",47.59124339,-122.3319613,"Seattle Mariners",1,"#0C2C56","#005C5C","mlb"
-"MLB",38.62271937,-90.19317495,"St. Louis Cardinals",1,"#C41E3A","#0C2340","mlb"
-"MLB",27.7680632,-82.65317753,"Tampa Bay Rays",1,"#092C5C","#8FBCE6","mlb"
-"MLB",32.75130333,-97.08278695,"Texas Rangers",1,"#003278","#C0111F","mlb"
-"MLB",43.64129064,-79.38931536,"Toronto Blue Jays",1,"#134A8E","#1D2D5C","mlb"
-"MLB",38.87334429,-77.00749728,"Washington Nationals",1,"#AB0003","#14225A","mlb"
-"NFL",33.5277,-112.262608,"Arizona Cardinals",2,"#97233F","#FFB612","nfl"
-"NFL",33.75542126,-84.4008389,"Atlanta Falcons",2,"#a71930","#a5acaf","nfl"
-"NFL",39.277969,-76.622767,"Baltimore Ravens",2,"#241773","#9E7C0C","nfl"
-"NFL",42.773739,-78.786978,"Buffalo Bills",2,"#00338D","#C60C30","nfl"
-"NFL",35.225808,-80.852861,"Carolina Panthers",2,"#0085CA","#101820","nfl"
-"NFL",41.862306,-87.616672,"Chicago Bears",2,"#0085CA","#101820","nfl"
-"NFL",39.095442,-84.516039,"Cincinnati Bengals",2,"#fb4f14","#FB4F14","nfl"
-"NFL",41.506022,-81.699564,"Cleveland Browns",2,"#311D00","#ff3c00","nfl"
-"NFL",32.747778,-97.092778,"Dallas Cowboys",2,"#003594","#041E42","nfl"
-"NFL",39.743936,-105.020097,"Denver Broncos",2,"#FB4F14","#002244","nfl"
-"NFL",42.340156,-83.045808,"Detroit Lions",2,"#0076b6","#B0B7BC","nfl"
-"NFL",44.501306,-88.062167,"Green Bay Packers",2,"#203731","#FFB612","nfl"
-"NFL",29.684781,-95.410956,"Houston Texans",2,"#03202f","#A71930","nfl"
-"NFL",39.760056,-86.163806,"Indianapolis Colts",2,"#002C5F","#A2AAAD","nfl"
-"NFL",30.323925,-81.637356,"Jacksonville Jaguars",2,"#101820","#D7A22A","nfl"
-"NFL",39.048914,-94.484039,"Kansas City Chiefs",2,"#E31837","#FFB81C","nfl"
-"NFL",36.09077111,-115.1835368,"Las Vegas Raiders",2,"#A5ACAF","#A5ACAF","nfl"
-"NFL",33.95351848,-118.3387714,"Los Angeles Chargers",2,"#0080C6","#FFC20E","nfl"
-"NFL",33.95351848,-118.3387714,"Los Angeles Rams",2,"#003594","#ffa300","nfl"
-"NFL",25.957919,-80.238842,"Miami Dolphins",2,"#008E97","#FC4C02","nfl"
-"NFL",44.973881,-93.258094,"Minnesota Vikings",2,"#4F2683","#FFC62F","nfl"
-"NFL",42.090925,-71.26435,"New England Patriots",2,"#002244","#C60C30","nfl"
-"NFL",29.950931,-90.081364,"New Orleans Saints",2,"#D3BC8D","#101820","nfl"
-"NFL",40.812194,-74.076983,"New York Giants",2,"#0B2265","#a71930","nfl"
-"NFL",40.812194,-74.076983,"New York Jets",2,"#125740","#003F2D","nfl"
-"NFL",39.900775,-75.167453,"Philadelphia Eagles",2,"#004C54","#A5ACAF","nfl"
-"NFL",40.446786,-80.015761,"Pittsburgh Steelers",2,"#FFB612","#101820","nfl"
-"NFL",37.40302067,-121.9698416,"San Francisco 49ers",2,"#AA0000","#B3995D","nfl"
-"NFL",47.595153,-122.331625,"Seattle Seahawks",2,"#002244","#69BE28","nfl"
-"NFL",27.975967,-82.50335,"Tampa Bay Buccaneers",2,"#D50A0A","#FF7900","nfl"
-"NFL",36.166461,-86.771289,"Tennessee Titans",2,"#0C2340","#4B92DB","nfl"
-"NFL",38.907697,-76.864517,"Washington Commanders",2,"#5A1414","#FFB612","nfl"
-"NBA",33.757,-84.396,"Atlanta Hawks",3,"#C8102E","#FDB927","nba"
-"NBA",42.3663028,-71.0622278,"Boston Celtics",3,"#007A33","#BA9653","nba"
-"NBA",40.683,-73.975,"Brooklyn Nets",3,"#002A60","#CD1041","nba"
-"NBA",35.225,-80.839,"Charlotte Hornets",3,"#1d1160","#00788C","nba"
-"NBA",41.88056,-87.67417,"Chicago Bulls",3,"#CE1141","#CE1141","nba"
-"NBA",41.497,-81.688,"Cleveland Cavaliers",3,"#860038","#041E42","nba"
-"NBA",32.79056,-96.81028,"Dallas Mavericks",3,"#00538C","#002B5e","nba"
-"NBA",39.74861,-105.0075,"Denver Nuggets",3,"#0E2240","#FEC524","nba"
-"NBA",42.34099949,-83.05503127,"Detroit Pistons",3,"#C8102E","#1d42ba","nba"
-"NBA",37.76807202,-122.3875433,"Golden State Warriors",3,"#1D428A","#ffc72c","nba"
-"NBA",29.751,-95.362,"Houston Rockets",3,"#CE1141","#C4CED4","nba"
-"NBA",39.764,-86.156,"Indiana Pacers",3,"#002D62","#FDBB30","nba"
-"NBA",34.04306,-118.26722,"Los Angeles Clippers",3,"#c8102E","#1d428a","nba"
-"NBA",34.04306,-118.26722,"Los Angeles Lakers",3,"#552583","#FDB927","nba"
-"NBA",35.156,-90.052,"Memphis Grizzlies",3,"#5D76A9","#12173F","nba"
-"NBA",25.781,-80.187,"Miami Heat",3,"#98002E","#F9A01B","nba"
-"NBA",43.04500961,-87.91755786,"Milwaukee Bucks",3,"#00471B","#EEE1C6","nba"
-"NBA",44.98,-93.276,"Minnesota Timberwolves",3,"#0C2340","#236192","nba"
-"NBA",29.949,-90.082,"New Orleans Pelicans",3,"#0C2340","#C8102E","nba"
-"NBA",40.75056,-73.99361,"New York Knicks",3,"#006BB6","#F58426","nba"
-"NBA",35.463,-97.515,"Oklahoma City Thunder",3,"#007ac1","#ef3b24","nba"
-"NBA",28.539,-81.384,"Orlando Magic",3,"#0077c0","#C4ced4","nba"
-"NBA",39.90111,-75.17194,"Philadelphia 76ers",3,"#006bb6","#ed174c","nba"
-"NBA",33.446,-112.071,"Phoenix Suns",3,"#1d1160","#e56020","nba"
-"NBA",45.532,-122.667,"Portland Trail Blazers",3,"#E03A3E","#E03A3E","nba"
-"NBA",38.58,-121.5,"Sacramento Kings",3,"#5a2d81","#63727A","nba"
-"NBA",29.427,-98.438,"San Antonio Spurs",3,"#c4ced4","#8a8d8f","nba"
-"NBA",43.64333,-79.37917,"Toronto Raptors",3,"#ce1141","#A1A1A4","nba"
-"NBA",40.768,-111.901,"Utah Jazz",3,"#002B5C","#00471B","nba"
-"NBA",38.89806,-77.02083,"Washington Wizards",3,"#002B5C","#e31837","nba"
-"NHL",33.80778,-117.87667,"Anaheim Ducks",4,"#F47A38","#B9975B","nhl"
-"NHL",42.3663028,-71.0622278,"Boston Bruins",4,"#FFB81C","#FFB81C","nhl"
-"NHL",42.875,-78.87639,"Buffalo Sabres",4,"#003087","#FFB81C","nhl"
-"NHL",51.0375,-114.05194,"Calgary Flames",4,"#D2001C","#FAAF19","nhl"
-"NHL",35.80333,-78.72194,"Carolina Hurricanes",4,"#CE1126","#A4A9AD","nhl"
-"NHL",41.88056,-87.67417,"Chicago Blackhawks",4,"#CF0A2C","#FF671B","nhl"
-"NHL",39.74861,-105.0075,"Colorado Avalanche",4,"#6F263D","#236192","nhl"
-"NHL",39.9692833,-83.0061111,"Columbus Blue Jackets",4,"#002654","#ce1126","nhl"
-"NHL",32.79056,-96.81028,"Dallas Stars",4,"#006847","#8F8F8C","nhl"
-"NHL",42.34099949,-83.05503127,"Detroit Red Wings",4,"#ce1126","#CE1126","nhl"
-"NHL",53.54692448,-113.4980686,"Edmonton Oilers",4,"#041E42","#FF4C00","nhl"
-"NHL",26.15833,-80.32556,"Florida Panthers",4,"#041E42","#c8102E","nhl"
-"NHL",34.04306,-118.26722,"Los Angeles Kings",4,"#111111","#A2AAAD","nhl"
-"NHL",44.94472,-93.10111,"Minnesota Wild",4,"#A6192E","#154734","nhl"
-"NHL",45.49611,-73.56944,"Montreal Canadiens",4,"#AF1E2D","#192168","nhl"
-"NHL",36.15917,-86.77861,"Nashville Predators",4,"#FFB81C","#041E42","nhl"
-"NHL",40.73361,-74.17111,"New Jersey Devils",4,"#CE1126","#CE1126","nhl"
-"NHL",40.71207568,-73.72590432,"New York Islanders",4,"#00539b","#f47d30","nhl"
-"NHL",40.75056,-73.99361,"New York Rangers",4,"#0038A8","#CE1126","nhl"
-"NHL",45.29694,-75.92722,"Ottawa Senators",4,"#DA1A32","#B79257","nhl"
-"NHL",39.90111,-75.17194,"Philadelphia Flyers",4,"#F74902","#F74902","nhl"
-"NHL",40.768,-111.901,"Utah Hockey Club",4,"#69B3E7","#010101","nhl"
-"NHL",40.43944,-79.98917,"Pittsburgh Penguins",4,"#CFC493","#FCB514","nhl"
-"NHL",37.33278,-121.90111,"San Jose Sharks",4,"#006D75","#EA7200","nhl"
-"NHL",47.62204,-122.35407,"Seattle Kraken",4,"#001628","#99d9d9","nhl"
-"NHL",38.62667,-90.2025,"St. Louis Blues",4,"#002F87","#FCB514","nhl"
-"NHL",27.94278,-82.45194,"Tampa Bay Lightning",4,"#002868","#002868","nhl"
-"NHL",43.64333,-79.37917,"Toronto Maple Leafs",4,"#00205b","#00205B","nhl"
-"NHL",49.27778,-123.10889,"Vancouver Canucks",4,"#00205B","#00843d","nhl"
-"NHL",36.10301082,-115.1784373,"Vegas Golden Knights",4,"#B4975A","#333f42","nhl"
-"NHL",38.89806,-77.02083,"Washington Capitals",4,"#041E42","#C8102E","nhl"
-"NHL",49.89278,-97.14361,"Winnipeg Jets",4,"#041E42","#004C97","nhl"
-"MLS",33.75536111,-84.40119167,"Atlanta United FC",5,"#80000a","#221f1f","mls"
-"MLS",30.38820556,-97.71986389,"Austin F.C.",5,"#00b140","#00B140","mls"
-"MLS",45.56305556,-73.5525,"CF Montréal",5,"#9EA1A2","#0033A1","mls"
-"MLS",35.22583333,-80.85277778,"Charlotte FC",5,"#1A85C8","#1A85C8","mls"
-"MLS",41.8623,-87.6167,"Chicago Fire FC",5,"#FF0000","#141946","mls"
-"MLS",39.80555556,-104.8919444,"Colorado Rapids",5,"#960A2C","#9CC2EA","mls"
-"MLS",39.96846111,-83.01708889,"Columbus Crew",5,"#FEDD00","#FEDD00","mls"
-"MLS",38.86833333,-77.01222222,"D.C. United",5,"#EF3E42","#231F20","mls"
-"MLS",39.11138889,-84.52222222,"FC Cincinnati",5,"#F05323","#263B80","mls"
-"MLS",33.15444444,-96.83527778,"FC Dallas",5,"#E81F3E","#2A4076","mls"
-"MLS",29.7522,-95.3524,"Houston Dynamo FC",5,"#101820","#FF6B00","mls"
-"MLS",26.19305556,-80.16111111,"Inter Miami CF",5,"#f7b5cd","#231f20","mls"
-"MLS",33.86444444,-118.2611111,"LA Galaxy",5,"#00245D","#0065A4","mls"
-"MLS",34.01305556,-118.285,"Los Angeles FC",5,"#c39e6d","#e31837","mls"
-"MLS",44.95277778,-93.165,"Minnesota United FC",5,"#E4E5E6","#8CD2F4","mls"
-"MLS",36.13027778,-86.76555556,"Nashville SC",5,"#ECE83A","#1F1646","mls"
-"MLS",42.09094444,-71.26434444,"New England Revolution",5,"#CE0E2D","#0A2240","mls"
-"MLS",40.82916667,-73.92638889,"New York City FC",5,"#6CACE4","#041E42","mls"
-"MLS",40.73666667,-74.15027778,"New York Red Bulls",5,"#ED1E36","#23326A","mls"
-"MLS",28.62439722,-81.38903611,"Orlando City SC",5,"#633492","#FDE192","mls"
-"MLS",39.83222222,-75.37888889,"Philadelphia Union",5,"#071B2C","#B19B69","mls"
-"MLS",45.52138889,-122.6916667,"Portland Timbers",5,"#00482B","#d69a00","mls"
-"MLS",40.582923,-111.893156,"Real Salt Lake",5,"#B30838","#013A81","mls"
-"MLS",37.35138889,-121.925,"San Jose Earthquakes",5,"#0067B1","#E31837","mls"
-"MLS",47.5952,-122.3316,"Seattle Sounders FC",5,"#005595","#5D9741","mls"
-"MLS",39.1218,-94.8237,"Sporting Kansas City",5,"#91B0D5","#002F65","mls"
-"MLS",43.63277778,-79.41861111,"Toronto FC",5,"#B81137","#455560","mls"
-"MLS",49.27666667,-123.1119444,"Vancouver Whitecaps FC",5,"#00245E","#9DC2EA","mls"
-"SEC Football",33.2082752,-87.5503836,"Alabama Crimson Tide",6,"#9e1b32","#828a8f","ncaa"
-"SEC Football",36.0680503,-94.1789239,"Arkansas Razorbacks",6,"#9D2235","#9D2235","ncaa"
-"SEC Football",32.6022075,-85.4891253,"Auburn Tigers",6,"#0C2340","#E87722","ncaa"
-"SEC Football",29.6499413,-82.3486816,"Florida Gators",6,"#0021A5","#FA4616","ncaa"
-"SEC Football",33.9498057,-83.3733392,"Georgia Bulldogs",6,"#BA0C2F","#BA0C2F","ncaa"
-"SEC Football",38.0227476,-84.5051762,"Kentucky Wildcats",6,"#0033a0","#0033A0","ncaa"
-"SEC Football",30.412035,-91.1838163,"LSU Tigers",6,"#461D7C","#FDD023","ncaa"
-"SEC Football",33.4564165,-88.7933836,"Mississippi State Bulldogs",6,"#660000","#ffffff","ncaa"
-"SEC Football",38.9358388,-92.3332116,"Missouri Tigers",6,"#F1B82D","#F1B82D","ncaa"
-"SEC Football",34.3619355,-89.5342191,"Ole Miss Rebels",6,"#CE1126","#14213D","ncaa"
-"SEC Football",33.9730884,-81.0191854,"South Carolina Gamecocks",6,"#73000A","#73000A","ncaa"
-"SEC Football",35.9550195,-83.9250108,"Tennessee Volunteers",6,"#FF8200","#58595b","ncaa"
-"SEC Football",30.6100919,-96.340104,"Texas A&M Aggies",6,"#500000","#500000","ncaa"
-"SEC Football",36.1438717,-86.808941,"Vanderbilt Commodores",6,"#866d4b","#866D4B","ncaa"
-"Big Ten Football",40.0993036,-88.2359586,"Illinois Fighting Illini",7,"#13294b","#E84A27","ncaa"
-"Big Ten Football",39.1808988,-86.5256316,"Indiana Hoosiers",7,"#990000","#EEEDEB","ncaa"
-"Big Ten Football",41.6586542,-91.5510973,"Iowa Hawkeyes",7,"#FFCD00","#FFCD00","ncaa"
-"Big Ten Football",38.9902668,-76.9472423,"Maryland Terrapins",7,"#E03a3e","#ffd520","ncaa"
-"Big Ten Football",42.7281862,-84.4848762,"Michigan State Spartans",7,"#18453B","#18453B","ncaa"
-"Big Ten Football",42.2658365,-83.7486956,"Michigan Wolverines",7,"#00274c","#ffcb05","ncaa"
-"Big Ten Football",44.976525,-93.2245462,"Minnesota Golden Gophers",7,"#7A0019","#FFCC33","ncaa"
-"Big Ten Football",40.8206975,-96.705588,"Nebraska Cornhuskers",7,"#e41c38","#fdf2d9","ncaa"
-"Big Ten Football",42.0654464,-87.6924946,"Northwestern Wildcats",7,"#4E2A84","#4E2A84","ncaa"
-"Big Ten Football",40.0016627,-83.0197277,"Ohio State Buckeyes",7,"#BB0000","#666666","ncaa"
-"Big Ten Football",40.8121958,-77.8561023,"Penn State Nittany Lions",7,"#041E42","#041E42","ncaa"
-"Big Ten Football",40.434359,-86.9184385,"Purdue Boilermakers",7,"#ceb888","#9d968D","ncaa"
-"Big Ten Football",40.5136111,-74.4652778,"Rutgers Scarlet Knights",7,"#cc0033","#5F6A72","ncaa"
-"Big Ten Football",34.1613284,-118.1676462,"UCLA Bruins",7,"#2d68c4","#f2a900","ncaa"
-"Big Ten Football",34.0140526,-118.2878754,"USC Trojans",7,"#990000","#FFC72C","ncaa"
-"Big Ten Football",43.0699446,-89.4126871,"Wisconsin Badgers",7,"#c5050c","#ffffff","ncaa"
-"Big 12 Football",31.5582015,-97.1156702,"Baylor Bears",8,"#154734","#FFB81C","ncaa"
-"Big 12 Football",42.0139693,-93.635762,"Iowa State Cyclones",8,"#C8102E","#F1BE48","ncaa"
-"Big 12 Football",38.9629418,-95.2463686,"Kansas Jayhawks",8,"#0051BA","#E8000D","ncaa"
-"Big 12 Football",39.2020041,-96.5938552,"Kansas State Wildcats",8,"#512888","#d1d1d1","ncaa"
-"Big 12 Football",35.2058537,-97.4423145,"Oklahoma Sooners",8,"#841617","#FDF9D8","ncaa"
-"Big 12 Football",36.1256372,-97.066489,"Oklahoma State Cowboys",8,"#FF7300","#FF7300","ncaa"
-"Big 12 Football",32.7096451,-97.3673559,"TCU Horned Frogs",8,"#4d1979","#a3a9ac","ncaa"
-"Big 12 Football",30.2835401,-97.7325194,"Texas Longhorns",8,"#bf5700","#333f48","ncaa"
-"Big 12 Football",33.591061,-101.8728899,"Texas Tech Red Raiders",8,"#CC0000","#CC0000","ncaa"
-"Big 12 Football",39.6501467,-79.9550833,"West Virginia Mountaineers",8,"#002855","#EAAA00","ncaa"
-"Pac-12 Football",33.426453,-111.9325733,"Arizona State Sun Devils",9,"#8C1D40","#FFC627","ncaa"
-"Pac-12 Football",32.2288391,-110.948844,"Arizona Wildcats",9,"#CC0033","#003366","ncaa"
-"Pac-12 Football",37.8706571,-122.2507783,"California Golden Bears",9,"#003262","#3B7EA1","ncaa"
-"Pac-12 Football",40.009472,-105.2668869,"Colorado Buffaloes",9,"#CFB87C","#A2A4A3","ncaa"
-"Pac-12 Football",44.0582608,-123.0684924,"Oregon Ducks",9,"#154733","#FEE123","ncaa"
-"Pac-12 Football",44.5595528,-123.2813972,"Oregon State Beavers",9,"#dc4405","#ffffff","ncaa"
-"Pac-12 Football",37.4345298,-122.1611227,"Stanford Cardinal",9,"#8C1515","#4D4F53","ncaa"
-"Pac-12 Football",40.75975,-111.8490319,"Utah Utes",9,"#CC0000","#808080","ncaa"
-"Pac-12 Football",47.6503229,-122.3016059,"Washington Huskies",9,"#4B2E83","#b7a57a","ncaa"
-"Pac-12 Football",46.7318365,-117.1604675,"Washington State Cougars",9,"#981E32","#5E6A71","ncaa"
-"ACC Football",42.3351281,-71.1664682,"Boston College Eagles",10,"#98002E","#BC9B6A","ncaa"
-"ACC Football",34.6790796,-82.8433227,"Clemson Tigers",10,"#F56600","#522D80","ncaa"
-"ACC Football",35.9953593,-78.941737,"Duke Blue Devils",10,"#003087","#ffffff","ncaa"
-"ACC Football",30.4381531,-84.3044201,"Florida State Seminoles",10,"#782F40","#CEB888","ncaa"
-"ACC Football",33.7725939,-84.3932535,"Georgia Tech Yellow Jackets",10,"#B3A369","#A28D5B","ncaa"
-"ACC Football",38.2058652,-85.7588096,"Louisville Cardinals",10,"#AD0000","#FDB913","ncaa"
-"ACC Football",25.9579665,-80.2388604,"Miami Hurricanes",10,"#F47321","#005030","ncaa"
-"ACC Football",35.8008001,-78.7195655,"NC State Wolfpack",10,"#CC0000","#CC0000","ncaa"
-"ACC Football",35.9069535,-79.0478649,"North Carolina Tar Heels",10,"#7BAFD4","#13294B","ncaa"
-"ACC Football",40.4467648,-80.0157603,"Pittsburgh Panthers",10,"#003594","#FFB81C","ncaa"
-"ACC Football",43.036233,-76.1362931,"Syracuse Orange",10,"#F76900","#000E54","ncaa"
-"ACC Football",38.0311292,-78.5139314,"Virginia Cavaliers",10,"#232D4B","#F84C1E","ncaa"
-"ACC Football",37.2199873,-80.4180643,"Virginia Tech Hokies",10,"#630031","#cf4420","ncaa"
-"ACC Football",36.1314553,-80.2554475,"Wake Forest Demon Deacons",10,"#9E7E38","#9E7E38","ncaa"
-"MAC Football",41.0725885,-81.5083528,"Akron Zips",11,"#041E42","#A89968","ncaa"
-"MAC Football",40.2159465,-85.416841,"Ball State Cardinals",11,"#BA0C2F",NA,"ncaa"
-"MAC Football",41.3780114,-83.6225,"Bowling Green Falcons",11,"#FE5000","#4F2C1D","ncaa"
-"MAC Football",42.9991427,-78.7775225,"Buffalo Bulls",11,"#005BBB",NA,"ncaa"
-"MAC Football",43.5776264,-84.7708509,"Central Michigan Chippewas",11,"#6A0032","#FFC82E","ncaa"
-"MAC Football",42.255885,-83.6473825,"Eastern Michigan Eagles",11,"#006633",NA,"ncaa"
-"MAC Football",41.1390167,-81.3136611,"Kent State Golden Flashes",11,"#002664","#EAAB00","ncaa"
-"MAC Football",39.5195186,-84.7329379,"Miami (OH) RedHawks",11,"#b61e2e",NA,"ncaa"
-"MAC Football",41.9339586,-88.7778357,"NIU Huskies",11,"#BA0C2F","#8A8D8F","ncaa"
-"MAC Football",39.3210165,-82.1029537,"Ohio Bobcats",11,"#00694E","#CDA077","ncaa"
-"MAC Football",41.6572818,-83.6135816,"Toledo Rockets",11,"#15397F","#005CB9","ncaa"
-"MAC Football",42.2855272,-85.6009176,"Western Michigan Broncos",11,"#6C4023","#B5A167","ncaa"
-"Mountain West Football",38.9970678,-104.8435166,"Air Force Falcons",12,"#003087","#8A8D8F","ncaa"
-"Mountain West Football",43.6028444,-116.1958658,"Boise State Broncos",12,"#D64309","#0033A0","ncaa"
-"Mountain West Football",40.5698925,-105.0884348,"Colorado State Rams",12,"#1E4D2B","#C8C372","ncaa"
-"Mountain West Football",36.8144001,-119.7581518,"Fresno State Bulldogs",12,"#db0032","#002e6d","ncaa"
-"Mountain West Football",21.2943297,-157.8171673,"Hawaii Rainbow Warriors",12,"#024731","#c8c8c8","ncaa"
-"Mountain West Football",39.5469709,-119.8176081,"Nevada Wolf Pack",12,"#003366","#807f84","ncaa"
-"Mountain West Football",35.0669403,-106.6283203,"New Mexico Lobos",12,"#BA0C2F","#a7a8aa","ncaa"
-"Mountain West Football",33.8643777,-118.2611426,"San Diego State Aztecs",12,"#a6192e","#A6192E","ncaa"
-"Mountain West Football",37.3196729,-121.8682899,"San Jose State Spartans",12,"#0055A2","#E5A823","ncaa"
-"Mountain West Football",36.0908665,-115.1833222,"UNLV Rebels",12,"#CF0A2C","#CAC8C8","ncaa"
-"Mountain West Football",41.7517392,-111.8115885,"Utah State Aggies",12,"#00263A","#8a8d8f","ncaa"
-"Mountain West Football",41.3117035,-105.5682847,"Wyoming Cowboys",12,"#ffc425","#492f24","ncaa"
-"Sun Belt Football",36.2116003,-81.685497,"Appalachian State Mountaineers",13,"#222222","#ffcc00","ncaa"
-"Sun Belt Football",35.8489122,-90.6671921,"Arkansas State Red Wolves",13,"#cc092f","#000000","ncaa"
-"Sun Belt Football",33.7928031,-79.0174575,"Coastal Carolina Chanticleers",13,"#006f71","#A27752","ncaa"
-"Sun Belt Football",32.4121952,-81.7831353,"Georgia Southern Eagles",13,"#011e41","#A3AAAE","ncaa"
-"Sun Belt Football",33.736095,-84.3893472,"Georgia State Panthers",13,"#0039A6","#C60C30","ncaa"
-"Sun Belt Football",38.4352952,-78.8729086,"James Madison Dukes",13,"#450084","#CBB677","ncaa"
-"Sun Belt Football",30.2158054,-92.041732,"Louisiana Ragin' Cajuns",13,"#ce181e","#0a0203","ncaa"
-"Sun Belt Football",32.5309505,-92.0660318,"Louisiana-Monroe Warhawks",13,"#840029","#FDB913","ncaa"
-"Sun Belt Football",38.4249223,-82.4210186,"Marshall Thundering Herd",13,"#00B140","#A2AAAD","ncaa"
-"Sun Belt Football",36.8889026,-76.3048892,"Old Dominion Monarchs",13,"#003057","#7C878E","ncaa"
-"Sun Belt Football",30.6966759,-88.1918231,"South Alabama Jaguars",13,"#00205B","#BF0D3E","ncaa"
-"Sun Belt Football",31.3290179,-89.3312208,"Southern Miss Golden Eagles",13,"#FFAB00","#000000","ncaa"
-"Sun Belt Football",29.8910195,-97.9255484,"Texas State Bobcats",13,"#501214","#8d734a","ncaa"
-"Sun Belt Football",31.7995116,-85.951846,"Troy Trojans",13,"#8a2432","#b3b5b8","ncaa"
-"C-USA Football",35.3104931,-80.7401126,"Charlotte 49ers",14,"#046A38","#B9975B","ncaa"
-"C-USA Football",25.7525026,-80.3778939,"FIU Panthers",14,"#081E3F","#B6862C","ncaa"
-"C-USA Football",26.3761349,-80.1016311,"Florida Atlantic Owls",14,"#003366","#CC0000","ncaa"
-"C-USA Football",32.5320245,-92.655838,"Louisiana Tech Bulldogs",14,"#002F8B","#E31B23","ncaa"
-"C-USA Football",35.8513192,-86.3681619,"Middle Tennessee Blue Raiders",14,"#0066CC","#69B3E7","ncaa"
-"C-USA Football",33.2039355,-97.1592403,"North Texas Mean Green",14,"#00853E","#00853E","ncaa"
-"C-USA Football",29.7162887,-95.4093113,"Rice Owls",14,"#00205B","#C1C6C8","ncaa"
-"C-USA Football",33.5277899,-86.8091966,"UAB Blazers",14,"#006341","#CC8A00","ncaa"
-"C-USA Football",31.7733442,-106.5079256,"UTEP Miners",14,"#FF8200","#041E42","ncaa"
-"C-USA Football",29.4169834,-98.4788143,"UTSA Roadrunners",14,"#f15a22","#0C2340","ncaa"
-"C-USA Football",36.9847323,-86.4594168,"Western Kentucky Hilltoppers",14,"#c60c30","#1E1E1E","ncaa"
-"American Football",39.131219,-84.516233,"Cincinnati Bearcats",15,"#E00122","#E00122","ncaa"
-"American Football",35.5964608,-77.3653493,"East Carolina Pirates",15,"#592A8A","#FDC82F","ncaa"
-"American Football",29.722006,-95.349174,"Houston Cougars",15,"#C8102E","#76232F","ncaa"
-"American Football",35.1210966,-89.9774275,"Memphis Tigers",15,"#003087","#898D8D","ncaa"
-"American Football",38.9847806,-76.5070716,"Navy Midshipmen",15,"#00205B","#C5B783","ncaa"
-"American Football",32.837778,-96.7826953,"SMU Mustangs",15,"#0033A0","#C8102E","ncaa"
-"American Football",27.9758691,-82.5033344,"South Florida Bulls",15,"#006747","#CFC493","ncaa"
-"American Football",39.9013695,-75.1675215,"Temple Owls",15,"#9D2235","#FFCD00","ncaa"
-"American Football",29.944616,-90.116692,"Tulane Green Wave",15,"#006747","#43B02A","ncaa"
-"American Football",36.1489569,-95.9437969,"Tulsa Golden Hurricane",15,"#002D72","#C8102E","ncaa"
-"American Football",28.6082145,-81.1926196,"UCF Knights",15,"#ffc904","#ba9b37","ncaa"
-"Independent Football",41.3875529,-73.9640708,"Army Black Knights",16,"#D4BF91","#B2B4B3","ncaa"
-"Independent Football",40.2572867,-111.6546183,"BYU Cougars",16,"#002E5D","#0062B8","ncaa"
-"Independent Football",37.3543549,-79.1751434,"Liberty Flames",16,"#002d62","#c41230","ncaa"
-"Independent Football",32.2794855,-106.7417131,"New Mexico State Aggies",16,"#861F41","#97999B","ncaa"
-"Independent Football",41.6983981,-86.233916,"Notre Dame Fighting Irish",16,"#0C2340","#c99700","ncaa"
-"Independent Football",41.759965,-72.6185678,"UConn Huskies",16,"#000e2f","#ffffff","ncaa"
-"Independent Football",42.377271,-72.5360405,"UMass Minutemen",16,"#971B2F","#572932","ncaa"
-"C-USA Football",30.713994073,-95.54211729,"Sam Houston Bearkats",14,"#f56423","#ffffff","ncaa"
-"C-USA Football",33.82027543,-85.76633701,"Jacksonville State Gamecocks",14,"#cc0000","#ffffff","ncaa"
-
+league,lat,long,team,rank,color1,color2,class
+MLB,33.44542,-112.06701,Arizona Diamondbacks, 1,#A71930,#E3D4AD,mlb
+MLB,33.89074, -84.46815,Atlanta Braves, 1,#CE1141,#13274F,mlb
+MLB,39.28389, -76.62192,Baltimore Orioles, 1,#DF4601,#FC4C02,mlb
+MLB,42.34670, -71.09740,Boston Red Sox, 1,#BD3039,#0C2340,mlb
+MLB,41.94814, -87.65538,Chicago Cubs, 1,#0E3386,#CC3433,mlb
+MLB,41.83005, -87.63386,Chicago White Sox, 1,#27251F,#C4CED4,mlb
+MLB,39.09736, -84.50675,Cincinnati Reds, 1,#C6011F,#111111,mlb
+MLB,41.49619, -81.68521,Cleveland Guardians, 1,#00385D,#E50022,mlb
+MLB,39.75613,-104.99442,Colorado Rockies, 1,#333366,#C4CED4,mlb
+MLB,42.33915, -83.04867,Detroit Tigers, 1,#0C2340,#FA4616,mlb
+MLB,29.75713, -95.35554,Houston Astros, 1,#002D62,#EB6E1F,mlb
+MLB,39.05156, -94.48055,Kansas City Royals, 1,#004687,#BD9B60,mlb
+MLB,33.80042,-117.88274,Los Angeles Angels, 1,#003263,#BA0021,mlb
+MLB,34.07399,-118.24022,Los Angeles Dodgers, 1,#005A9C,#EF3E42,mlb
+MLB,25.77779, -80.21987,Miami Marlins, 1,#00A3E0,#EF3340,mlb
+MLB,43.02879, -87.97094,Milwaukee Brewers, 1,#ffc52f,#12284b,mlb
+MLB,44.98173, -93.27782,Minnesota Twins, 1,#002B5C,#D31145,mlb
+MLB,40.75713, -73.84583,New York Mets, 1,#002D72,#FF5910,mlb
+MLB,40.82956, -73.92655,New York Yankees, 1,#003087,#E4002C,mlb
+MLB,36.10000,-115.17167,Athletics, 1,#003831,#EFB21E,mlb
+MLB,39.90592, -75.16641,Philadelphia Phillies, 1,#E81828,#002d72,mlb
+MLB,40.44686, -80.00567,Pittsburgh Pirates, 1,#27251F,#FDB827,mlb
+MLB,32.70759,-117.15735,San Diego Padres, 1,#2F241D,#FFC425,mlb
+MLB,37.77844,-122.38927,San Francisco Giants, 1,#FD5A1E,#27251F,mlb
+MLB,47.59124,-122.33196,Seattle Mariners, 1,#0C2C56,#005C5C,mlb
+MLB,38.62272, -90.19317,St. Louis Cardinals, 1,#C41E3A,#0C2340,mlb
+MLB,27.76806, -82.65318,Tampa Bay Rays, 1,#092C5C,#8FBCE6,mlb
+MLB,32.75130, -97.08279,Texas Rangers, 1,#003278,#C0111F,mlb
+MLB,43.64129, -79.38932,Toronto Blue Jays, 1,#134A8E,#1D2D5C,mlb
+MLB,38.87334, -77.00750,Washington Nationals, 1,#AB0003,#14225A,mlb
+NFL,33.52770,-112.26261,Arizona Cardinals, 2,#97233F,#FFB612,nfl
+NFL,33.75542, -84.40084,Atlanta Falcons, 2,#a71930,#a5acaf,nfl
+NFL,39.27797, -76.62277,Baltimore Ravens, 2,#241773,#9E7C0C,nfl
+NFL,42.77374, -78.78698,Buffalo Bills, 2,#00338D,#C60C30,nfl
+NFL,35.22581, -80.85286,Carolina Panthers, 2,#0085CA,#101820,nfl
+NFL,41.86231, -87.61667,Chicago Bears, 2,#0085CA,#101820,nfl
+NFL,39.09544, -84.51604,Cincinnati Bengals, 2,#fb4f14,#FB4F14,nfl
+NFL,41.50602, -81.69956,Cleveland Browns, 2,#311D00,#ff3c00,nfl
+NFL,32.74778, -97.09278,Dallas Cowboys, 2,#003594,#041E42,nfl
+NFL,39.74394,-105.02010,Denver Broncos, 2,#FB4F14,#002244,nfl
+NFL,42.34016, -83.04581,Detroit Lions, 2,#0076b6,#B0B7BC,nfl
+NFL,44.50131, -88.06217,Green Bay Packers, 2,#203731,#FFB612,nfl
+NFL,29.68478, -95.41096,Houston Texans, 2,#03202f,#A71930,nfl
+NFL,39.76006, -86.16381,Indianapolis Colts, 2,#002C5F,#A2AAAD,nfl
+NFL,30.32392, -81.63736,Jacksonville Jaguars, 2,#101820,#D7A22A,nfl
+NFL,39.04891, -94.48404,Kansas City Chiefs, 2,#E31837,#FFB81C,nfl
+NFL,36.09077,-115.18354,Las Vegas Raiders, 2,#A5ACAF,#A5ACAF,nfl
+NFL,33.95352,-118.33877,Los Angeles Chargers, 2,#0080C6,#FFC20E,nfl
+NFL,33.95352,-118.33877,Los Angeles Rams, 2,#003594,#ffa300,nfl
+NFL,25.95792, -80.23884,Miami Dolphins, 2,#008E97,#FC4C02,nfl
+NFL,44.97388, -93.25809,Minnesota Vikings, 2,#4F2683,#FFC62F,nfl
+NFL,42.09092, -71.26435,New England Patriots, 2,#002244,#C60C30,nfl
+NFL,29.95093, -90.08136,New Orleans Saints, 2,#D3BC8D,#101820,nfl
+NFL,40.81219, -74.07698,New York Giants, 2,#0B2265,#a71930,nfl
+NFL,40.81219, -74.07698,New York Jets, 2,#125740,#003F2D,nfl
+NFL,39.90078, -75.16745,Philadelphia Eagles, 2,#004C54,#A5ACAF,nfl
+NFL,40.44679, -80.01576,Pittsburgh Steelers, 2,#FFB612,#101820,nfl
+NFL,37.40302,-121.96984,San Francisco 49ers, 2,#AA0000,#B3995D,nfl
+NFL,47.59515,-122.33163,Seattle Seahawks, 2,#002244,#69BE28,nfl
+NFL,27.97597, -82.50335,Tampa Bay Buccaneers, 2,#D50A0A,#FF7900,nfl
+NFL,36.16646, -86.77129,Tennessee Titans, 2,#0C2340,#4B92DB,nfl
+NFL,38.90770, -76.86452,Washington Commanders, 2,#5A1414,#FFB612,nfl
+NBA,33.75700, -84.39600,Atlanta Hawks, 3,#C8102E,#FDB927,nba
+NBA,42.36630, -71.06223,Boston Celtics, 3,#007A33,#BA9653,nba
+NBA,40.68300, -73.97500,Brooklyn Nets, 3,#002A60,#CD1041,nba
+NBA,35.22500, -80.83900,Charlotte Hornets, 3,#1d1160,#00788C,nba
+NBA,41.88056, -87.67417,Chicago Bulls, 3,#CE1141,#CE1141,nba
+NBA,41.49700, -81.68800,Cleveland Cavaliers, 3,#860038,#041E42,nba
+NBA,32.79056, -96.81028,Dallas Mavericks, 3,#00538C,#002B5e,nba
+NBA,39.74861,-105.00750,Denver Nuggets, 3,#0E2240,#FEC524,nba
+NBA,42.34100, -83.05503,Detroit Pistons, 3,#C8102E,#1d42ba,nba
+NBA,37.76807,-122.38754,Golden State Warriors, 3,#1D428A,#ffc72c,nba
+NBA,29.75100, -95.36200,Houston Rockets, 3,#CE1141,#C4CED4,nba
+NBA,39.76400, -86.15600,Indiana Pacers, 3,#002D62,#FDBB30,nba
+NBA,34.04306,-118.26722,Los Angeles Clippers, 3,#c8102E,#1d428a,nba
+NBA,34.04306,-118.26722,Los Angeles Lakers, 3,#552583,#FDB927,nba
+NBA,35.15600, -90.05200,Memphis Grizzlies, 3,#5D76A9,#12173F,nba
+NBA,25.78100, -80.18700,Miami Heat, 3,#98002E,#F9A01B,nba
+NBA,43.04501, -87.91756,Milwaukee Bucks, 3,#00471B,#EEE1C6,nba
+NBA,44.98000, -93.27600,Minnesota Timberwolves, 3,#0C2340,#236192,nba
+NBA,29.94900, -90.08200,New Orleans Pelicans, 3,#0C2340,#C8102E,nba
+NBA,40.75056, -73.99361,New York Knicks, 3,#006BB6,#F58426,nba
+NBA,35.46300, -97.51500,Oklahoma City Thunder, 3,#007ac1,#ef3b24,nba
+NBA,28.53900, -81.38400,Orlando Magic, 3,#0077c0,#C4ced4,nba
+NBA,39.90111, -75.17194,Philadelphia 76ers, 3,#006bb6,#ed174c,nba
+NBA,33.44600,-112.07100,Phoenix Suns, 3,#1d1160,#e56020,nba
+NBA,45.53200,-122.66700,Portland Trail Blazers, 3,#E03A3E,#E03A3E,nba
+NBA,38.58000,-121.50000,Sacramento Kings, 3,#5a2d81,#63727A,nba
+NBA,29.42700, -98.43800,San Antonio Spurs, 3,#c4ced4,#8a8d8f,nba
+NBA,43.64333, -79.37917,Toronto Raptors, 3,#ce1141,#A1A1A4,nba
+NBA,40.76800,-111.90100,Utah Jazz, 3,#002B5C,#00471B,nba
+NBA,38.89806, -77.02083,Washington Wizards, 3,#002B5C,#e31837,nba
+NHL,33.80778,-117.87667,Anaheim Ducks, 4,#F47A38,#B9975B,nhl
+NHL,42.36630, -71.06223,Boston Bruins, 4,#FFB81C,#FFB81C,nhl
+NHL,42.87500, -78.87639,Buffalo Sabres, 4,#003087,#FFB81C,nhl
+NHL,51.03750,-114.05194,Calgary Flames, 4,#D2001C,#FAAF19,nhl
+NHL,35.80333, -78.72194,Carolina Hurricanes, 4,#CE1126,#A4A9AD,nhl
+NHL,41.88056, -87.67417,Chicago Blackhawks, 4,#CF0A2C,#FF671B,nhl
+NHL,39.74861,-105.00750,Colorado Avalanche, 4,#6F263D,#236192,nhl
+NHL,39.96928, -83.00611,Columbus Blue Jackets, 4,#002654,#ce1126,nhl
+NHL,32.79056, -96.81028,Dallas Stars, 4,#006847,#8F8F8C,nhl
+NHL,42.34100, -83.05503,Detroit Red Wings, 4,#ce1126,#CE1126,nhl
+NHL,53.54692,-113.49807,Edmonton Oilers, 4,#041E42,#FF4C00,nhl
+NHL,26.15833, -80.32556,Florida Panthers, 4,#041E42,#c8102E,nhl
+NHL,34.04306,-118.26722,Los Angeles Kings, 4,#111111,#A2AAAD,nhl
+NHL,44.94472, -93.10111,Minnesota Wild, 4,#A6192E,#154734,nhl
+NHL,45.49611, -73.56944,Montreal Canadiens, 4,#AF1E2D,#192168,nhl
+NHL,36.15917, -86.77861,Nashville Predators, 4,#FFB81C,#041E42,nhl
+NHL,40.73361, -74.17111,New Jersey Devils, 4,#CE1126,#CE1126,nhl
+NHL,40.71208, -73.72590,New York Islanders, 4,#00539b,#f47d30,nhl
+NHL,40.75056, -73.99361,New York Rangers, 4,#0038A8,#CE1126,nhl
+NHL,45.29694, -75.92722,Ottawa Senators, 4,#DA1A32,#B79257,nhl
+NHL,39.90111, -75.17194,Philadelphia Flyers, 4,#F74902,#F74902,nhl
+NHL,40.76800,-111.90100,Utah Mammoth, 4,#69B3E7,#010101,nhl
+NHL,40.43944, -79.98917,Pittsburgh Penguins, 4,#CFC493,#FCB514,nhl
+NHL,37.33278,-121.90111,San Jose Sharks, 4,#006D75,#EA7200,nhl
+NHL,47.62204,-122.35407,Seattle Kraken, 4,#001628,#99d9d9,nhl
+NHL,38.62667, -90.20250,St. Louis Blues, 4,#002F87,#FCB514,nhl
+NHL,27.94278, -82.45194,Tampa Bay Lightning, 4,#002868,#002868,nhl
+NHL,43.64333, -79.37917,Toronto Maple Leafs, 4,#00205b,#00205B,nhl
+NHL,49.27778,-123.10889,Vancouver Canucks, 4,#00205B,#00843d,nhl
+NHL,36.10301,-115.17844,Vegas Golden Knights, 4,#B4975A,#333f42,nhl
+NHL,38.89806, -77.02083,Washington Capitals, 4,#041E42,#C8102E,nhl
+NHL,49.89278, -97.14361,Winnipeg Jets, 4,#041E42,#004C97,nhl
+MLS,33.75536, -84.40119,Atlanta United FC, 5,#80000a,#221f1f,mls
+MLS,30.38821, -97.71986,Austin F.C., 5,#00b140,#00B140,mls
+MLS,45.56306, -73.55250,CF Montréal, 5,#9EA1A2,#0033A1,mls
+MLS,35.22583, -80.85278,Charlotte FC, 5,#1A85C8,#1A85C8,mls
+MLS,41.86230, -87.61670,Chicago Fire FC, 5,#FF0000,#141946,mls
+MLS,39.80556,-104.89194,Colorado Rapids, 5,#960A2C,#9CC2EA,mls
+MLS,39.96846, -83.01709,Columbus Crew, 5,#FEDD00,#FEDD00,mls
+MLS,38.86833, -77.01222,D.C. United, 5,#EF3E42,#231F20,mls
+MLS,39.11139, -84.52222,FC Cincinnati, 5,#F05323,#263B80,mls
+MLS,33.15444, -96.83528,FC Dallas, 5,#E81F3E,#2A4076,mls
+MLS,29.75220, -95.35240,Houston Dynamo FC, 5,#101820,#FF6B00,mls
+MLS,26.19306, -80.16111,Inter Miami CF, 5,#f7b5cd,#231f20,mls
+MLS,33.86444,-118.26111,LA Galaxy, 5,#00245D,#0065A4,mls
+MLS,34.01306,-118.28500,Los Angeles FC, 5,#c39e6d,#e31837,mls
+MLS,44.95278, -93.16500,Minnesota United FC, 5,#E4E5E6,#8CD2F4,mls
+MLS,36.13028, -86.76556,Nashville SC, 5,#ECE83A,#1F1646,mls
+MLS,42.09094, -71.26434,New England Revolution, 5,#CE0E2D,#0A2240,mls
+MLS,40.82917, -73.92639,New York City FC, 5,#6CACE4,#041E42,mls
+MLS,40.73667, -74.15028,New York Red Bulls, 5,#ED1E36,#23326A,mls
+MLS,28.62440, -81.38904,Orlando City SC, 5,#633492,#FDE192,mls
+MLS,39.83222, -75.37889,Philadelphia Union, 5,#071B2C,#B19B69,mls
+MLS,45.52139,-122.69167,Portland Timbers, 5,#00482B,#d69a00,mls
+MLS,40.58292,-111.89316,Real Salt Lake, 5,#B30838,#013A81,mls
+MLS,37.35139,-121.92500,San Jose Earthquakes, 5,#0067B1,#E31837,mls
+MLS,47.59520,-122.33160,Seattle Sounders FC, 5,#005595,#5D9741,mls
+MLS,39.12180, -94.82370,Sporting Kansas City, 5,#91B0D5,#002F65,mls
+MLS,43.63278, -79.41861,Toronto FC, 5,#B81137,#455560,mls
+MLS,49.27667,-123.11194,Vancouver Whitecaps FC, 5,#00245E,#9DC2EA,mls
+SEC Football,33.20828, -87.55038,Alabama Crimson Tide, 6,#9e1b32,#828a8f,ncaa
+SEC Football,36.06805, -94.17892,Arkansas Razorbacks, 6,#9D2235,#9D2235,ncaa
+SEC Football,32.60221, -85.48913,Auburn Tigers, 6,#0C2340,#E87722,ncaa
+SEC Football,29.64994, -82.34868,Florida Gators, 6,#0021A5,#FA4616,ncaa
+SEC Football,33.94981, -83.37334,Georgia Bulldogs, 6,#BA0C2F,#BA0C2F,ncaa
+SEC Football,38.02275, -84.50518,Kentucky Wildcats, 6,#0033a0,#0033A0,ncaa
+SEC Football,30.41203, -91.18382,LSU Tigers, 6,#461D7C,#FDD023,ncaa
+SEC Football,33.45642, -88.79338,Mississippi State Bulldogs, 6,#660000,#ffffff,ncaa
+SEC Football,38.93584, -92.33321,Missouri Tigers, 6,#F1B82D,#F1B82D,ncaa
+SEC Football,34.36194, -89.53422,Ole Miss Rebels, 6,#CE1126,#14213D,ncaa
+SEC Football,33.97309, -81.01919,South Carolina Gamecocks, 6,#73000A,#73000A,ncaa
+SEC Football,35.95502, -83.92501,Tennessee Volunteers, 6,#FF8200,#58595b,ncaa
+SEC Football,30.61009, -96.34010,Texas A&M Aggies, 6,#500000,#500000,ncaa
+SEC Football,36.14387, -86.80894,Vanderbilt Commodores, 6,#866d4b,#866D4B,ncaa
+Big Ten Football,40.09930, -88.23596,Illinois Fighting Illini, 7,#13294b,#E84A27,ncaa
+Big Ten Football,39.18090, -86.52563,Indiana Hoosiers, 7,#990000,#EEEDEB,ncaa
+Big Ten Football,41.65865, -91.55110,Iowa Hawkeyes, 7,#FFCD00,#FFCD00,ncaa
+Big Ten Football,38.99027, -76.94724,Maryland Terrapins, 7,#E03a3e,#ffd520,ncaa
+Big Ten Football,42.72819, -84.48488,Michigan State Spartans, 7,#18453B,#18453B,ncaa
+Big Ten Football,42.26584, -83.74870,Michigan Wolverines, 7,#00274c,#ffcb05,ncaa
+Big Ten Football,44.97653, -93.22455,Minnesota Golden Gophers, 7,#7A0019,#FFCC33,ncaa
+Big Ten Football,40.82070, -96.70559,Nebraska Cornhuskers, 7,#e41c38,#fdf2d9,ncaa
+Big Ten Football,42.06545, -87.69249,Northwestern Wildcats, 7,#4E2A84,#4E2A84,ncaa
+Big Ten Football,40.00166, -83.01973,Ohio State Buckeyes, 7,#BB0000,#666666,ncaa
+Big Ten Football,40.81220, -77.85610,Penn State Nittany Lions, 7,#041E42,#041E42,ncaa
+Big Ten Football,40.43436, -86.91844,Purdue Boilermakers, 7,#ceb888,#9d968D,ncaa
+Big Ten Football,40.51361, -74.46528,Rutgers Scarlet Knights, 7,#cc0033,#5F6A72,ncaa
+Big Ten Football,34.16133,-118.16765,UCLA Bruins, 7,#2d68c4,#f2a900,ncaa
+Big Ten Football,34.01405,-118.28788,USC Trojans, 7,#990000,#FFC72C,ncaa
+Big Ten Football,43.06994, -89.41269,Wisconsin Badgers, 7,#c5050c,#ffffff,ncaa
+Big 12 Football,31.55820, -97.11567,Baylor Bears, 8,#154734,#FFB81C,ncaa
+Big 12 Football,42.01397, -93.63576,Iowa State Cyclones, 8,#C8102E,#F1BE48,ncaa
+Big 12 Football,38.96294, -95.24637,Kansas Jayhawks, 8,#0051BA,#E8000D,ncaa
+Big 12 Football,39.20200, -96.59386,Kansas State Wildcats, 8,#512888,#d1d1d1,ncaa
+Big 12 Football,35.20585, -97.44231,Oklahoma Sooners, 8,#841617,#FDF9D8,ncaa
+Big 12 Football,36.12564, -97.06649,Oklahoma State Cowboys, 8,#FF7300,#FF7300,ncaa
+Big 12 Football,32.70965, -97.36736,TCU Horned Frogs, 8,#4d1979,#a3a9ac,ncaa
+Big 12 Football,30.28354, -97.73252,Texas Longhorns, 8,#bf5700,#333f48,ncaa
+Big 12 Football,33.59106,-101.87289,Texas Tech Red Raiders, 8,#CC0000,#CC0000,ncaa
+Big 12 Football,39.65015, -79.95508,West Virginia Mountaineers, 8,#002855,#EAAA00,ncaa
+Pac-12 Football,33.42645,-111.93257,Arizona State Sun Devils, 9,#8C1D40,#FFC627,ncaa
+Pac-12 Football,32.22884,-110.94884,Arizona Wildcats, 9,#CC0033,#003366,ncaa
+Pac-12 Football,37.87066,-122.25078,California Golden Bears, 9,#003262,#3B7EA1,ncaa
+Pac-12 Football,40.00947,-105.26689,Colorado Buffaloes, 9,#CFB87C,#A2A4A3,ncaa
+Pac-12 Football,44.05826,-123.06849,Oregon Ducks, 9,#154733,#FEE123,ncaa
+Pac-12 Football,44.55955,-123.28140,Oregon State Beavers, 9,#dc4405,#ffffff,ncaa
+Pac-12 Football,37.43453,-122.16112,Stanford Cardinal, 9,#8C1515,#4D4F53,ncaa
+Pac-12 Football,40.75975,-111.84903,Utah Utes, 9,#CC0000,#808080,ncaa
+Pac-12 Football,47.65032,-122.30161,Washington Huskies, 9,#4B2E83,#b7a57a,ncaa
+Pac-12 Football,46.73184,-117.16047,Washington State Cougars, 9,#981E32,#5E6A71,ncaa
+ACC Football,42.33513, -71.16647,Boston College Eagles,10,#98002E,#BC9B6A,ncaa
+ACC Football,34.67908, -82.84332,Clemson Tigers,10,#F56600,#522D80,ncaa
+ACC Football,35.99536, -78.94174,Duke Blue Devils,10,#003087,#ffffff,ncaa
+ACC Football,30.43815, -84.30442,Florida State Seminoles,10,#782F40,#CEB888,ncaa
+ACC Football,33.77259, -84.39325,Georgia Tech Yellow Jackets,10,#B3A369,#A28D5B,ncaa
+ACC Football,38.20587, -85.75881,Louisville Cardinals,10,#AD0000,#FDB913,ncaa
+ACC Football,25.95797, -80.23886,Miami Hurricanes,10,#F47321,#005030,ncaa
+ACC Football,35.80080, -78.71957,NC State Wolfpack,10,#CC0000,#CC0000,ncaa
+ACC Football,35.90695, -79.04786,North Carolina Tar Heels,10,#7BAFD4,#13294B,ncaa
+ACC Football,40.44676, -80.01576,Pittsburgh Panthers,10,#003594,#FFB81C,ncaa
+ACC Football,43.03623, -76.13629,Syracuse Orange,10,#F76900,#000E54,ncaa
+ACC Football,38.03113, -78.51393,Virginia Cavaliers,10,#232D4B,#F84C1E,ncaa
+ACC Football,37.21999, -80.41806,Virginia Tech Hokies,10,#630031,#cf4420,ncaa
+ACC Football,36.13146, -80.25545,Wake Forest Demon Deacons,10,#9E7E38,#9E7E38,ncaa
+MAC Football,41.07259, -81.50835,Akron Zips,11,#041E42,#A89968,ncaa
+MAC Football,40.21595, -85.41684,Ball State Cardinals,11,#BA0C2F,NA,ncaa
+MAC Football,41.37801, -83.62250,Bowling Green Falcons,11,#FE5000,#4F2C1D,ncaa
+MAC Football,42.99914, -78.77752,Buffalo Bulls,11,#005BBB,NA,ncaa
+MAC Football,43.57763, -84.77085,Central Michigan Chippewas,11,#6A0032,#FFC82E,ncaa
+MAC Football,42.25588, -83.64738,Eastern Michigan Eagles,11,#006633,NA,ncaa
+MAC Football,41.13902, -81.31366,Kent State Golden Flashes,11,#002664,#EAAB00,ncaa
+MAC Football,39.51952, -84.73294,Miami (OH) RedHawks,11,#b61e2e,NA,ncaa
+MAC Football,41.93396, -88.77784,NIU Huskies,11,#BA0C2F,#8A8D8F,ncaa
+MAC Football,39.32102, -82.10295,Ohio Bobcats,11,#00694E,#CDA077,ncaa
+MAC Football,41.65728, -83.61358,Toledo Rockets,11,#15397F,#005CB9,ncaa
+MAC Football,42.28553, -85.60092,Western Michigan Broncos,11,#6C4023,#B5A167,ncaa
+Mountain West Football,38.99707,-104.84352,Air Force Falcons,12,#003087,#8A8D8F,ncaa
+Mountain West Football,43.60284,-116.19587,Boise State Broncos,12,#D64309,#0033A0,ncaa
+Mountain West Football,40.56989,-105.08843,Colorado State Rams,12,#1E4D2B,#C8C372,ncaa
+Mountain West Football,36.81440,-119.75815,Fresno State Bulldogs,12,#db0032,#002e6d,ncaa
+Mountain West Football,21.29433,-157.81717,Hawaii Rainbow Warriors,12,#024731,#c8c8c8,ncaa
+Mountain West Football,39.54697,-119.81761,Nevada Wolf Pack,12,#003366,#807f84,ncaa
+Mountain West Football,35.06694,-106.62832,New Mexico Lobos,12,#BA0C2F,#a7a8aa,ncaa
+Mountain West Football,33.86438,-118.26114,San Diego State Aztecs,12,#a6192e,#A6192E,ncaa
+Mountain West Football,37.31967,-121.86829,San Jose State Spartans,12,#0055A2,#E5A823,ncaa
+Mountain West Football,36.09087,-115.18332,UNLV Rebels,12,#CF0A2C,#CAC8C8,ncaa
+Mountain West Football,41.75174,-111.81159,Utah State Aggies,12,#00263A,#8a8d8f,ncaa
+Mountain West Football,41.31170,-105.56828,Wyoming Cowboys,12,#ffc425,#492f24,ncaa
+Sun Belt Football,36.21160, -81.68550,Appalachian State Mountaineers,13,#222222,#ffcc00,ncaa
+Sun Belt Football,35.84891, -90.66719,Arkansas State Red Wolves,13,#cc092f,#000000,ncaa
+Sun Belt Football,33.79280, -79.01746,Coastal Carolina Chanticleers,13,#006f71,#A27752,ncaa
+Sun Belt Football,32.41220, -81.78314,Georgia Southern Eagles,13,#011e41,#A3AAAE,ncaa
+Sun Belt Football,33.73609, -84.38935,Georgia State Panthers,13,#0039A6,#C60C30,ncaa
+Sun Belt Football,38.43530, -78.87291,James Madison Dukes,13,#450084,#CBB677,ncaa
+Sun Belt Football,30.21581, -92.04173,Louisiana Ragin' Cajuns,13,#ce181e,#0a0203,ncaa
+Sun Belt Football,32.53095, -92.06603,Louisiana-Monroe Warhawks,13,#840029,#FDB913,ncaa
+Sun Belt Football,38.42492, -82.42102,Marshall Thundering Herd,13,#00B140,#A2AAAD,ncaa
+Sun Belt Football,36.88890, -76.30489,Old Dominion Monarchs,13,#003057,#7C878E,ncaa
+Sun Belt Football,30.69668, -88.19182,South Alabama Jaguars,13,#00205B,#BF0D3E,ncaa
+Sun Belt Football,31.32902, -89.33122,Southern Miss Golden Eagles,13,#FFAB00,#000000,ncaa
+Sun Belt Football,29.89102, -97.92555,Texas State Bobcats,13,#501214,#8d734a,ncaa
+Sun Belt Football,31.79951, -85.95185,Troy Trojans,13,#8a2432,#b3b5b8,ncaa
+C-USA Football,35.31049, -80.74011,Charlotte 49ers,14,#046A38,#B9975B,ncaa
+C-USA Football,25.75250, -80.37789,FIU Panthers,14,#081E3F,#B6862C,ncaa
+C-USA Football,26.37613, -80.10163,Florida Atlantic Owls,14,#003366,#CC0000,ncaa
+C-USA Football,32.53202, -92.65584,Louisiana Tech Bulldogs,14,#002F8B,#E31B23,ncaa
+C-USA Football,35.85132, -86.36816,Middle Tennessee Blue Raiders,14,#0066CC,#69B3E7,ncaa
+C-USA Football,33.20394, -97.15924,North Texas Mean Green,14,#00853E,#00853E,ncaa
+C-USA Football,29.71629, -95.40931,Rice Owls,14,#00205B,#C1C6C8,ncaa
+C-USA Football,33.52779, -86.80920,UAB Blazers,14,#006341,#CC8A00,ncaa
+C-USA Football,31.77334,-106.50793,UTEP Miners,14,#FF8200,#041E42,ncaa
+C-USA Football,29.41698, -98.47881,UTSA Roadrunners,14,#f15a22,#0C2340,ncaa
+C-USA Football,36.98473, -86.45942,Western Kentucky Hilltoppers,14,#c60c30,#1E1E1E,ncaa
+American Football,39.13122, -84.51623,Cincinnati Bearcats,15,#E00122,#E00122,ncaa
+American Football,35.59646, -77.36535,East Carolina Pirates,15,#592A8A,#FDC82F,ncaa
+American Football,29.72201, -95.34917,Houston Cougars,15,#C8102E,#76232F,ncaa
+American Football,35.12110, -89.97743,Memphis Tigers,15,#003087,#898D8D,ncaa
+American Football,38.98478, -76.50707,Navy Midshipmen,15,#00205B,#C5B783,ncaa
+American Football,32.83778, -96.78270,SMU Mustangs,15,#0033A0,#C8102E,ncaa
+American Football,27.97587, -82.50333,South Florida Bulls,15,#006747,#CFC493,ncaa
+American Football,39.90137, -75.16752,Temple Owls,15,#9D2235,#FFCD00,ncaa
+American Football,29.94462, -90.11669,Tulane Green Wave,15,#006747,#43B02A,ncaa
+American Football,36.14896, -95.94380,Tulsa Golden Hurricane,15,#002D72,#C8102E,ncaa
+American Football,28.60821, -81.19262,UCF Knights,15,#ffc904,#ba9b37,ncaa
+Independent Football,41.38755, -73.96407,Army Black Knights,16,#D4BF91,#B2B4B3,ncaa
+Independent Football,40.25729,-111.65462,BYU Cougars,16,#002E5D,#0062B8,ncaa
+Independent Football,37.35435, -79.17514,Liberty Flames,16,#002d62,#c41230,ncaa
+Independent Football,32.27949,-106.74171,New Mexico State Aggies,16,#861F41,#97999B,ncaa
+Independent Football,41.69840, -86.23392,Notre Dame Fighting Irish,16,#0C2340,#c99700,ncaa
+Independent Football,41.75997, -72.61857,UConn Huskies,16,#000e2f,#ffffff,ncaa
+Independent Football,42.37727, -72.53604,UMass Minutemen,16,#971B2F,#572932,ncaa
+C-USA Football,30.71399, -95.54212,Sam Houston Bearkats,14,#f56423,#ffffff,ncaa
+C-USA Football,33.82028, -85.76634,Jacksonville State Gamecocks,14,#cc0000,#ffffff,nca
