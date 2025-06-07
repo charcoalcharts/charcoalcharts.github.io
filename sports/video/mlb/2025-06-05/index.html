@@ -2,12 +2,12 @@
 <html>
 <style>
 .container {
-  display:grid;
-  grid-template-columns:repeat(auto-fill,minmax(clamp(clamp(20%,(800px - 100vw)*1000, 33%), (400px - 100vw)*1000, 100%),1fr));
-  grid-gap:0px;}
-.container video { width:100%;}
+  display:grid; 
+  grid-template-columns:repeat(auto-fill,minmax(clamp(clamp(clamp(14%, (1400px - 100vw)*1000, 20%),(800px - 100vw)*1000, 33%), (400px - 100vw)*1000, 100%),1fr));
+  grid-gap:0px}
+.container video { width:100%; border-style:solid; border-width:3px; border-color:white; }
 </style>
-<body><center><div class="container">
+<body><div class="container">
 <video controls autoplay muted loop>
   <source src="https://github.com/charcoalcharts-open/videos/raw/refs/heads/main/mlb/2025-06-05/2025-06-05+777628+BAL-SEA.mp4" type="video/mp4">
 </video>
@@ -59,4 +59,4 @@
 <video controls autoplay muted loop>
   <source src="https://github.com/charcoalcharts-open/videos/raw/refs/heads/main/mlb/2025-06-05/2025-06-05+777644+CLE-NYY.mp4" type="video/mp4">
 </video>
-</div></center></body></html>
+</div></body></html>
