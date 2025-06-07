@@ -1,11 +1,8 @@
 <!DOCTYPE html>
 <html>
 <style>
-.container {
-  display:grid; 
-  grid-template-columns:repeat(auto-fill,minmax(clamp(clamp(clamp(14%, (1400px - 100vw)*1000, 20%),(800px - 100vw)*1000, 33%), (400px - 100vw)*1000, 100%),1fr));
-  grid-gap:0px}
-.container video { width:100%; border-style:solid; border-width:3px; border-color:white; }
+body {display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 3px;}
+body video {width:100%;}
 </style>
 <body><div class="container">
 <video controls autoplay muted loop>
