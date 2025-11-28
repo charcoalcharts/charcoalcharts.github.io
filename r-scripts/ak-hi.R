@@ -14,5 +14,5 @@ mx=c(); for(j in 1:length(m$names)) mx[j]=max(map("world",m$names[j],plot=F)$x,n
 map("world",c(m$names[mx<0],"USA","USA:Alaska"),exact=T,...)}
 
 #par(fig=c(0,1,0,1)); map("usa",xpd=T)
-add.alaska=function(fig=c(0,0,.3,.3),...){par(new=T,fig=fig[c(1,3,2,4)],mar=rep(0,4)); plot(alaska(plot=F),type="n",bty="n",xaxt="n",yaxt="n"); alaska(add=T)}
-add.hawaii=function(fig=c(.25,.05,.45,.25),...){par(new=T,fig=fig[c(1,3,2,4)],mar=rep(0,4)); plot(hawaii(plot=F),type="n",bty="n",xaxt="n",yaxt="n"); hawaii(add=T)}
+add.alaska=function(fig=c(0,0,.3,.3),...){par(new=T,fig=fig[c(1,3,2,4)],mar=rep(0,4)); plot(alaska(plot=F),type="n",bty="n",xaxt="n",yaxt="n"); alaska(add=T,...)}
+add.hawaii=function(fig=c(.25,.05,.45,.25),...){par(new=T,fig=fig[c(1,3,2,4)],mar=rep(0,4)); plot(hawaii(plot=F),type="n",bty="n",xaxt="n",yaxt="n"); hawaii(add=T,...)}
