@@ -1,232 +1,151 @@
-"league","lat","long","team","color","affiliate"
-"MLB",33.4454239,-112.0670095,"Arizona Diamondbacks","#3480eb","Arizona Diamondbacks"
-"MLB",33.89073506,-84.46814939,"Atlanta Braves","#3480eb","Atlanta Braves"
-"MLB",39.28388555,-76.62191945,"Baltimore Orioles","#3480eb","Baltimore Orioles"
-"MLB",42.34670017,-71.09740019,"Boston Red Sox","#3480eb","Boston Red Sox"
-"MLB",41.94814314,-87.65537562,"Chicago Cubs","#3480eb","Chicago Cubs"
-"MLB",41.83005397,-87.63385949,"Chicago White Sox","#3480eb","Chicago White Sox"
-"MLB",39.09736413,-84.50674954,"Cincinnati Reds","#3480eb","Cincinnati Reds"
-"MLB",41.49619491,-81.68520744,"Cleveland Guardians","#3480eb","Cleveland Guardians"
-"MLB",39.75612972,-104.9944249,"Colorado Rockies","#3480eb","Colorado Rockies"
-"MLB",42.33914906,-83.04866991,"Detroit Tigers","#3480eb","Detroit Tigers"
-"MLB",29.75712967,-95.35553576,"Houston Astros","#3480eb","Houston Astros"
-"MLB",39.05156357,-94.48055024,"Kansas City Royals","#3480eb","Kansas City Royals"
-"MLB",33.80042388,-117.8827428,"Los Angeles Angels","#3480eb","Los Angeles Angels"
-"MLB",34.07399317,-118.2402158,"Los Angeles Dodgers","#3480eb","Los Angeles Dodgers"
-"MLB",25.77779122,-80.21986802,"Miami Marlins","#3480eb","Miami Marlins"
-"MLB",43.02879293,-87.97093586,"Milwaukee Brewers","#3480eb","Milwaukee Brewers"
-"MLB",44.9817278,-93.27782232,"Minnesota Twins","#3480eb","Minnesota Twins"
-"MLB",40.75713049,-73.8458318,"New York Mets","#3480eb","New York Mets"
-"MLB",40.8295614,-73.92655001,"New York Yankees","#3480eb","New York Yankees"
-"MLB",36.1, -115.171667,"Las Vegas Athletics","#3480eb","Las Vegas Athletics"
-"MLB",39.90591727,-75.16640937,"Philadelphia Phillies","#3480eb","Philadelphia Phillies"
-"MLB",40.44685933,-80.00567322,"Pittsburgh Pirates","#3480eb","Pittsburgh Pirates"
-"MLB",32.70759445,-117.1573471,"San Diego Padres","#3480eb","San Diego Padres"
-"MLB",37.77844244,-122.3892698,"San Francisco Giants","#3480eb","San Francisco Giants"
-"MLB",47.59124339,-122.3319613,"Seattle Mariners","#3480eb","Seattle Mariners"
-"MLB",38.62271937,-90.19317495,"St. Louis Cardinals","#3480eb","St. Louis Cardinals"
-"MLB",27.7680632,-82.65317753,"Tampa Bay Rays","#3480eb","Tampa Bay Rays"
-"MLB",32.75130333,-97.08278695,"Texas Rangers","#3480eb","Texas Rangers"
-"MLB",43.64129064,-79.38931536,"Toronto Blue Jays","#3480eb","Toronto Blue Jays"
-"MLB",38.87334429,-77.00749728,"Washington Nationals","#3480eb","Washington Nationals"
-"Triple-A",42.8804369,-78.8737571,"Buffalo Bisons","#a4eb34","Toronto Blue Jays"
-"Triple-A",35.2284058,-80.8486529,"Charlotte Knights","#a4eb34","Chicago White Sox"
-"Triple-A",39.9690505,-83.0110295,"Columbus Clippers","#a4eb34","Cleveland Guardians"
-"Triple-A",35.9917069,-78.9040577,"Durham Bulls","#a4eb34","Tampa Bay Rays"
-"Triple-A",34.0405035,-83.9922582,"Gwinnett Stripers","#a4eb34","Atlanta Braves"
-"Triple-A",39.7647442,-86.1686743,"Indianapolis Indians","#a4eb34","Pittsburgh Pirates"
-"Triple-A",41.5803607,-93.6158295,"Iowa Cubs","#a4eb34","Chicago Cubs"
-"Triple-A",30.3251399,-81.6426669,"Jacksonville Jumbo Shrimp","#a4eb34","Miami Marlins"
-"Triple-A",40.6258695,-75.4525766,"Lehigh Valley IronPigs","#a4eb34","Philadelphia Phillies"
-"Triple-A",38.2564595,-85.744551,"Louisville Bats","#a4eb34","Cincinnati Reds"
-"Triple-A",35.1426784,-90.0499984,"Memphis Redbirds","#a4eb34","St. Louis Cardinals"
-"Triple-A",36.1733079,-86.7851908,"Nashville Sounds","#a4eb34","Milwaukee Brewers"
-"Triple-A",36.8423801,-76.2789613,"Norfolk Tides","#a4eb34","Baltimore Orioles"
-"Triple-A",41.1518492,-96.1062178,"Omaha Storm Chasers","#a4eb34","Kansas City Royals"
-"Triple-A",43.1583188,-77.6196618,"Rochester Red Wings","#a4eb34","Washington Nationals"
-"Triple-A",41.3604931,-75.6838683,"Scranton/Wilkes-Barre RailRiders","#a4eb34","New York Yankees"
-"Triple-A",44.9508005,-93.0839589,"St. Paul Saints","#a4eb34","Minnesota Twins"
-"Triple-A",43.0791534,-76.1653622,"Syracuse Mets","#a4eb34","New York Mets"
-"Triple-A",41.6485687,-83.5386609,"Toledo Mud Hens","#a4eb34","Detroit Tigers"
-"Triple-A",42.2571342,-71.8002283,"Worcester Red Sox","#a4eb34","Boston Red Sox"
-"Triple-A",35.0699821,-106.6288602,"Albuquerque Isotopes","#a4eb34","Colorado Rockies"
-"Triple-A",31.7592956,-106.4925287,"El Paso Chihuahuas","#a4eb34","San Diego Padres"
-"Triple-A",36.1528078,-115.3296762,"Las Vegas Aviators","#a4eb34","Las Vegas Athletics"
-"Triple-A",35.465199,-97.507761,"Oklahoma City Dodgers","#a4eb34","Los Angeles Dodgers"
-"Triple-A",39.5288493,-119.8077378,"Reno Aces","#a4eb34","Arizona Diamondbacks"
-"Triple-A",30.5277278,-97.6300626,"Round Rock Express","#a4eb34","Texas Rangers"
-"Triple-A",38.5805433,-121.5135048,"Sacramento River Cats","#a4eb34","San Francisco Giants"
-"Triple-A",40.7405609,-111.8926506,"Salt Lake Bees","#a4eb34","Los Angeles Angels"
-"Triple-A",29.6223578,-95.6473025,"Sugar Land Space Cowboys","#a4eb34","Houston Astros"
-"Triple-A",47.2381224,-122.4974895,"Tacoma Rainiers","#a4eb34","Seattle Mariners"
-"Double-A",41.0781226,-81.522228,"Akron RubberDucks","#ebe134","Cleveland Guardians"
-"Double-A",40.4738534,-78.3943458,"Altoona Curve","#ebe134","Pittsburgh Pirates"
-"Double-A",42.1024611,-75.9049861,"Binghamton Rumble Ponies","#ebe134","New York Mets"
-"Double-A",38.9456405,-76.7092409,"Bowie Baysox","#ebe134","Baltimore Orioles"
-"Double-A",42.1273567,-80.0800819,"Erie SeaWolves","#ebe134","Detroit Tigers"
-"Double-A",40.2562698,-76.8899407,"Harrisburg Senators","#ebe134","Washington Nationals"
-"Double-A",41.771362,-72.6744548,"Hartford Yard Goats","#ebe134","Colorado Rockies"
-"Double-A",42.9821741,-71.4665611,"New Hampshire Fisher Cats","#ebe134","Toronto Blue Jays"
-"Double-A",43.6567897,-70.2780859,"Portland Sea Dogs","#ebe134","Boston Red Sox"
-"Double-A",40.36522,-75.9343878,"Reading Fightin Phils","#ebe134","Philadelphia Phillies"
-"Double-A",37.5697227,-77.4615923,"Richmond Flying Squirrels","#ebe134","San Francisco Giants"
-"Double-A",40.560715,-74.5530875,"Somerset Patriots","#ebe134","New York Yankees"
-"Double-A",30.3948941,-88.8926081,"Biloxi Shuckers","#ebe134","Milwaukee Brewers"
-"Double-A",33.5074516,-86.8105079,"Birmingham Barons","#ebe134","Chicago White Sox"
-"Double-A",35.054225,-85.313897,"Chattanooga Lookouts","#ebe134","Cincinnati Reds"
-"Double-A",32.2732687,-90.147697,"Mississippi Braves","#ebe134","Atlanta Braves"
-"Double-A",32.3822614,-86.3105689,"Montgomery Biscuits","#ebe134","Tampa Bay Rays"
-"Double-A",30.4044699,-87.2185787,"Pensacola Blue Wahoos","#ebe134","Miami Marlins"
-"Double-A",34.683834,-86.7253265,"Rocket City Trash Pandas","#ebe134","Los Angeles Angels"
-"Double-A",35.9888522,-83.6045896,"Tennessee Smokies","#ebe134","Chicago Cubs"
-"Double-A",35.20501,-101.8317304,"Amarillo Sod Poodles","#ebe134","Arizona Diamondbacks"
-"Double-A",34.7554963,-92.2725633,"Arkansas Travelers","#ebe134","Seattle Mariners"
-"Double-A",27.8098904,-97.3993799,"Corpus Christi Hooks","#ebe134","Houston Astros"
-"Double-A",33.1506744,-96.8236116,"Frisco RoughRiders","#ebe134","Texas Rangers"
-"Double-A",31.9870722,-102.15532,"Midland RockHounds","#ebe134","Las Vegas Athletics"
-"Double-A",36.1596679,-94.1946182,"Northwest Arkansas Naturals","#ebe134","Kansas City Royals"
-"Double-A",29.409021,-98.601061,"San Antonio Missions","#ebe134","San Diego Padres"
-"Double-A",37.2115106,-93.2794258,"Springfield Cardinals","#ebe134","St. Louis Cardinals"
-"Double-A",36.1603923,-95.9881636,"Tulsa Drillers","#ebe134","Los Angeles Dodgers"
-"Double-A",37.6813946,-97.3454435,"Wichita Wind Surge","#ebe134","Minnesota Twins"
-"High-A",42.4972901,-89.040034,"Beloit Sky Carp","#eb9b34","Miami Marlins"
-"High-A",41.9679843,-91.6864463,"Cedar Rapids Kernels","#eb9b34","Minnesota Twins"
-"High-A",39.7642862,-84.1851211,"Dayton Dragons","#eb9b34","Cincinnati Reds"
-"High-A",41.0740645,-85.1425601,"Fort Wayne TinCaps","#eb9b34","San Diego Padres"
-"High-A",43.6096869,-84.2372207,"Great Lakes Loons","#eb9b34","Los Angeles Dodgers"
-"High-A",41.6405176,-81.4362249,"Lake County Captains","#eb9b34","Cleveland Guardians"
-"High-A",42.7341667,-84.5455556,"Lansing Lugnuts","#eb9b34","Las Vegas Athletics"
-"High-A",40.6876052,-89.5975345,"Peoria Chiefs","#eb9b34","St. Louis Cardinals"
-"High-A",41.5185487,-90.5819381,"Quad Cities River Bandits","#eb9b34","Kansas City Royals"
-"High-A",41.6704425,-86.2554619,"South Bend Cubs","#eb9b34","Chicago Cubs"
-"High-A",43.0405828,-85.6594243,"West Michigan Whitecaps","#eb9b34","Detroit Tigers"
-"High-A",44.2832937,-88.4688465,"Wisconsin Timber Rattlers","#eb9b34","Milwaukee Brewers"
-"High-A",39.5307025,-76.1869062,"Aberdeen IronBirds","#eb9b34","Baltimore Orioles"
-"High-A",35.587109,-82.550106,"Asheville Tourists","#eb9b34","Houston Astros"
-"High-A",36.9967173,-86.4415035,"Bowling Green Hot Rods","#eb9b34","Tampa Bay Rays"
-"High-A",40.5746915,-73.9844176,"Brooklyn Cyclones","#eb9b34","New York Mets"
-"High-A",36.0763205,-79.7949482,"Greensboro Grasshoppers","#eb9b34","Pittsburgh Pirates"
-"High-A",34.8421855,-82.4081831,"Greenville Drive","#eb9b34","Boston Red Sox"
-"High-A",35.7491181,-81.3787739,"Hickory Crawdads","#eb9b34","Texas Rangers"
-"High-A",41.5279292,-73.9614843,"Hudson Valley Renegades","#eb9b34","New York Yankees"
-"High-A",40.0745678,-74.1877586,"Jersey Shore BlueClaws","#eb9b34","Philadelphia Phillies"
-"High-A",34.2857877,-85.1672542,"Rome Braves","#eb9b34","Atlanta Braves"
-"High-A",39.7322222,-75.565,"Wilmington Blue Rocks","#eb9b34","Washington Nationals"
-"High-A",36.0922133,-80.2548823,"Winston-Salem Dash","#eb9b34","Chicago White Sox"
-"High-A",44.0590435,-123.0654476,"Eugene Emeralds","#eb9b34","San Francisco Giants"
-"High-A",47.9667572,-122.2027218,"Everett AquaSox","#eb9b34","Seattle Mariners"
-"High-A",45.5544111,-122.9084528,"Hillsboro Hops","#eb9b34","Arizona Diamondbacks"
-"High-A",47.662196,-117.3455701,"Spokane Indians","#eb9b34","Colorado Rockies"
-"High-A",46.2669444,-119.1719444,"Tri-City Dust Devils","#eb9b34","Los Angeles Angels"
-"High-A",49.2432685,-123.1061642,"Vancouver Canadians","#eb9b34","Toronto Blue Jays"
-"Low-A",33.4852576,-81.9746885,"Augusta GreenJackets","#eb6734","Atlanta Braves"
-"Low-A",35.8168998,-78.270416,"Carolina Mudcats","#eb6734","Milwaukee Brewers"
-"Low-A",32.790528,-79.9613184,"Charleston RiverDogs","#eb6734","Tampa Bay Rays"
-"Low-A",34.0184156,-81.0312687,"Columbia Fireflies","#eb6734","Kansas City Royals"
-"Low-A",38.3699346,-75.5307018,"Delmarva Shorebirds","#eb6734","Baltimore Orioles"
-"Low-A",35.2695094,-77.5740142,"Down East Wood Ducks","#eb6734","Texas Rangers"
-"Low-A",35.0551012,-78.88346,"Fayetteville Woodpeckers","#eb6734","Houston Astros"
-"Low-A",38.3031837,-77.4605399,"Fredericksburg Nationals","#eb6734","Washington Nationals"
-"Low-A",35.4978869,-80.627349,"Kannapolis Cannon Ballers","#eb6734","Chicago White Sox"
-"Low-A",37.3927658,-79.1660142,"Lynchburg Hillcats","#eb6734","Cleveland Guardians"
-"Low-A",33.7114224,-78.8843917,"Myrtle Beach Pelicans","#eb6734","Chicago Cubs"
-"Low-A",37.285492,-80.0369146,"Salem Red Sox","#eb6734","Boston Red Sox"
-"Low-A",27.4855904,-82.5704953,"Bradenton Marauders","#eb6734","Pittsburgh Pirates"
-"Low-A",27.9709213,-82.7317194,"Clearwater Threshers","#eb6734","Philadelphia Phillies"
-"Low-A",29.2092654,-81.0159085,"Daytona Tortugas","#eb6734","Cincinnati Reds"
-"Low-A",28.0041015,-82.7872801,"Dunedin Blue Jays","#eb6734","Toronto Blue Jays"
-"Low-A",26.5380064,-81.8413127,"Fort Myers Mighty Mussels","#eb6734","Minnesota Twins"
-"Low-A",26.8904732,-80.1172481,"Jupiter Hammerheads","#eb6734","Miami Marlins"
-"Low-A",28.074499,-81.9510297,"Lakeland Flying Tigers","#eb6734","Detroit Tigers"
-"Low-A",26.8904732,-80.1172481,"Palm Beach Cardinals","#eb6734","St. Louis Cardinals"
-"Low-A",27.3251157,-80.4045971,"St. Lucie Mets","#eb6734","New York Mets"
-"Low-A",27.9797239,-82.5076636,"Tampa Tarpons","#eb6734","New York Yankees"
-"Low-A",36.732101,-119.7901958,"Fresno Grizzlies","#eb6734","Colorado Rockies"
-"Low-A",34.0972611,-117.2962513,"Inland Empire 66ers","#eb6734","Los Angeles Angels"
-"Low-A",33.6538532,-117.3033106,"Lake Elsinore Storm","#eb6734","San Diego Padres"
-"Low-A",37.6223082,-121.0009279,"Modesto Nuts","#eb6734","Seattle Mariners"
-"Low-A",34.1027043,-117.5483922,"Rancho Cucamonga Quakes","#eb6734","Los Angeles Dodgers"
-"Low-A",37.3204351,-121.8623634,"San Jose Giants","#eb6734","San Francisco Giants"
-"Low-A",37.9553349,-121.2979711,"Stockton Ports","#eb6734","Las Vegas Athletics"
-"Low-A",36.3323765,-119.3045518,"Visalia Rawhide","#eb6734","Arizona Diamondbacks"
-"Rookie",33.4007815,-111.9709335,"ACL Angels","#ff73e1","Los Angeles Angels"
-"Rookie",33.428764,-111.829657,"ACL Athletics","#ff73e1","Las Vegas Athletics"
-"Rookie",33.492228,-112.1723735,"ACL Brewers Blue","#ff73e1","Milwaukee Brewers"
-"Rookie",33.492228,-112.1723735,"ACL Brewers Gold","#ff73e1","Milwaukee Brewers"
-"Rookie",33.4311077,-111.881787,"ACL Cubs","#ff73e1","Chicago Cubs"
-"Rookie",33.5453415,-111.8851324,"ACL D-backs Black","#ff73e1","Arizona Diamondbacks"
-"Rookie",33.5453415,-111.8851324,"ACL D-backs Red","#ff73e1","Arizona Diamondbacks"
-"Rookie",33.5140994,-112.2958463,"ACL Dodgers","#ff73e1","Los Angeles Dodgers"
-"Rookie",33.4889347,-111.9207196,"ACL Giants Black","#ff73e1","San Francisco Giants"
-"Rookie",33.4889347,-111.9207196,"ACL Giants Orange","#ff73e1","San Francisco Giants"
-"Rookie",33.4291755,-112.3899889,"ACL Guardians","#ff73e1","Cleveland Guardians"
-"Rookie",33.6320953,-112.2332781,"ACL Mariners","#ff73e1","Seattle Mariners"
-"Rookie",33.6320953,-112.2332781,"ACL Padres","#ff73e1","San Diego Padres"
-"Rookie",33.6278741,-112.3782029,"ACL Rangers","#ff73e1","Texas Rangers"
-"Rookie",33.4291755,-112.3899889,"ACL Reds","#ff73e1","Cincinnati Reds"
-"Rookie",33.5453415,-111.8851324,"ACL Rockies","#ff73e1","Colorado Rockies"
-"Rookie",33.6278741,-112.3782029,"ACL Royals","#ff73e1","Kansas City Royals"
-"Rookie",33.5140994,-112.2958463,"ACL White Sox","#ff73e1","Chicago White Sox"
-"Rookie",26.7550434,-80.112931,"FCL Astros Blue","#8934eb","Houston Astros"
-"Rookie",26.7550434,-80.112931,"FCL Astros Orange","#8934eb","Houston Astros"
-"Rookie",28.0308332,-82.7568669,"FCL Blue Jays","#8934eb","Toronto Blue Jays"
-"Rookie",27.0326324,-82.3192395,"FCL Braves","#8934eb","Atlanta Braves"
-"Rookie",26.8904732,-80.1172481,"FCL Cardinals","#8934eb","St. Louis Cardinals"
-"Rookie",26.8904732,-80.1172481,"FCL Marlins","#8934eb","Miami Marlins"
-"Rookie",27.3251157,-80.4045971,"FCL Mets","#8934eb","New York Mets"
-"Rookie",26.7550434,-80.112931,"FCL Nationals","#8934eb","Washington Nationals"
-"Rookie",27.3477068,-82.5171253,"FCL Orioles","#8934eb","Baltimore Orioles"
-"Rookie",27.9738817,-82.7317765,"FCL Phillies","#8934eb","Philadelphia Phillies"
-"Rookie",27.4840419,-82.5301857,"FCL Pirates","#8934eb","Pittsburgh Pirates"
-"Rookie",26.9990783,-82.181805,"FCL Rays","#8934eb","Tampa Bay Rays"
-"Rookie",26.5512581,-81.7618295,"FCL Red Sox","#8934eb","Boston Red Sox"
-"Rookie",28.0733856,-81.94939,"FCL Tigers","#8934eb","Detroit Tigers"
-"Rookie",26.5354398,-81.8415608,"FCL Twins","#8934eb","Minnesota Twins"
-"Rookie",27.9904171,-82.5011734,"FCL Yankees","#8934eb","New York Yankees"
-"Rookie",18.46266,-69.3051234,"DSL Angels","#34baeb","Los Angeles Angels"
-"Rookie",18.5576845,-69.7012322,"DSL Astros","#34baeb","Houston Astros"
-"Rookie",18.4860575,-69.9312117,"DSL Athletics","#34baeb","Las Vegas Athletics"
-"Rookie",18.46266,-69.3051234,"DSL Blue Jays","#34baeb","Toronto Blue Jays"
-"Rookie",18.46266,-69.3051234,"DSL Braves","#34baeb","Atlanta Braves"
-"Rookie",18.46266,-69.3051234,"DSL Brewers","#34baeb","Milwaukee Brewers"
-"Rookie",18.46266,-69.3051234,"DSL Brewers/Blue Jays","#34baeb","Milwaukee Brewers Toronto Blue Jays"
-"Rookie",18.4860575,-69.9312117,"DSL Cardinals Blue","#34baeb","St. Louis Cardinals"
-"Rookie",18.4860575,-69.9312117,"DSL Cardinals Red","#34baeb","St. Louis Cardinals"
-"Rookie",18.4619687,-69.573707,"DSL Colorado","#34baeb","Colorado Rockies"
-"Rookie",18.4547535,-69.6082811,"DSL Cubs Blue","#34baeb","Chicago Cubs"
-"Rookie",18.4547535,-69.6082811,"DSL Cubs Red","#34baeb","Chicago Cubs"
-"Rookie",18.4520545,-69.6106552,"DSL Diamondbacks 1","#34baeb","Arizona Diamondbacks"
-"Rookie",18.4520545,-69.6106552,"DSL Diamondbacks 2","#34baeb","Arizona Diamondbacks"
-"Rookie",18.5576845,-69.7012322,"DSL Dodgers Bautista","#34baeb","Los Angeles Dodgers"
-"Rookie",18.5576845,-69.7012322,"DSL Dodgers Shoemaker","#34baeb","Los Angeles Dodgers"
-"Rookie",18.4547535,-69.6082811,"DSL Giants 1","#34baeb","San Francisco Giants"
-"Rookie",18.4547535,-69.6082811,"DSL Giants 2","#34baeb","San Francisco Giants"
-"Rookie",18.5576845,-69.7012322,"DSL Guardians 1","#34baeb","Cleveland Guardians"
-"Rookie",18.5576845,-69.7012322,"DSL Guardians 2","#34baeb","Cleveland Guardians"
-"Rookie",18.5576845,-69.7012322,"DSL Mariners","#34baeb","Seattle Mariners"
-"Rookie",18.4547535,-69.6082811,"DSL Marlins","#34baeb","Miami Marlins"
-"Rookie",18.4681499,-69.5845412,"DSL Mets 1","#34baeb","New York Mets"
-"Rookie",18.4681499,-69.5845412,"DSL Mets 2","#34baeb","New York Mets"
-"Rookie",18.4547535,-69.6082811,"DSL Nationals","#34baeb","Washington Nationals"
-"Rookie",18.4520545,-69.6106552,"DSL Orioles 1","#34baeb","Baltimore Orioles"
-"Rookie",18.4520545,-69.6106552,"DSL Orioles 2","#34baeb","Baltimore Orioles"
-"Rookie",18.2934094,-70.1340837,"DSL Padres","#34baeb","San Diego Padres"
-"Rookie",18.4582532,-69.573308,"DSL Phillies Red","#34baeb","Philadelphia Phillies"
-"Rookie",18.4582532,-69.573308,"DSL Phillies White","#34baeb","Philadelphia Phillies"
-"Rookie",18.2786594,-70.3335887,"DSL Pirates 1","#34baeb","Pittsburgh Pirates"
-"Rookie",18.2786594,-70.3335887,"DSL Pirates 2","#34baeb","Pittsburgh Pirates"
-"Rookie",18.4547535,-69.6082811,"DSL Rangers 1","#34baeb","Texas Rangers"
-"Rookie",18.4547535,-69.6082811,"DSL Rangers 2","#34baeb","Texas Rangers"
-"Rookie",18.5576845,-69.7012322,"DSL Rays 1","#34baeb","Tampa Bay Rays"
-"Rookie",18.5576845,-69.7012322,"DSL Rays 2","#34baeb","Tampa Bay Rays"
-"Rookie",18.4520545,-69.6106552,"DSL Reds","#34baeb","Cincinnati Reds"
-"Rookie",18.2786594,-70.3335887,"DSL Red Sox Blue","#34baeb","Boston Red Sox"
-"Rookie",18.2786594,-70.3335887,"DSL Red Sox Red","#34baeb","Boston Red Sox"
-"Rookie",18.4619687,-69.573707,"DSL Rockies","#34baeb","Colorado Rockies"
-"Rookie",18.5576845,-69.7012322,"DSL Royals 1","#34baeb","Kansas City Royals"
-"Rookie",18.5576845,-69.7012322,"DSL Royals 2","#34baeb","Kansas City Royals"
-"Rookie",18.46266,-69.3051234,"DSL Tigers 1","#34baeb","Detroit Tigers"
-"Rookie",18.46266,-69.3051234,"DSL Tigers 2","#34baeb","Detroit Tigers"
-"Rookie",18.4588705,-69.5749378,"DSL Twins","#34baeb","Minnesota Twins"
-"Rookie",18.4520545,-69.6106552,"DSL White Sox","#34baeb","Chicago White Sox"
-"Rookie",18.4598469,-69.571116,"DSL Yankees","#34baeb","New York Yankees"
+team,id,level,org,lat,long
+Arizona Diamondbacks, 109,5,Arizona Diamondbacks,33.44542,-112.06701
+Reno Aces,2310,4,Arizona Diamondbacks,39.52885,-119.80774
+Amarillo Sod Poodles,5368,3,Arizona Diamondbacks,35.20501,-101.83173
+Hillsboro Hops, 419,2,Arizona Diamondbacks,45.55441,-122.90845
+Visalia Rawhide, 516,1,Arizona Diamondbacks,36.33238,-119.30455
+Athletics, 133,5,Athletics,38.58083,-121.51366
+Las Vegas Aviators, 400,4,Athletics,36.15281,-115.32968
+Midland RockHounds, 237,3,Athletics,31.98707,-102.15532
+Lansing Lugnuts, 499,2,Athletics,42.73417, -84.54556
+Stockton Ports, 524,1,Athletics,37.95533,-121.29797
+Atlanta Braves, 144,5,Atlanta Braves,33.89074, -84.46815
+Gwinnett Stripers, 431,4,Atlanta Braves,34.04050, -83.99226
+Columbus Clingstones,6325,3,Atlanta Braves,32.45180, -84.99144
+Rome Emperors, 432,2,Atlanta Braves,34.28528, -85.16750
+Augusta GreenJackets, 478,1,Atlanta Braves,33.48526, -81.97469
+Baltimore Orioles, 110,5,Baltimore Orioles,39.28389, -76.62192
+Norfolk Tides, 568,4,Baltimore Orioles,36.84238, -76.27896
+Chesapeake Baysox, 418,3,Baltimore Orioles,38.94564, -76.70924
+Frederick Keys, 493,2,Baltimore Orioles,39.40135, -77.41309
+Delmarva Shorebirds, 548,1,Baltimore Orioles,38.36993, -75.53070
+Boston Red Sox, 111,5,Boston Red Sox,42.34670, -71.09740
+Worcester Red Sox, 533,4,Boston Red Sox,42.25713, -71.80023
+Portland Sea Dogs, 546,3,Boston Red Sox,43.65679, -70.27809
+Greenville Drive, 428,2,Boston Red Sox,34.84219, -82.40818
+Salem RidgeYaks, 414,1,Boston Red Sox,37.28549, -80.03691
+Chicago Cubs, 112,5,Chicago Cubs,41.94814, -87.65538
+Iowa Cubs, 451,4,Chicago Cubs,41.58036, -93.61583
+Knoxville Smokies, 553,3,Chicago Cubs,35.98813, -83.60486
+South Bend Cubs, 550,2,Chicago Cubs,41.67044, -86.25546
+Myrtle Beach Pelicans, 521,1,Chicago Cubs,33.71142, -78.88439
+Chicago White Sox, 145,5,Chicago White Sox,41.83005, -87.63386
+Charlotte Knights, 494,4,Chicago White Sox,35.22841, -80.84865
+Birmingham Barons, 247,3,Chicago White Sox,33.50745, -86.81051
+Winston-Salem Dash, 580,2,Chicago White Sox,36.09221, -80.25488
+Kannapolis Cannon Ballers, 487,1,Chicago White Sox,35.49789, -80.62735
+Cincinnati Reds, 113,5,Cincinnati Reds,39.09736, -84.50675
+Louisville Bats, 416,4,Cincinnati Reds,38.25646, -85.74455
+Chattanooga Lookouts, 498,3,Cincinnati Reds,35.05423, -85.31390
+Dayton Dragons, 459,2,Cincinnati Reds,39.76429, -84.18512
+Daytona Tortugas, 450,1,Cincinnati Reds,29.20927, -81.01591
+Cleveland Guardians, 114,5,Cleveland Guardians,41.49619, -81.68521
+Columbus Clippers, 445,4,Cleveland Guardians,39.96905, -83.01103
+Akron RubberDucks, 402,3,Cleveland Guardians,41.07812, -81.52223
+Lake County Captains, 437,2,Cleveland Guardians,41.64052, -81.43622
+Hill City Howlers, 481,1,Cleveland Guardians,37.39221, -79.16543
+Colorado Rockies, 115,5,Colorado Rockies,39.75613,-104.99442
+Albuquerque Isotopes, 342,4,Colorado Rockies,35.06998,-106.62886
+Hartford Yard Goats, 538,3,Colorado Rockies,41.77136, -72.67445
+Spokane Indians, 486,2,Colorado Rockies,47.66220,-117.34557
+Fresno Grizzlies, 259,1,Colorado Rockies,36.73210,-119.79020
+Detroit Tigers, 116,5,Detroit Tigers,42.33915, -83.04867
+Toledo Mud Hens, 512,4,Detroit Tigers,41.64857, -83.53866
+Erie SeaWolves, 106,3,Detroit Tigers,42.12736, -80.08008
+West Michigan Whitecaps, 582,2,Detroit Tigers,43.04058, -85.65942
+Lakeland Flying Tigers, 570,1,Detroit Tigers,28.07450, -81.95103
+Houston Astros, 117,5,Houston Astros,29.75713, -95.35554
+Sugar Land Space Cowboys,5434,4,Houston Astros,29.62236, -95.64730
+Corpus Christi Hooks, 482,3,Houston Astros,27.80989, -97.39938
+Asheville Tourists, 573,2,Houston Astros,35.58711, -82.55011
+Fayetteville Woodpeckers,3712,1,Houston Astros,35.05510, -78.88346
+Kansas City Royals, 118,5,Kansas City Royals,39.05156, -94.48055
+Omaha Storm Chasers, 541,4,Kansas City Royals,41.15185, -96.10622
+Northwest Arkansas Naturals,1350,3,Kansas City Royals,36.15967, -94.19462
+Quad Cities River Bandits, 565,2,Kansas City Royals,41.51855, -90.58194
+Columbia Fireflies,3705,1,Kansas City Royals,34.01842, -81.03127
+Los Angeles Angels, 108,5,Los Angeles Angels,33.80042,-117.88274
+Salt Lake Bees, 561,4,Los Angeles Angels,40.74056,-111.89265
+Rocket City Trash Pandas, 559,3,Los Angeles Angels,34.68383, -86.72533
+Tri-City Dust Devils, 460,2,Los Angeles Angels,46.26694,-119.17194
+Rancho Cucamonga Quakes, 526,1,Los Angeles Angels,34.10270,-117.54839
+Los Angeles Dodgers, 119,5,Los Angeles Dodgers,34.07399,-118.24022
+Oklahoma City Comets, 238,4,Los Angeles Dodgers,35.46520, -97.50776
+Tulsa Drillers, 260,3,Los Angeles Dodgers,36.16039, -95.98816
+Great Lakes Loons, 456,2,Los Angeles Dodgers,43.60969, -84.23722
+Ontario Tower Buzzers,6482,1,Los Angeles Dodgers,34.01793,-117.60349
+Miami Marlins, 146,5,Miami Marlins,25.77779, -80.21987
+Jacksonville Jumbo Shrimp, 564,4,Miami Marlins,30.32514, -81.64267
+Pensacola Blue Wahoos,4124,3,Miami Marlins,30.40447, -87.21858
+Beloit Sky Carp, 554,2,Miami Marlins,42.49729, -89.04003
+Jupiter Hammerheads, 479,1,Miami Marlins,26.89047, -80.11725
+Milwaukee Brewers, 158,5,Milwaukee Brewers,43.02879, -87.97094
+Nashville Sounds, 556,4,Milwaukee Brewers,36.17331, -86.78519
+Biloxi Shuckers,5015,3,Milwaukee Brewers,30.39489, -88.89261
+Wisconsin Timber Rattlers, 572,2,Milwaukee Brewers,44.28329, -88.46885
+Wilson Warbirds, 249,1,Milwaukee Brewers,35.72118, -77.91502
+Minnesota Twins, 142,5,Minnesota Twins,44.98173, -93.27782
+St. Paul Saints,1960,4,Minnesota Twins,44.95080, -93.08396
+Wichita Wind Surge,3898,3,Minnesota Twins,37.68139, -97.34544
+Cedar Rapids Kernels, 492,2,Minnesota Twins,41.96798, -91.68645
+Fort Myers Mighty Mussels, 509,1,Minnesota Twins,26.53801, -81.84131
+New York Mets, 121,5,New York Mets,40.75713, -73.84583
+Syracuse Mets, 552,4,New York Mets,43.07915, -76.16536
+Binghamton Rumble Ponies, 505,3,New York Mets,42.10246, -75.90499
+Brooklyn Cyclones, 453,2,New York Mets,40.57469, -73.98442
+St. Lucie Mets, 507,1,New York Mets,27.32512, -80.40460
+New York Yankees, 147,5,New York Yankees,40.82956, -73.92655
+Scranton/Wilkes-Barre RailRiders, 531,4,New York Yankees,41.36049, -75.68387
+Somerset Patriots,1956,3,New York Yankees,40.56072, -74.55309
+Hudson Valley Renegades, 537,2,New York Yankees,41.52793, -73.96148
+Tampa Tarpons, 587,1,New York Yankees,27.97972, -82.50766
+Philadelphia Phillies, 143,5,Philadelphia Phillies,39.90592, -75.16641
+Lehigh Valley IronPigs,1410,4,Philadelphia Phillies,40.62587, -75.45258
+Reading Fightin Phils, 522,3,Philadelphia Phillies,40.36522, -75.93439
+Jersey Shore BlueClaws, 427,2,Philadelphia Phillies,40.07457, -74.18776
+Clearwater Threshers, 566,1,Philadelphia Phillies,27.97092, -82.73172
+Pittsburgh Pirates, 134,5,Pittsburgh Pirates,40.44686, -80.00567
+Indianapolis Indians, 484,4,Pittsburgh Pirates,39.76474, -86.16867
+Altoona Curve, 452,3,Pittsburgh Pirates,40.47385, -78.39435
+Greensboro Grasshoppers, 477,2,Pittsburgh Pirates,36.07632, -79.79495
+Bradenton Marauders,3390,1,Pittsburgh Pirates,27.48559, -82.57050
+San Diego Padres, 135,5,San Diego Padres,32.70759,-117.15735
+El Paso Chihuahuas,4904,4,San Diego Padres,31.75930,-106.49253
+San Antonio Missions, 510,3,San Diego Padres,29.40902, -98.60106
+Fort Wayne TinCaps, 584,2,San Diego Padres,41.07406, -85.14256
+Lake Elsinore Storm, 103,1,San Diego Padres,33.65385,-117.30331
+San Francisco Giants, 137,5,San Francisco Giants,37.77844,-122.38927
+Sacramento River Cats, 105,4,San Francisco Giants,38.58054,-121.51350
+Richmond Flying Squirrels,3410,3,San Francisco Giants,37.56972, -77.46159
+Eugene Emeralds, 461,2,San Francisco Giants,44.05904,-123.06545
+San Jose Giants, 476,1,San Francisco Giants,37.32044,-121.86236
+Seattle Mariners, 136,5,Seattle Mariners,47.59124,-122.33196
+Tacoma Rainiers, 529,4,Seattle Mariners,47.23812,-122.49749
+Arkansas Travelers, 574,3,Seattle Mariners,34.75550, -92.27256
+Everett AquaSox, 403,2,Seattle Mariners,47.96676,-122.20272
+Inland Empire 66ers, 401,1,Seattle Mariners,34.09726,-117.29625
+St. Louis Cardinals, 138,5,St. Louis Cardinals,38.62272, -90.19317
+Memphis Redbirds, 235,4,St. Louis Cardinals,35.14268, -90.05000
+Springfield Cardinals, 440,3,St. Louis Cardinals,37.21151, -93.27943
+Peoria Chiefs, 443,2,St. Louis Cardinals,40.68761, -89.59753
+Palm Beach Cardinals, 279,1,St. Louis Cardinals,26.89047, -80.11725
+Tampa Bay Rays, 139,5,Tampa Bay Rays,27.76806, -82.65318
+Durham Bulls, 234,4,Tampa Bay Rays,35.99171, -78.90406
+Montgomery Biscuits, 421,3,Tampa Bay Rays,32.38226, -86.31057
+Bowling Green Hot Rods,2498,2,Tampa Bay Rays,36.99672, -86.44150
+Charleston RiverDogs, 233,1,Tampa Bay Rays,32.79053, -79.96132
+Texas Rangers, 140,5,Texas Rangers,32.75130, -97.08279
+Round Rock Express, 102,4,Texas Rangers,30.52773, -97.63006
+Frisco RoughRiders, 540,3,Texas Rangers,33.15067, -96.82361
+Hub City Spartanburgers,6324,2,Texas Rangers,34.94494, -81.93594
+Hickory Crawdads, 448,1,Texas Rangers,35.74912, -81.37877
+Toronto Blue Jays, 141,5,Toronto Blue Jays,43.64129, -79.38932
+Buffalo Bisons, 422,4,Toronto Blue Jays,42.88044, -78.87376
+New Hampshire Fisher Cats, 463,3,Toronto Blue Jays,42.98217, -71.46656
+Vancouver Canadians, 435,2,Toronto Blue Jays,49.24327,-123.10616
+Dunedin Blue Jays, 424,1,Toronto Blue Jays,28.00410, -82.78728
+Washington Nationals, 120,5,Washington Nationals,38.87334, -77.00750
+Rochester Red Wings, 534,4,Washington Nationals,43.15832, -77.61966
+Harrisburg Senators, 547,3,Washington Nationals,40.25627, -76.88994
+Wilmington Blue Rocks, 426,2,Washington Nationals,39.73222, -75.56500
+Fredericksburg Nationals, 436,1,Washington Nationals,38.30318, -77.46054
