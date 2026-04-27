@@ -34,7 +34,7 @@ get_svg_pallet=function(svg_file){
   colors <- c(fills, strokes) %>% unique %>% toupper
   img <- image_read_svg(svg_file, width = 1000, height = 1000)
   ix=c(); for(j in 1:length(colors)){dat=img %>% image_transparent(colors[j],fuzz=5) %>% .[[1]] %>% as.numeric; ix[j]=sum(dat[,,4]==0) }
-  colors[order(ix)]
+  colors[order(-ix)]
 }
 
 color_swap=function(svg_file,new_palette,old_palette=NULL,save_file_as="image_recolored.svg"){
@@ -50,7 +50,7 @@ color_swap=function(svg_file,new_palette,old_palette=NULL,save_file_as="image_re
     colors <- c(fills, strokes) %>% unique %>% toupper
     img <- image_read_svg(svg_file, width = 1000, height = 1000)
     ix=c(); for(j in 1:length(colors)){dat=img %>% image_transparent(colors[j],fuzz=5) %>% .[[1]] %>% as.numeric; ix[j]=sum(dat[,,4]==0) }
-    old_palette=colors[order(ix)]
+    old_palette=colors[order(-ix)]
   }
   old_n=length(old_palette); new_n=length(new_palette)
   if(old_n>new_n) new_palette=color_add(new_palette,old_n-new_n)
