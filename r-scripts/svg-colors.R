@@ -31,7 +31,7 @@ get_svg_pallet=function(svg_file){
   }
   fills   <- map_chr(nodes, get_attr_safe, "fill")
   strokes <- map_chr(nodes, get_attr_safe, "stroke")
-  colors <- c(fills, strokes) %>% unique %>% toupper
+  colors <- c(fills, strokes) %>% unique %>% toupper %>% .[nchar(.)==7 & substring(.,1,1)=="#"]
   img <- image_read_svg(svg_file, width = 1000, height = 1000)
   ix=c(); for(j in 1:length(colors)){dat=img %>% image_transparent(colors[j],fuzz=5) %>% .[[1]] %>% as.numeric; ix[j]=sum(dat[,,4]==0) }
   colors[order(-ix)]
@@ -47,7 +47,7 @@ color_swap=function(svg_file,new_palette,old_palette=NULL,save_file_as="image_re
     }
     fills   <- map_chr(nodes, get_attr_safe, "fill")
     strokes <- map_chr(nodes, get_attr_safe, "stroke")
-    colors <- c(fills, strokes) %>% unique %>% toupper
+    colors <- c(fills, strokes) %>% unique %>% toupper %>% .[nchar(.)==7 & substring(.,1,1)=="#"]
     img <- image_read_svg(svg_file, width = 1000, height = 1000)
     ix=c(); for(j in 1:length(colors)){dat=img %>% image_transparent(colors[j],fuzz=5) %>% .[[1]] %>% as.numeric; ix[j]=sum(dat[,,4]==0) }
     old_palette=colors[order(-ix)]
