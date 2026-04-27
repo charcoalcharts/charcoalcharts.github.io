@@ -20,6 +20,12 @@ color_add=function(pal,n=1){
 
 default_fill <- function(doc, fill = "#000000") {nodes <- xml_find_all(doc, "//*[not(@fill)]");xml_set_attr(nodes, "fill", fill); return(doc)}
 list_colors=function(doc){regmatches(as.character(doc),gregexpr("#[0-9a-fA-F]{3,6}",doc)) %>% unlist %>% unique %>% toupper}
+sort_colors=function(svg_file){
+  colors=svg_file %>% read_xml %>% default_fill %>% list_colors
+  img <- image_read_svg(svg_file, width = 1000, height = 1000)
+  ix=c(); for(j in 1:length(colors)){dat=img %>% image_transparent(colors[j],fuzz=5) %>% .[[1]] %>% as.numeric; ix[j]=sum(dat[,,4]==0) }
+  colors[order(-ix)]
+}
 
 color_swap=function(svg_file,new_palette,old_palette=NULL,save_file_as="image_recolored.svg"){
   doc0 <- read_xml(svg_file); doc=doc0 %>% default_fill
