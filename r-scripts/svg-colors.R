@@ -32,7 +32,7 @@ color_swap=function(svg_file,new_palette,old_palette=NULL,save_file_as="image_re
   old_n=length(old_palette); new_n=length(new_palette)
   if(old_n>new_n) new_palette=color_add(new_palette,old_n-new_n)
   if(old_n<new_n) new_palette=new_palette[1:old_n]
-  for(u in 1:length(op)) doc=gsub(op[u],np[u],doc,ignore.case=T)
+  for(u in 1:length(old_palette)) doc=gsub(old_palette[u],new_palette[u],doc,ignore.case=T)
   
   doc %>% as_xml_document %>% write_xml(save_file_as)
 }
