@@ -156,5 +156,5 @@ fillCircle <- function(LatDec, LonDec, Km, n = 360, ...) {
     
   }
   
-  polygon(Lon2Deg, Lat2Deg, fill=T, ...)
+  polygon(Lon2Deg, Lat2Deg, ...)
 }
