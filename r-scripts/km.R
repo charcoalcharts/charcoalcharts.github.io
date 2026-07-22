@@ -66,11 +66,14 @@ fillCircle <- function(LatDec, LonDec, Km, n = 360, ...) {
   north <- (LatDec + ddeg > 90)
   south <- (LatDec - ddeg < -90)
   
-
+  
   if((north & !south) | (north & dateline)){
     
-    i1 <- which.min(Lon2Deg+1000*(Lat2Deg<median(Lat2Deg)))
-    i2 <- which.max(Lon2Deg+1000*(Lat2Deg>median(Lat2Deg)))
+    z1=max(Lat2Deg[Lon2Deg%in%head(sort(Lon2Deg))])
+    z2=max(Lat2Deg[Lon2Deg%in%tail(sort(Lon2Deg))])
+    
+    i1 <- which.min((Lon2Deg+1000)**2+(Lat2Deg-z1)**2)
+    i2 <- which.min((Lon2Deg-1000)**2+(Lat2Deg-z2)**2)
     
     lat1 <- Lat2Deg[i1]
     lat2 <- Lat2Deg[i2]
@@ -104,8 +107,12 @@ fillCircle <- function(LatDec, LonDec, Km, n = 360, ...) {
   
   if((!north & south) | (south & dateline)){
     
-    i1 <- which.min(Lon2Deg+1000*(Lat2Deg>median(Lat2Deg)))
-    i2 <- which.max(Lon2Deg+1000*(Lat2Deg<median(Lat2Deg)))
+    z1=min(Lat2Deg[Lon2Deg%in%head(sort(Lon2Deg))])
+    z2=min(Lat2Deg[Lon2Deg%in%tail(sort(Lon2Deg))])
+    
+    i1 <- which.min((Lon2Deg+1000)**2+(Lat2Deg-z1)**2)
+    i2 <- which.min((Lon2Deg-1000)**2+(Lat2Deg-z2)**2)
+    
     
     lat1 <- Lat2Deg[i1]
     lat2 <- Lat2Deg[i2]
